@@ -37,6 +37,7 @@ testSelect.addEventListener('change', function () {
     .then(data => {
       dataSelect = JSON.parse(data);
       console.log(dataSelect)
+      isSubmit = false;
       currentIndex = 0;
       listSubmit = [];
       listResults = [];
@@ -45,15 +46,18 @@ testSelect.addEventListener('change', function () {
         "answer6": {},
         "answer17": {}
       };
-      let savedColor = {
+      savedColor = {
         "answer6": {},
         "answer17": {}
       }
       correct = 0;
-      incorrect_text = ""
+      saved_incorrect_text = {}
       quizQuestions.forEach((item) => item.classList.remove("active"));
-      quizAnswers.forEach((item) => item.classList.remove("active"));
-
+      quizAnswers.forEach((item) => {
+        item.classList.remove("active");
+        item.classList.remove("incorrect");
+      });
+      quizIncorrect.style.display = 'none'
       renderQuestion(dataSelect);
     })
     .catch(error => console.error('Error loading file:', error));
