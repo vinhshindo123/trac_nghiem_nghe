@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "question": "Study in: Brighton\nDates of courses: (6)20th June – 15th______\nStudents must not be older than: (7)______years old\nAny student can work as: an(8)________\nStudents have to be good at: (9)______\nSend an email to: (10)_______@mail.com",
+      "question": "Study in: Brighton\nDates of courses: (6)20th June – 15th __________\nStudents must not be older than: (7) __________ years old\nAny student can work as: an(8) __________ \nStudents have to be good at: (9) __________ \nSend an email to: (10) __________ @mail.com",
       "answers": [
         "",
         "",
@@ -162,7 +162,7 @@
     },
     {
       "id": 17,
-      "question": "You will hear Sophia talking to her friend about the presents that she got on her birthday. What did each person give her?\nExample:\n0 Mum G\nPeople__________Presents\n__________ A:laptop\n__________ B:music lessons\n21:Dad__________C:tablet\n22:Grandpa__________D:ring\n23:Sister__________E:concert tickets\n24:Lucas__________F:necklace\n25:Aunt__________G:keyboard\n_________H:mobile phone",
+      "question": "You will hear Sophia talking to her friend about the presents that she got on her birthday. What did each person give her?\nExample:\n0 Mum G\nPeople \t\t\t Presents\n A:laptop\n B:music lessons\n21:Dad __________ C:tablet\n22:Grandpa __________ D:ring\n23:Sister __________ E:concert tickets\n24:Lucas __________ F:necklace\n25:Aunt __________ G:keyboard\n _________H:mobile phone",
       "answers": [
         "",
         "",
