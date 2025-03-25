@@ -161,7 +161,7 @@
     },
     {
       "id": 17,
-      "question": "You will hear Richard talking to Anya about the weather this week. What was the weather like each day of the week?\nExample:\n0 Tyler H\nDays__________Weather\n__________ A:cloude\n__________ B:sunny\n21:Tuesday__________C:windy\n22:Wednesday__________D:snow\n23:Thursday__________E:rain\n24: Friday__________F:foggy\n25:weekend__________G:storm\n_________H:too hot",
+      "question": "You will hear Richard talking to Anya about the weather this week. What was the weather like each day of the week?\nExample:\n0 Tyler H\nDays  Weather\n A:cloude\n B:sunny\n21:Tuesday__________C:windy\n22:Wednesday__________D:snow\n23:Thursday__________E:rain\n24: Friday__________F:foggy\n25:weekend__________G:storm\n H:too hot",
       "answers": [
         "",
         "",
