@@ -12,7 +12,7 @@
     },
     {
       "id": 2,
-      "question": "image_test/test5/test5_2.jpg,\nHow much does their meal cost?",
+      "question": "image_test/test5/test5_2.jpg,\nWhen is the school play?",
       "answers": [
         "A",
         "B",
