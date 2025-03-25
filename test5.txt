@@ -52,7 +52,7 @@
     },
     {
       "id": 6,
-      "question": "You will hear a manager talking to his colleagues about fire practice.\nFire practice\n\nWhen:Tomorrow\nDon’t:(6) __________\nGo to the closest: fire (7) __________ \nGet out of the:(8) __________\Meeting point for 2nd floor: the (9) __________\Time practice ends:(10) __________",
+      "question": "You will hear a manager talking to his colleagues about fire practice.\nFire practice\n\nWhen:Tomorrow\nDon’t:(6) __________\nGo to the closest: fire (7) __________ \nGet out of the:(8) __________\nMeeting point for 2nd floor: the (9) __________\nTime practice ends:(10) __________",
       "answers": [
         "",
         "",
