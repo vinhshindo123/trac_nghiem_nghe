@@ -193,7 +193,7 @@
     },
     {
       "quiz_id": 6,
-      "answer": "4,200,August,675509872,sophieturner,evenings"
+      "answer": "4.200,August,675509872,sophieturner,evenings"
     },
     {
       "quiz_id": 7,
