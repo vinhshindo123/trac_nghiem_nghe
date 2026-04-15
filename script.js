@@ -156,7 +156,16 @@ function renderPalette() {
         b.innerText = i + 1;
 
         if (answers[i] !== undefined) b.classList.add("done");
-        if (i === current) b.classList.add("current");
+if (i === current) b.classList.add("current");
+
+// 👉 thêm đoạn này
+if (reviewMode) {
+    if (answers[i] !== data[i].correct) {
+        b.classList.add("wrong");
+    } else {
+        b.classList.add("correct");
+    }
+}
 
         b.onclick = () => {
             current = i;
