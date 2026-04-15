@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Em hãy chỉ ra đâu là mục đích của việc bảo vệ môi trường?",
+    "answers": [
+      "Cải thiện sinh thái.",
+      "Cải thiện môi trường.",
+      "Cải thiện sinh vật.",
+      "A và B đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Pháp luật xử lý vi phạm trong lĩnh vực bảo vệ môi trường là nội dung nào, chọn lựa đáp án đúng?",
+    "answers": [
+      "Xử lý hình sự",
+      "Xử lý vi phạm hành chính",
+      "Xử lý trách nhiệm dân sự trong bảo vệ môi trường",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em hãy chỉ ra các nhóm tội phạm về môi trường được quy định tại Chương 19 - Bộ luật hình sự 2015 (sửa đổi, bổ sung 2017) có các nhóm tội nào?",
+    "answers": [
+      "Nhóm các hành vi hủy hoại tài nguyên, môi trường",
+      "Nhóm các hành vi buôn bán sinh vật quý hiếm",
+      "Nhóm các hành vi làm lây lan dịch bệnh nguy hiểm",
+      "A, C là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em hãy làm rõ chủ thể thực hiện hành vi vi phạm hành chính về môi trường là đối tượng nào?",
+    "answers": [
+      "cá nhân có đủ điều kiện về chủ thể",
+      "tập thể có đủ điều kiện về chủ thể",
+      "cá nhân và tổ chức có đủ điều kiện về chủ thể",
+      "A, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy lựa chọn đâu là hành vi vi phạm hành chính về môi trường?",
+    "answers": [
+      "Hành vi phát hiện nhưng không tố giác tội phạm về môi trường",
+      "Hành vi cản trở hoạt động quản lý nhà nước, kiểm tra, phối hợp thanh tra, xử phạt vi phạm hành chính",
+      "Hành vi vứt rác không đúng nơi quy định",
+      "A, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra hình thức xử lý hành vi vi phạm hành chính về bảo vệ môi trường sẽ bị xử lý theo quy định của pháp luật hành chính bao gồm những hình thức nào?",
+    "answers": [
+      "tạm giữ, phạt hành chính, cấm đi khỏi địa phương",
+      "tước giấy phép kinh doanh",
+      "phạt tiền, cảnh cáo, tịch thu tang vật, phương tiện vi phạm",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy tổng hợp các biện pháp phòng, chống vi phạm pháp luật về bảo vệ môi trường?",
+    "answers": [
+      "Biện pháp: tuyên truyền, giáo dục; pháp luật; tổ chức - hành chính; khoa học - công nghệ; kinh tế",
+      "Biện pháp: tổ chức các phong trào, các đợt thi đua bảo vệ môi trường",
+      "Biện pháp: giáo dục nâng cao nhận thức cho người dân",
+      "B, C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy phân tích mục đích của việc bảo vệ môi trường là gì?",
+    "answers": [
+      "Cải thiện môi trường",
+      "Cải thiện sinh thái",
+      "Cải thiện sinh vật.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Vai trò của Pháp luật bảo vệ môi trường là gì, chọn đáp án đúng?",
+    "answers": [
+      "Xây dựng hệ thống Pháp luật quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường.",
+      "Pháp luật xây dựng hệ thống các quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường",
+      "Pháp luật xây dựng các quy chuẩn môi trường, tiêu chuẩn môi trường để bảo vệ môi trường sinh thái",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hiểu thế nào được gọi là tội phạm về môi trường?",
+    "answers": [
+      "Là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hành chính.",
+      "Là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự.",
+      "Là hành vi hủy hoại môi trường được quy định trong Bộ luật hình sự.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra nguyên nhân chính của các đối tượng vi phạm Pháp luật về bảo vệ môi trường?",
+    "answers": [
+      "Đều có mục đích tư lợi cá nhân",
+      "Đều có ý đồ, mục đích tư lợi cá nhân",
+      "Đều có động cơ, mục đích tư lợi cá nhân",
+      "B, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Chủ thể tiến hành tham gia phòng, chống vi phạm pháp luật về bảo vệ môi trường rất ……..”",
+    "answers": [
+      "đa dạng",
+      "hạn chế",
+      "thiếu ý thức",
+      "phong phú"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu: “…….. tội phạm về môi trường thực hiện hành vi phạm tội dưới hình thức……”",
+    "answers": [
+      "Hầu hết/ lỗi vô ý",
+      "Hầu hết/ lỗi cố ý",
+      "Tất cả/ lỗi vô ý",
+      "Phần lớn/ lỗi cố ý"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ câu sau: “Về chủ thể thực hiện hành vi vi phạm …….. về môi trường ,đối với cá nhân, người vi phạm phải có khả năng …….. và điều khiển hành vi, đạt …… theo quy định của pháp luật.”",
+    "answers": [
+      "hành chính/ nhận thức/ độ tuổi",
+      "hành chính/ nhận diện/ độ tuổi",
+      "hình sự/ chịu trách nhiệm/ độ tuổi",
+      "hình sự/ phạm tội/ điều kiện sức khoẻ"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Pháp luật trong bảo vệ môi trường quy định những ……. xử sự mà con người phải thực hiện khi ……. và sử dụng các yếu tố (thành phần) của môi trường”",
+    "answers": [
+      "quy tắc/ tác động",
+      "quy định/ kinh doanh",
+      "quy tắc/ khai thác",
+      "quy định/ mua bán"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống: “Muốn bảo vệ môi trường trước hết phải ……. đến con người bằng các ………. nhất định. Pháp luật với tư cách là hệ thống các …….. điều chỉnh ……… xử sự của con người sẽ có tác dụng rất lớn trong việc bảo vệ”",
+    "answers": [
+      "tác động/ quy định/ quy phạm/ thái độ",
+      "tác động/ chế tài/ quy phạm/ hành vi",
+      "thay đổi/ quy định/ nguyên tắc/ hành động",
+      "thay đổi/ chế tài/ nguyên tắc/ mức độ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Nguyên nhân, điều kiện khách quan chủ yếu để hình thành tội phạm về môi trường là do sự phát triển “........” và “nóng” của kinh tế - xã hội không tính đến yếu tố bảo vệ môi trường của các ngành, các lĩnh vực kinh tế - xã hội”.",
+    "answers": [
+      "mạnh mẽ",
+      "ồ ạt",
+      "vượt bậc",
+      "quá nhanh"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Nguyên nhân chính của các đối tượng vi phạm Pháp luật về bảo vệ môi trường là đều có ..........., ........... tư lợi cá nhân”.",
+    "answers": [
+      "ý đồ/ mục đích",
+      "động cơ/ mục đích",
+      "nhu cầu/ hành động",
+      "mong muốn/ hành động"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em sẽ có thái độ như thế nào khi chứng kiến hành vi vi phạm pháp luật về môi trường?",
+    "answers": [
+      "Lên án gay gắt",
+      "Không quan tâm",
+      "Khuyên bảo chỉ dẫn",
+      "Hùa theo cho vui"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với địa phương bảo vệ môi trường?",
+    "answers": [
+      "Sử dụng tiết kiệm nguồn nước và điện năng",
+      "Trồng cây gây rừng",
+      "Thu gom, tái chế rác thải",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện ý thức trách nhiệm trong bảo vệ môi trường ?",
+    "answers": [
+      "Tham gia để lấy thành tích trong các chương trình về môi trường.",
+      "Sử dụng lãng phí nguồn nước máy.",
+      "Vứt rác đúng nơi quy định.",
+      "Vùi lấp túi nilon xuống đất"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Phòng ngừa có ý nghĩa quan trọng, em hãy lựa chọn giải pháp hiệu quả phòng ngừa tội phạm về môi trường?",
+    "answers": [
+      "Đa dạng hoá các hình thức tuyên truyền, phổ biến chính sách, chủ trương, pháp luật đến người dân.",
+      "Áp dụng công nghệ hiện đại trong phát hiện tội phạm.",
+      "Phối hợp các lực lượng để vây bắt tội phạm.",
+      "Xử lý nghiêm tội phạm."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trơ giúp lực lượng chức năng trong phát hiện, ngăn chặn, xử lý các hành vi vi phạm pháp luật về môi trường?",
+    "answers": [
+      "Báo công an khi gặp hành vi vi phạm pháp luật về môi trường.",
+      "Lên án những hành vi vi phạm pháp luật về môi trường",
+      "Nhắc nhở mọi người luôn cảnh giác.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chọn một trong những nội dung của Pháp luật về bảo vệ môi trường:",
+    "answers": [
+      "Ứng phó sự cố đất đai",
+      "Ứng phó sự cố môi trường",
+      "Ứng phó sự cố sinh thái",
+      "Ứng phó sự cố thiên nhiên"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra một trong những nguyên nhân chủ yếu khiến môi trường bị hủy hoại:",
+    "answers": [
+      "Do sự “tác động quá mức” của tự nhiên, thiên nhiên đối với các thành phần cấu tạo nên môi trường.",
+      "Do sự “tác động quá mức” của con người đối với các thành phần cấu tạo nên môi trường tự nhiên.",
+      "Do sự “tác động quá mức” của hành vi  đối với các thành phần cấu tạo nên môi trường tự nhiên.",
+      "A, B đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Vai trò của Pháp luật trong bảo vệ môi trường được thể hiện ở mấy khía cạnh, chọn đáp án đúng:",
+    "answers": [
+      "Ở 3 khía cạnh.",
+      "Ở 4 khía cạnh.",
+      "Ở 5 khía cạnh.",
+      "Ở 2 khía cạnh."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra định nghĩa đúng nhất cho tội phạm về môi trường:",
+    "answers": [
+      "Là hành vi nguy hiểm cho xã hội được quy định trong Bộ luật hình sự.",
+      "Là hành vi gây nguy hiểm cho xã hội được quy định trong Bộ luật dân sự.",
+      "Là hành vi hủy hoại môi trường được quy định trong Bộ luật hình sự.",
+      "A, C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tội phạm về môi trường được quy định tại chương nào trong Bộ luật hình sự năm 2015 (sửa đổi, bổ sung năm 2017), chọn đáp án đúng:",
+    "answers": [
+      "Chương 18.",
+      "Chương 19.",
+      "Chương 20.",
+      "Chương 23."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra chủ thể của tội phạm về môi trường, cá nhân là đối tượng nào dưới đây:",
+    "answers": [
+      "Bất kỳ người nào có đủ năng lực trách nhiệm trong bảo vệ môi trường.",
+      "Bất kỳ người nào đều có trách nhiệm hình sự về bảo vệ môi trường.",
+      "Bất kỳ người nào có đủ năng lực trách nhiệm hình sự.",
+      "A, C đều đúng"
+    ],
+    "correct": 2
+  }
+]

@@ -1,0 +1,382 @@
+[
+  {
+    "question": "Câu 1: Theo quan điểm của chủ nghĩa Mác - Lênin về chiến tranh:",
+    "answers": [
+      "Là một hiện tượng chính trị xã hội có tính lịch sử.",
+      "Là những cuộc xung đột tự phát ngẫu nhiên.",
+      "Là một hiện tượng xã hội mang tính vĩnh viễn.",
+      "Là những xung đột do những mâu thuẫn không mang tính xã hội."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 2: Theo quan điểm của chủ nghĩa Mác - Lênin về nguồn gốc của chiến tranh:",
+    "answers": [
+      "Chiến tranh bắt nguồn từ khi xuất hiện ngay từ khi xuất hiện xã hội loài người.",
+      "Chiến tranh bắt nguồn từ khi xuất hiện chế độ tư hữu, có giai cấp và nhà nước.",
+      "Chiến tranh bắt nguồn từ sự phát triển tất yếu khách quan của loài người.",
+      "Chiến tranh bắt nguồn từ khi xuất hiện các hình thức tôn giáo"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3: Theo quan điểm của chủ nghĩa Mác - Lênin về bản chất của chiến tranh:",
+    "answers": [
+      "Là tiếp tục mục tiêu kinh tế bằng thủ đoạn bạo lực.",
+      "Là thủ đoạn để đạt được mục tiêu của một giai cấp.",
+      "Là tiếp tục của chính trị bằng thủ đoạn bạo lực.",
+      "Là thủ đoạn chính trị của một giai cấp."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 4: Theo quan điểm của chủ nghĩa Mác – Lênin, chính trị là sự phản ánh tập trung của:",
+    "answers": [
+      "Kinh tế.",
+      "Xã hội.",
+      "Quốc phòng.",
+      "An ninh."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 5: Theo quan điểm của chủ nghĩa Mác – Lênin về quan hệ giữa chiến tranh với chính trị:",
+    "answers": [
+      "Chính trị là con đường, là phương tiện của chiến tranh.",
+      "Chính trị là một thời đoạn, một bộ phận của chiến tranh.",
+      "Chính trị chi phối và quyết định toàn bộ tiến trình và kết cục của chiến tranh.",
+      "Chính trị không thế sử dụng kết quả sau chiến tranh để đề ra nhiệm vụ, mục tiêu."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 6: Trong mối quan hệ giữa chiến tranh và chính trị, thì chiến tranh là kết quả phản ánh:",
+    "answers": [
+      "Những bản chất chính trị xã hội.",
+      "Sức mạnh tổng hợp của quân đội.",
+      "Những cố gắng cao nhất của chính trị.",
+      "Những cố gắng cao nhất về kinh tế."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 7: Hồ Chí Minh khẳng định mục đích cuộc chiến tranh của nhân dân ta chống thực dân Pháp:",
+    "answers": [
+      "Bảo vệ nhân dân, bảo vệ chế độ, bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+      "Bảo vệ đất nước và chống ách đô hộ của thực dân, đế quốc.",
+      "Bảo vệ tính mạng, tài sản của nhân dân, của chế độ xã hội chủ nghĩa.",
+      "Bảo vệ độc lập chủ quyền và thống nhất đất nước."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 8: Tư tưởng Hồ Chí Minh xác định thái độ đối với chiến tranh là:",
+    "answers": [
+      "Phản đối tất cả các cuộc chiến tranh.",
+      "Phản đối các cuộc chiến tranh chống áp bức, nô dịch.",
+      "Phản đối các cuộc chiến tranh sắc tộc tôn giáo.",
+      "Ủng hộ chiến tranh chính nghĩa, phản đối chiến tranh phi nghĩa."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 9: Theo tư tưởng Hồ Chí Minh nhất thiết phải sử dụng bạo lực cách mạng:",
+    "answers": [
+      "Để lật đổ xã hội cũ, xây dựng xã hội mới.",
+      "Để xây dựng chế độ mới.",
+      "Để giành lấy chính quyền và bảo vệ chính quyền.",
+      "Để lật đổ chế độ cũ."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 10: Theo tư tưởng Hồ Chí Minh, bạo lực cách mạng được tạo bởi:",
+    "answers": [
+      "Sức mạnh của toàn dân, bằng cả lực lượng chính trị và lực lượng vũ trang.",
+      "Sức mạnh của toàn dân, bằng cả tiềm lực chính trị và tiềm lực kinh tế.",
+      "Kết hợp chặt chẽ giữa đấu tranh chính trị và đấu tranh ngoại giao.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 11: Lời kêu gọi toàn quốc kháng chiến chống thực dân Pháp của Hồ Chí Minh:",
+    "answers": [
+      "Ngày 22/12/1944.",
+      "Ngày 23/11/1945.",
+      "Ngày 02/9/1945.",
+      "Ngày 19/12/1946."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 12: Theo quan điểm của chủ nghĩa Mác – Lênin về bản chất giai cấp của quân đội phụ thuộc vào:",
+    "answers": [
+      "Bản chất của các nhà nước đã tổ chức ra quân đội đó.",
+      "Bản chất của các giai cấp và của nhà nước đã tổ chức ra quân đội đó.",
+      "Bản chất của giai cấp công nông và của nhà nước đã tổ chức ra quân đội đó.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 13: Nguyên tắc quan trọng nhất về xây dựng quân đội kiểu mới của Lê nin là:",
+    "answers": [
+      "Sự lãnh đạo của Đảng Cộng sản đối với quân đội.",
+      "Giữ vững quan điểm giai cấp trong xây dựng quân đội.",
+      "Tính kỷ luật cao là yếu tố quyết định sức mạnh quân đội.",
+      "Quân đội chính quy, hiện đại, trung thành với giai cấp công nhân."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 14: Lê nin khẳng định yếu tố……. giữ vai trò quyết định đến sức mạnh chiến đấu của quân đội.",
+    "answers": [
+      "Quân số, tổ chức, cơ cấu biên chế.",
+      "Chất lượng vũ khí, trang bị kỹ thuật.",
+      "Chính trị tinh thần.",
+      "Trình độ huấn luyện và thể lực."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 15: Chủ tịch Hồ Chí Minh khẳng định sự ra đời của Quân đội nhân dân Việt Nam là:",
+    "answers": [
+      "Là một tất yếu có tính quy luật trong đấu tranh giai cấp, đấu tranh dân tộc ở Việt Nam.",
+      "Là một hiện tượng ngẫu nhiên trong quá trình đấu tranh cách mạng của dân tộc Việt Nam.",
+      "Là một sự kế thừa trong lịch sử chống giặc ngoại xâm.",
+      "Là một hiện tượng tự phát do đòi hỏi của chiến tranh cách mạng."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 16: Theo tư tưởng Hồ Chí Minh, quân đội nhân dân Việt Nam:",
+    "answers": [
+      "Mang bản chất của giai cấp nông dân.",
+      "Mang bản chất giai cấp công – nông.",
+      "Mang bản chất của giai cấp công nhân.",
+      "Mang bản chất nhân dân lao động Việt Nam."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 17: Quân đội nhân dân Việt Nam mang …….đồng thời mang bản chất của giai cấp công nhân.",
+    "answers": [
+      "Tính quần chúng, cách mạng sâu sắc.",
+      "Tính phong phú và đa dạng.",
+      "Tính nhân dân và tính dân tộc sâu sắc.",
+      "Tính phổ biến và rộng rãi."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 18: Chủ tịch Hồ Chí Minh khẳng định Quân đội nhân dân Việt Nam có nhiệm vụ:",
+    "answers": [
+      "Xây dựng quân đội ngày càng hùng mạnh và sẵn sàng chiến đấu.",
+      "Xây dựng quân đội ngày càng hùng hậu và sẵn sàng chiến đấu.",
+      "Xây dựng quân đội ngày càng đông đảo và sẵn sàng chiến đấu.",
+      "Xây dựng quân đội có chất lượng cao và sẵn sàng chiến đấu."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 19: Chủ tịch Hồ Chí Minh khẳng định một trong hai nhiệm vụ chính của quân đội ta là:",
+    "answers": [
+      "Tiến hành phổ biến chính sách của Đảng, Nhà nước cho nhân dân.",
+      "Giúp nhân dân cải thiện đời sống vật chất tinh thần.",
+      "Thiết thực tham gia lao động sản xuất, góp phần xây dựng chủ nghĩa xã hội.",
+      "Làm nòng cốt phát triển kinh tế tại nơi đóng quân."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 20: Theo tư tưởng Hồ Chí Minh, Quân đội nhân dân Việt Nam có những chức năng:",
+    "answers": [
+      "Chiến đấu và sẵn sàng chiến đấu.",
+      "Chiến đấu, lao động sản xuất.",
+      "Chiến đấu, công tác, lao động sản xuất.",
+      "Chiến đấu tham gia giữ gìn hòa bình khu vực."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 21: Quan điểm đầu tiên của chủ nghĩa Mác - Lênin về bảo vệ Tổ quốc xã hội chủ nghĩa:",
+    "answers": [
+      "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ thường xuyên liên tục.",
+      "Bảo vệ tổ quốc xã hội chủ nghĩa là tất yếu khách quan.",
+      "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ cấp thiết trước mắt.",
+      "Bảo vệ tổ quốc xã hội chủ nghĩa là nhiệm vụ trọng yếu của toàn dân."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 22: Bác Hồ nói với Đại đoàn quân tiên phong trong lần về thăm Đền Hùng năm 1954:",
+    "answers": [
+      "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước.",
+      "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau bảo vệ đất nước.",
+      "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau xây dựng đất nước.",
+      "Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau bảo vệ Tổ quốc."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 23: Theo tư tưởng Hồ Chí Minh, mục tiêu bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa là:",
+    "answers": [
+      "Sự nghiệp đổi mới.",
+      "Sự nghiệp công nghiệp hóa hiện đại hóa.",
+      "Bản sắc văn hóa dân tộc.",
+      "Độc lập dân tộc và chủ nghĩa xã hội."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 24: Tư tưởng Hồ Chí Minh về sức mạnh bảo vệ Tổ quốc:",
+    "answers": [
+      "Là sức mạnh của cả dân tộc, kết hợp với sức mạnh của nền quốc phòng toàn dân.",
+      "Là sức mạnh tổng hợp của cả dân tộc, cả nước kết hợp với sức mạnh thời đại.",
+      "Là sức mạnh của toàn dân, lấy lực lượng vũ trang làm nòng cốt.",
+      "Là sức mạnh của lực lượng vũ trang nhân dân, sức mạnh quốc phòng toàn dân."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 25: Vai trò lãnh đạo sự nghiệp bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa thuộc về:",
+    "answers": [
+      "Các đoàn thể, các tổ chức chính trị xã hội.",
+      "Lực lượng vũ trang nhân dân Việt Nam.",
+      "Đảng Cộng sản Việt Nam.",
+      "Toàn bộ hệ thống chính trị ở Việt Nam."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 26. Theo quan điểm của Mác – Ăng ghen khẳng định: xã hội Cộng sản nguyên thủy chưa xuất hiện, tồn tại chiến tranh, vì sao?",
+    "answers": [
+      "Về kinh tế: Chưa có sản phẩm dư thừa.",
+      "Về xã hội: Chưa có đối kháng giai cấp.",
+      "Về kỹ thuật quân sự: Chưa có LLVT chuyên nghiệp.",
+      "Về kinh tế chưa có sản phẩm dư thừa, chưa xuất hiện chế độ tư hữu. Về xã hội chưa có sự phân chia giai cấp và đối kháng giai cấp. Về kỹ thuật quân sự chưa có LLVT chuyên nghiệp và vũ khí chuyên dùng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 27. Theo quan điểm của chủ nghĩa Mác – Lê Nin bản chất của chiến tranh là gì?",
+    "answers": [
+      "Là sự tiếp tục của cuộc đấu tranh giai cấp.",
+      "Là sự tiếp tục của cuộc đấu tranh chính trị.",
+      "Là sự tiếp tục cuộc đấu tranh kinh tế và chính trị.",
+      "Là sự tiếp tục của chính trị bằng biện pháp khác, cụ thể là bằng thủ đoạn bạo lực."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 28. ……..đã quan điểm: chiến tranh là “Bạn đường” của chủ nghĩa đế quốc.",
+    "answers": [
+      "Ph. Claudơvít.",
+      "Ph. Ăng ghen.",
+      "Các Mác.",
+      "V.I. Lê Nin."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 29. …………đã từng nói: “Các vua Hùng đã có công dựng nước, Bác cháu ta phải cùng nhau giữ lấy nước” là lời căn dặn đối với cán bộ, chiến sỹ Đại đoàn Quân tiên phong.",
+    "answers": [
+      "Đại Tướng Võ Nguyên Giáp.",
+      "Thủ Tướng Phạm Văn Đồng.",
+      "Chủ Tịch Tôn Đức Thắng.",
+      "Chủ Tịch Hồ Chí Minh."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 30. ……..đã quan điểm: chiến tranh trở thành “Bạn đường” của mọi chế độ tư hữu.",
+    "answers": [
+      "Ph. Ăng ghen.",
+      "V.I. Lê Nin.",
+      "C. Mác.",
+      "Ph. Claudơvít."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 31. Theo quan điểm của chủ nghĩa Mác – Lê Nin, chiến tranh là gì?",
+    "answers": [
+      "Là một thành phần, một yếu tố cấu thành của chính trị.",
+      "Là một bộ phận, một phương tiện của chính trị, là kết quả phản ánh những cố gắng cao nhất của chính trị.",
+      "Là lực lượng quan trọng không thể thiếu của chính trị.",
+      "Là hậu quả của chính trị."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 32. Theo quan điểm của chủ nghĩa Mác – Lê Nin, nguồn gốc của chiến tranh là gì?",
+    "answers": [
+      "Chiến tranh có nguồn gốc từ chế độ chiếm hữu tư nhân về tư liệu sản xuất, có đối kháng giai cấp và áp bức bóc lột.",
+      "Chiến tranh có nguồn gốc từ đối kháng giai cấp và đấu tranh giai cấp.",
+      "Chiến tranh có nguồn gốc từ mâu thuẫn về lợi ích kinh tế giữa các quốc gia.",
+      "Chiến tranh có nguồn gốc từ quy luật tự nhiên của xã hội loài người."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 33. Theo quan điểm của chủ nghĩa Mác – Lê Nin, chính trị là gì?",
+    "answers": [
+      "Chính trị là sự phản ánh tập trung của kinh tế. Chính trị là sự thống nhất giữa đường lối đối nội và đường lối đối ngoại.",
+      "Chính trị là sự phản ánh tập trung của kinh tế. Chính trị là mối quan hệ giữa các giai cấp, dân tộc.",
+      "Chính trị là mối quan hệ giữa các giai cấp, dân tộc. Chính trị là sự thống nhất giữa đường lối đối nội và đường lối đối ngoại.",
+      "Chính trị là sự phản ánh tập trung của kinh tế. Chính trị là mối quan hệ giữa các giai cấp, dân tộc. Chính trị là sự thống nhất giữa đường lối đối nội và đường lối đối ngoại."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 34: Nguồn gốc ra đời của quân đội theo quan điểm của chủ nghĩa Mác – Lê Nin là gì?",
+    "answers": [
+      "Do chế độ tư hữu về tư liệu sản xuất và sự phân chia xã hội thành giai cấp đối kháng.",
+      "Do phong trào đấu tranh của quần chúng nhân dân lao động.",
+      "Do đấu tranh giai cấp, do chế độ công hữu về tư liệu sản xuất.",
+      "Do yêu cầu của phong trào đấu tranh cách mạng."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 35. Một trong những nguyên tắc cơ bản xây dựng Hồng quân Liên xô của Lê Nin là gì ?",
+    "answers": [
+      "Xây dựng quân đội có tính kỷ luật.",
+      "Xây dựng quân đội chính quy.",
+      "Xây dựng quân đội hiện đại.",
+      "Xây dựng quân đội tinh nhuệ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 36. Luận điểm “Phi chính trị hoá quân đội” là của giai cấp, tầng lớp nào?",
+    "answers": [
+      "Tầng lớp tiểu tư sản.",
+      "Giai cấp tư sản.",
+      "Tầng lớp trí thức.",
+      "Tầng lớp tiến bộ."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 37. Luận điểm “Phi chính hoá quân đội” nhằm mục đích gì?",
+    "answers": [
+      "Làm giảm khả năng chiến đấu của quân đội.",
+      "Làm giảm vai trò của quân đội với đất nước.",
+      "Làm giảm sức mạnh chiến đấu của quân đội.",
+      "Làm giảm chức năng cơ bản của quân đội."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 38. Theo quan điểm của Lê Nin sức mạnh chiến đấu của quân đội, yếu tố nào đóng vai trò quyết định?",
+    "answers": [
+      "Vũ khí trang bị, kỹ thuật.",
+      "Quân số, tổ chức, biên chế.",
+      "Yếu tố, chính trị, tinh thần.",
+      "Trình độ huấn luyện và thể lực."
+    ],
+    "correct": 2
+  }
+]

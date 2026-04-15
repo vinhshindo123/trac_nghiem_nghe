@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Câu 1: Mục đích của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là:",
+    "answers": [
+      "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất và toàn vẹn lãnh thổ, bảo vệ an ninh quốc gia, trật tự an toàn xã hội và nền văn hóa.",
+      "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa, bảo vệ lợi ích quốc gia dân tộc.",
+      "Bảo vệ sự nghiệp đổi mới, công nghiệp hóa, hiện đại hóa đất nước, giữ vững ổn định chính trị và môi trường hòa bình, phát triển đất nước theo định hướng xã hội chủ nghĩa.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 2: Đối tượng tác chiến của chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là:",
+    "answers": [
+      "Chủ nghĩa đế quốc và các lực lượng ly khai dân tộc trên thế giới.",
+      "Chủ nghĩa đế quốc và các thế lực phản động có hành động phá hoại, xâm lược, lật đổ cách mạng.",
+      "Chủ nghĩa đế quốc và các thế lực phản cách mạng trên thế giới.",
+      "Lực lượng khủng bố quốc tế và lực lượng phản động trong nước."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3: Âm mưu, thủ đoạn chủ yếu của kẻ thù khi xâm lược nước ta:",
+    "answers": [
+      "Đánh nhanh, thắng nhanh.",
+      "Lực lượng tham gia với quân số đông, vũ khí trang bị hiện đại.",
+      "Sử dụng biện pháp chính trị, ngoại giao để lừa bịp dư luận.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 4: Khi tiến hành chiến tranh xâm lược nước ta, địch có điểm yếu:",
+    "answers": [
+      "Tiến hành một cuộc chiến tranh phi nghĩa sẽ bị thế giới lên án.",
+      "Phải tác chiến trong điều kiện địa hình, thời tiết phức tạp.",
+      "Phải đương đầu với dân tộc ta có truyền thống yêu nước, chống xâm lược.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 5: Tính chất cơ bản chiến tranh nhân dân Việt Nam bảo vệ Tổ quốc là:",
+    "answers": [
+      "Cuộc chiến tranh toàn dân, lấy lực lượng vũ trang làm nòng cốt.",
+      "Cuộc chiến tranh toàn dân, toàn diện, dưới sự lãnh đạo của Đảng Cộng sản Việt Nam.",
+      "Cuộc chiến tranh toàn diện lấy mặt trận quân sự làm yếu tố quyết định.",
+      "Cuộc chiến tranh cách mạng chống các thế lực phản cách mạng."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 6: Tính chất chiến tranh nhân dân bảo vệ Tổ quốc là:",
+    "answers": [
+      "Cuộc chiến tranh của giai cấp công nhân nhằm bảo vệ độc lập chủ quyền và lãnh thổ.",
+      "Cuộc chiến tranh cách mạng nhằm bảo vệ biên giới quốc gia.",
+      "Cuộc chiến tranh chính nghĩa, tự vệ cách mạng nhằm bảo vệ Tổ quốc Việt Nam XHCN.",
+      "Cuộc chiến tranh tự vệ nhằm đánh thắng các thế lực xâm lược để bảo vệ chủ quyền, lãnh thổ đất nước."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 7: Tính chất hiện đại trong chiến tranh nhân dân bảo vệ Tổ quốc được thể hiện:",
+    "answers": [
+      "Sử dụng vũ khí trang bị hiện đại để tiến hành chiến tranh.",
+      "Sử dụng vũ khí trang bị hiện đại để đánh bại kẻ thù có vũ khí hiện đại hơn.",
+      "Hiện đại về vũ khí, trang bị, tri thức và nghệ thuật quân sự.",
+      "Kết hợp sử dụng vũ khí tương đối hiện đại với vũ khí hiện đại."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 8: Đặc điểm về cường độ của chiến tranh nhân dân bảo vệ Tổ quốc:",
+    "answers": [
+      "Diễn ra khẩn trương, quyết liệt phức tạp ngay từ đầu và suốt quá trình chiến tranh.",
+      "Diễn ra khẩn trường, quy mô lớn giai đoạn đầu của chiến tranh.",
+      "Diễn ra trong bối cảnh quốc tế có những thuận lợi cho chúng ta.",
+      "Diễn ra với nhịp độ cao, cường độ lớn giai đoạn giữa của cuộc chiến tranh."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 9: Vị trí, ý nghĩa của quan điểm “toàn dân đánh giặc” trong chiến tranh nhân dân bảo vệ Tổ Quốc:",
+    "answers": [
+      "Điều kiện để mỗi người dân được tham gia đánh giặc, giữ nước.",
+      "Điều kiện để phát huy cao nhất yếu tố con người trong cuộc chiến tranh.",
+      "Điều kiện để phát huy cao nhất sức mạnh tổng hợp trong cuộc chiến tranh.",
+      "Điều kiện để phát huy sức mạnh toàn dân."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 10: Trong tiến hành chiến tranh toàn diện, mặt trận đấu tranh nào là chủ yếu:",
+    "answers": [
+      "Mặt trận kinh tế.",
+      "Mặt trận quân sự.",
+      "Mặt trận ngoại giao.",
+      "Mặt trận chính trị."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 11: Quan điểm của Đảng ta về chuẩn bị cho chiến tranh nhân dân bảo vệ Tổ Quốc:",
+    "answers": [
+      "Chuẩn bị đầy đủ mọi mặt trên các vùng chiến lược của đất nước.",
+      "Chuẩn bị con người, vũ khí trang bị cho chiến tranh.",
+      "Chuẩn bị đầy đủ tiềm lực kinh tế, quân sự trên cả nước cũng như từng khu vực.",
+      "Chuẩn bị mọi mặt trên cả nước, cũng như từng khu vực để bảo vệ vững chắc Tổ quốc Việt"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 12: Nội dung chủ yếu của chiến tranh nhân dân:",
+    "answers": [
+      "Tổ chức thế trận chiến tranh nhân dân.",
+      "Tổ chức lực lượng chiến tranh nhân dân.",
+      "Phối hợp chặt chẽ chống quân địch tiến công từ bên ngoài vào và bạo loạn lật đổ bên trong.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 13: Thế trận chiến tranh nhân dân:",
+    "answers": [
+      "Sự tổ chức, bố trí lực lượng để tiến hành chiến tranh và hoạt động tác chiến.",
+      "Sự tổ chức, bố trí các đơn vị của lực lượng vũ trang nhân dân đánh giặc.",
+      "Sự tổ chức, bố trí lực lượng phòng thủ đất nước.",
+      "Sự tổ chức, bố trí các lực lượng chiến đấu trên chiến trường."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 14: Trong chiến tranh nhân dân bảo vệ Tổ quốc, thế trận của chiến tranh được:",
+    "answers": [
+      "Bố trí rộng trên cả nước, nhưng phải tập trung cho khu vực chủ yếu.",
+      "Bố trí rộng trên cả nước, nhưng phải có trọng tâm, trọng điểm.",
+      "Bố trí rộng trên cả nước, nhưng tập trung ở các vùng kinh tế trọng điểm.",
+      "Bố trí rộng trên cả nước, nhưng tập trung ở các địa bàn trọng điểm."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 15: Lực lượng chiến tranh nhân dân là:",
+    "answers": [
+      "Các quân khu, quân đoàn chủ lực.",
+      "Toàn dân, lấy lực lượng vũ trang ba thứ quân làm nòng cốt.",
+      "Lực lượng lục quân, hải quân, phòng không không quân.",
+      "Lực lượng quân đội nhân dân và công an nhân dân."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 16: Lực lượng toàn dân trong tiến hành chiến tranh nhân dân được tổ chức chặt chẽ thành:",
+    "answers": [
+      "Lực lượng quân đội nhân dân và công an nhân dân.",
+      "Lực lượng quân đội nhân dân và dân quân tự vệ.",
+      "Lực lượng quần chúng rộng rãi và lực lượng quân sự.",
+      "Lực lượng đấu tranh chính trị và đấu tranh quân sự."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 17: Tiến hành chiến tranh nhân dân bảo vệ Tổ quốc phải phối hợp chặt chẽ giữa:",
+    "answers": [
+      "Chống quân xâm lược từ bên ngoài vào với chống lực lượng khủng bố từ bên trong.",
+      "Chống quân địch tấn công từ bên ngoài vào với bạo loạn lật đổ từ bên trong.",
+      "Chống bạo loạn lật đổ với trấn áp bọn phản động.",
+      "Chống bạo loạn lật đổ với các hoạt động phá hoại khác."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 18. Vị trí của lực lượng vũ trang nhân dân Việt Nam trong chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "answers": [
+      "Là lực lượng nòng cốt cho toàn dân đánh giặc.",
+      "Là lực lượng xung kích cho toàn dân đánh giặc.",
+      "Là nghĩa vụ của lực lượng vũ trang nhân dân.",
+      "Là trách nhiệm của lực lượng vũ trang nhân."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 19. Đối tượng tác chiến trong chiến tranh nhân dân bảo vệ Tổ quốc?",
+    "answers": [
+      "Chủ nghĩa đế quốc và các thế lực thù địch có hành động phá hoại, xâm lược, lật đổ cách mạng.",
+      "Những thế lực phản động có hành động phá hoại lật đổ Nhà nước ta.",
+      "Chủ nghĩa đế quốc và chủ nghĩa khủng bố quốc tế có hành động chống phá Nhà nước ta.",
+      "Những thế lực xâm lược Tổ quốc Việt Nam xã hội chủ nghĩa."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 20. Khi tiến hành chiến tranh xâm lược, địch có điểm mạnh gì?",
+    "answers": [
+      "Có ưu thế tuyệt đối về sức mạnh quân sự và kinh tế và có ưu thế tuyệt đối về tiềm lực khoa học công nghệ.",
+      "Có ưu thế tuyệt đối về tiềm lực khoa học công nghệ và có thể cấu kết được với lực lượng phản động nội địa, thực hiện trong đánh ra, ngoài đánh vào.",
+      "Có ưu thế tuyệt đối về sức mạnh quân sự và kinh tế và có thể cấu kết được với lực lượng phản động nội địa, thực hiện trong đánh ra, ngoài đánh vào.",
+      "Có ưu thế tuyệt đối về sức mạnh quân sự và kinh tế; Có ưu thế tuyệt đối về tiềm lực khoa học công nghệ và có thể cấu kết được với lực lượng phản động nội địa, thực hiện trong đánh ra, ngoài đánh vào."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 21. Thế trận chiến tranh nhân dân là gì?",
+    "answers": [
+      "Thế trận chiến tranh được bố trí rộng khắp trên cả nước nhưng có trọng tâm, trọng điểm.",
+      "Là việc tổ chức cơ động lực lượng trên các hướng để bảo toàn lực lượng trước các đòn tập kích bằng vũ khí công nghệ cao.",
+      "Là sự tổ chức, bố trí lực lượng để tiến hành chiến tranh và các hoạt động tác chiến.",
+      "Là tổ chức sơ tán để giảm tổn thất về con người, đảm bảo nguồn nhân lực vật lực chiến đấu lâu dài."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 22. Trong các quan điểm sau, quan điểm nào mang tính chỉ đạo, hướng dẫn hành động trong chiến tranh nhân dân bảo vệ Tổ quốc ?",
+    "answers": [
+      "Tiến hành chiến tranh toàn diện, kết hợp chặt chẽ giữa đấu tranh quân sự, chính trị, ngoại giao, kinh tế, văn hoá tư tưởng, lấy đấu tranh quân sự là chủ yếu.",
+      "Tiến hành chiến tranh nhân dân, thực hiện toàn dân đánh giặc, lấy LL vũ trang ba thứ quân làm nòng cốt.",
+      "Chuẩn bị mọi mặt trong cả nước cũng như từng khu vực để đủ sức đánh lâu dài, ra sức thu hẹp không gian, rút ngắn thời gian chiến tranh, giành thắng lợi càng sớm càng tốt.",
+      "Kết hợp sức mạnh dân tộc và sức mạnh thời đại, phát huy tinh thần tự lực tự cường, tranh thủ sự giúp đỡ của quốc tế và sự đồng tình ủng hộ của nhân dân."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 23. Trong chiến tranh nhân dân bảo vệ Tổ quốc, lực lượng nòng cốt cho phong trào đánh giặc ở địa phương là lực lượng nào?",
+    "answers": [
+      "Bộ đội địa phương và dân quân tự vệ.",
+      "Bộ đội chủ lực và bộ đội địa phương.",
+      "Bộ đội chủ lực và dân quân tự vệ.",
+      "Tất cả các lực lượng trên."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 24. Một trong những âm mưu, thủ đoạn chủ yếu của kẻ thù khi xâm lược nước ta là gì?",
+    "answers": [
+      "Đánh nhanh, thắng nhanh, kết hợp tiến công quân sự từ bên ngoài vào với hành động bạo loạn lật đổ từ bên trong; đồng thời kết hợp các biện pháp phi vũ trang để lừa bịp dư luận.",
+      "Lực lượng tiến công trên bộ ồ ạt từ ngày đầu chiến tranh vào nhiều mục tiêu để phối hợp với bọn bạo loạn trong nước, nhanh chóng giải quyết chiến tranh.",
+      "Ngay từ ngày đầu chiến tranh, lực lượng đổ bộ đường biển kết hợp với đổ bộ đường không ồ ạt đánh chiếm các mục tiêu quan trọng trên phạm vi cả nước.",
+      "Cả ba vấn đề trên."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 25. Mục đích của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam XHCN là gì?",
+    "answers": [
+      "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ; giữ vững chủ quyền biển đảo, biên giới, vùng trời.",
+      "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ XHCN; giữ vững ổn định chính trị, trật tự, an toàn xã hội. chủ động ngăn chặn, làm thất bại mọi âm mưu, hoạt động chống phá của các thế lực thù địch",
+      "Sẵn sàng ứng phó với các mối đe dọa AN phi truyền thống mang tính toàn cầu, không để bị động, bất ngờ trong mọi tình huống",
+      "Cả ba ý trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 26. Một trong những mục đích của chiến tranh nhân dân bảo vệ Tổ quốc Việt Nam XHCN là gì?",
+    "answers": [
+      "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất của Tổ quốc.",
+      "Bảo vệ sự toàn vẹn lãnh thổ của Tổ quốc cả ở đất liền, trên không, trên biển.",
+      "Bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ của Tổ quốc.",
+      "Bảo vệ vững chắc độc lập, tự do của Tổ quốc."
+    ],
+    "correct": 2
+  }
+]

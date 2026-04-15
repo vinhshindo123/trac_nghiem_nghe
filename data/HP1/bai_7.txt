@@ -1,0 +1,400 @@
+[
+  {
+    "question": "Câu 1: Vì sao nước ta thường bị các thế lực ngoại xâm nhòm ngó, đe dọa, tiến công xâm lược:",
+    "answers": [
+      "Việt Nam có vị trí chiến lược quan trọng ở khu vực Đông Nam Á và biển Đông.",
+      "Việt Nam có dân số ít và có rất nhiều tài nguyên khoáng sản.",
+      "Việt Nam có rừng vàng, biển bạc.",
+      "Việt Nam là một thị trường tiềm năng."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 2: Thời kỳ Bắc thuộc hơn 1000 năm được tính từ:",
+    "answers": [
+      "Năm 179 trước Công nguyên đến năm 983.",
+      "Năm 184 trước Công nguyên đến năm 938.",
+      "Năm 197 trước Công nguyên đến năm 893.",
+      "Năm 179 trước Công nguyên đến năm 938."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 3: Cuộc khởi nghĩa Hai Bà Trưng vào ….. Sau Công nguyên.",
+    "answers": [
+      "Năm 41.",
+      "Năm 140.",
+      "Năm 248.",
+      "Năm 40."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 4: Vào năm …..Lý Thường Kiệt lãnh đạo cuộc kháng chiến chống quân Tống xâm lược nước ta lần thứ hai:",
+    "answers": [
+      "Năm 981 – 983.",
+      "Năm 1070 – 1075.",
+      "Năm 1075 – 1077.",
+      "Năm 1076 – 1077."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 5: Các năm….nhà Trần lãnh đạo nhân dân ta kháng chiến chống quân Mông – Nguyên",
+    "answers": [
+      "1258, 1285 và 1287 đến 1289.",
+      "1258, 1284 và 1287 đến 1288.",
+      "1258, 1286 và 1287 đến 1288.",
+      "1258, 1285 và 1287 đến 1288."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 6: Vì…..nên cuộc kháng chiến chống quân Minh của nhà Hồ thất bại:",
+    "answers": [
+      "Nhà Hồ tích cực chủ động tiến công quá mức.",
+      "Nhà Hồ đã tích cực tiến công nhưng quân Minh quá mạnh.",
+      "Nhà Hồ đã quá thiên về phòng thủ, dẫn đến sai lầm trong chỉ đạo chiến lược.\nD. Nhà Hồ đã không đề phòng, phòng thủ, không phản công."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 7: Tư tưởng …..là tư tưởng chỉ đạo tác chiến trong tiến hành chiến tranh của ông cha ta.",
+    "answers": [
+      "Tích cực chủ động phòng thủ.",
+      "Tích cực chủ động tiến công.",
+      "Kết hợp giữa tiến công và phòng ngự.",
+      "Kết hợp giữa phòng ngự và tiến công."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 8: Lý Thường Kiệt sử dụng biện pháp “tiên phát chế nhân” nghĩa là:",
+    "answers": [
+      "Chuẩn bị chu đáo, chặn đánh địch từ khi mới xâm lược.",
+      "Chuẩn bị thế trận phòng thủ, chống địch làm địch bị động.",
+      "Chuẩn bị đầy đủ vũ khí trang bị để giành thế chủ động đánh địch.",
+      "Chủ động tiến công trước để đẩy kẻ thù vào thế bị động."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 9: Nghệ thuật …..là một trong những nghệ thuật đánh giặc của ông cha ta.\nA. Lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu thắng mạnh.",
+    "answers": [
+      "Lấy nhỏ đánh lớn, lấy ít thắng nhiều, lấy yếu thắng mạnh.",
+      "Lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh.",
+      "Lấy nhỏ thắng lớn, lấy ít thắng nhiều, lấy yếu chống mạnh."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 10: Nghệ thuật lấy nhỏ đánh lớn, lấy ít địch nhiều, lấy yếu chống mạnh là sản phẩm của:",
+    "answers": [
+      "Lấy kế thắng lực.",
+      "Lấy thế thắng lực.",
+      "Lấy mưu thắng lực.",
+      "Lấy ý chí thắng lực."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 11: Quy luật của chiến tranh là:",
+    "answers": [
+      "Đông quân thì thắng, ít quân thì thua.",
+      "Vũ khí hiện đại thì thắng, thô sơ thì thua.",
+      "Mạnh được yếu thua.",
+      "Cả A và B."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 12: Một trong những nghệ thuật đánh giặc của ông cha ta là:",
+    "answers": [
+      "Kết hợp đấu tranh giữa các mặt trận quân sự, chính trị, ngoại giao, binh vận.",
+      "Kết hợp đấu tranh giữa các mặt trận quân sự, chính trị, ngoại giao, dân vận.",
+      "Kết hợp đấu tranh giữa các mặt trận quân sự, chính trị, ngoại thương, dân vận.",
+      "Kết hợp đấu tranh giữa các mặt trận quân sự, kinh tế, ngoại giao, binh vận."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 13: Trong nghệ thuật kết hợp đấu tranh giữa các mặt trận thì chính trị được xác định là:",
+    "answers": [
+      "Mặt trận quan trọng nhất, chủ yếu nhất.",
+      "Mặt trận quyết định thắng lợi của chiến tranh.",
+      "Cở sở để tạo ra sức mạnh về quân sự.",
+      "Cơ sở chủ yếu để cô lập kẻ thù."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 14: ……….là một trong những cơ sở hình thành nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo.",
+    "answers": [
+      "Tư tưởng quân sự Hồ Chí Minh.",
+      "Từ nghệ thuật quân sự của các nước.",
+      "Từ quan điểm của chủ nghĩa Mác – Lênin về đấu tranh giai cấp.",
+      "Từ quan điểm của chủ nghĩa Mác – Lênin về đấu tranh dân tộc."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 15: Trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo, nghệ thuật nào là quan trọng nhất:",
+    "answers": [
+      "Nghệ thuật chiến thuật.",
+      "Nghệ thuật chiến dịch.",
+      "Nghệ thuật chiến lược.",
+      "Nghệ thuật xác định cách đánh."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 16: Trong nghệ thuật chiến lược quân sự của Đảng, nội dung nào là quan trọng:",
+    "answers": [
+      "Xác định đúng kẻ thù, đúng đối tượng tác chiến.",
+      "Xác định đúng kẻ thù, đúng đối tác.",
+      "Xác định đúng đối tượng, đúng đối tác.",
+      "Xác định đúng lực lượng và đối tác của ta."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 17: Sau cách mạng tháng Tám năm 1945, Đảng ta xác định ……….là đối tượng tác chiến của quân và dân ta là:",
+    "answers": [
+      "Quân đội Anh, quân đội Tưởng.",
+      "Quân đội Nhật, quân đội Pháp.",
+      "Quân đội Nhật, quân đội Tưởng.",
+      "Quân đội Pháp xâm lược."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 18: Khi Mỹ xâm lược Việt Nam, Đảng ta nhận định…….là điều hoàn toàn chính xác",
+    "answers": [
+      "Mỹ rất giàu và rất mạnh.",
+      "Mỹ giàu nhưng không mạnh.",
+      "Mỹ không giàu nhưng rất mạnh.",
+      "Mỹ tuy giàu nhưng rất yếu."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 19: Về chiến lược quân sự, chúng ta xác định thời điểm mở đầu và kết thúc chiến tranh",
+    "answers": [
+      "Có đủ lực lượng và vũ khí.",
+      "Được quốc tế ủng hộ và giúp đỡ.",
+      "Đã xây dựng được thế trận vững mạnh, lực lượng đầy đủ.",
+      "Đã đáp ứng được mọi điều kiện của hoàn cảnh lịch sử."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 20: Trong phương châm tiến hành chiến tranh được Đảng ta chỉ đạo:",
+    "answers": [
+      "Tự lực cánh sinh và dựa vào các nước để đánh lâu dài.",
+      "Tự lực cánh sinh, đánh lâu dài, dựa vào sức mình là chính.",
+      "Tự lực cánh sinh, đánh nhanh, thắng nhanh, dựa vào sức mình là chính.",
+      "Tự lực cánh sinh, đánh lâu dài, dựa vào sức mạnh thời đại."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 21: Một số loại hình chiến dịch trong nghệ thuật quân sự Việt Nam là:",
+    "answers": [
+      "Chiến dịch phục kích, tập kích, đổ bộ đường không tổng hợp.",
+      "Chiến dịch tiến công, phản công, phòng ngự, phòng không, tiến công tổng hợp.",
+      "Chiến dịch tiến công, tập kích đường không chiến lược.",
+      "Chiến dịch tiến công đường chiến lược bằng vũ khí công nghệ cao."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 22: Trong chiến dịch Điện Biên Phủ chúng ta đã thay đổi phương châm tác chiến đó là:",
+    "answers": [
+      "Đánh lâu dài sang đánh nhanh, thắng nhanh.",
+      "Đánh nhanh thắng nhanh sang đánh lâu dài.",
+      "Đánh lâu dài sang đánh chắc, tiến chắc.",
+      "Đánh nhanh thắng nhanh sang đánh chắc, tiến chắc."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 23: Chiến dịch nào sau đây là chiến dịch phản công:",
+    "answers": [
+      "Chiến dịch Điện Biên Phủ năm 1954.",
+      "Chiến dịch Việt Bắc năm 1947.",
+      "Chiến dịch Quảng Trị năm 1972.",
+      "Chiến dịch Hồ Chí Minh năm 1975."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 24: Các hình thức chiến thuật………..là hình thức thường vận dụng trong giai đoạn đầu kháng chiến chống Pháp và chống Mỹ:",
+    "answers": [
+      "Phản công, phòng ngự, tập kích.",
+      "Tập kích, phục kích, vận động tiến công.",
+      "Phục kích, đánh úp, đánh công kiên.",
+      "Phòng ngự, phục kích, phản kích."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 25: Bài học kinh nghiệm về nghệ thuật quân sự Việt Nam được vận dụng hiện nay:",
+    "answers": [
+      "Quán triệt tư tưởng tích cực tiến công và phòng ngự.",
+      "Quán triệt tư tưởng tích cực phòng ngự và chủ động phản công.",
+      "Quán triệt tư tưởng tích cực phòng ngự.",
+      "Quán triệt tư tưởng tích cực tiến công."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 26: Bài học kinh nghiệm về nghệ thuật quân sự Việt Nam được vận dụng vào sự nghiệp bảo vệ Tổ quốc trong thời kỳ mới là:",
+    "answers": [
+      "Tạo sức mạnh tổng hợp bằng giáo dục truyền thống.",
+      "Tạo sức mạnh tổng hợp bằng xây dựng phát triển kinh tế.",
+      "Tạo sức mạnh tổng hợp bằng mưu kế, thế, thời, lực.",
+      "Tạo sức mạnh tổng hợp bằng thiên thời, địa lợi, nhân hòa."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 27:  ……..  là chiến dịch tiến công:",
+    "answers": [
+      "Chiến dịch Điện Biên Phủ năm 1954.",
+      "Chiến dịch Việt Bắc năm 1947.",
+      "Chiến dịch Quảng Trị năm 1972.",
+      "Chiến dịch phòng không Hà Nội năm 1972."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 28: Khởi nghĩa Lam Sơn diễn ra từ năm ……để lại nhiều tiếng vang",
+    "answers": [
+      "1418 – 1420.",
+      "1417 – 1428.",
+      "1418 – 1427.",
+      "1416 – 1428"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 29. Người Việt Nam muốn tồn tại, bảo vệ cuộc sống và nền văn hoá của mình chỉ có con đường duy nhất là gì ?",
+    "answers": [
+      "Đánh đuổi đế quốc, bảo vệ Tổ quốc.",
+      "Đánh đuổi đế quốc thực dân, bảo vệ đất nước.",
+      "Đánh đuổi phong kiến thực dân, bảo vệ Tổ quốc.",
+      "Đoàn kết đứng lên đánh giặc, giữ nước."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 30. Về tư tưởng chỉ đạo tác chiến trong nghệ thuật đánh giặc của ông cha ta là gì?",
+    "answers": [
+      "Kiên quyết không ngừng thế tiến công.",
+      "Kiên quyết phòng thủ bảo vệ đất nước.",
+      "Thực hiện tiến công liên tục mọi lúc, mọi nơi, từ cục bộ đến toàn bộ.",
+      "Thực hiện kết hợp tiến công và phòng thủ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 31. Một trong những nội dung dùng mưu đánh giặc trong nghệ thuật Qsự của ông cha ta là gì?",
+    "answers": [
+      "Lừa địch để đánh vào chỗ yếu, chỗ sơ hở, chỗ ít phòng bị, làm cho chúng bị động, lúng túng đối phó.",
+      "Lừa địch đánh vào chỗ yếu khi chúng sơ hở làm cho địch lúng túng đối phó.",
+      "Điều địch theo kế hoạch của ta, giành quyền chủ động.",
+      "Lấy số lượng ít, đánh với số lượng nhiều."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 32. Một trong những nội dung dùng kế đánh giặc trong nghệ thuật Qsự của ông cha ta là gì?",
+    "answers": [
+      "Để điều địch theo ý định của ta, giành quyền chủ động buộc chúng phải đánh theo cách của ta.",
+      "Lừa địch đánh vào chỗ yếu làm cho địch lúng túng đối phó.",
+      "Lừa địch để đánh vào chỗ yếu, chỗ sơ hở, chỗ ít phòng bị",
+      "Lừa địch làm cho chúng bị động, lúng túng đối phó."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 33. Nội dung của nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo là gì?",
+    "answers": [
+      "Chiến lược quân sự và Nghệ thuật chiến dịch.",
+      "Nghệ thuật chiến dịch và Chiến thuật.",
+      "Chiến lược quân sự và Chiến thuật.",
+      "Chiến lược quân sự, Nghệ thuật chiến dịch và Chiến thuật."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 34. Chiến lược quân sự trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo là gì?",
+    "answers": [
+      "Là tổng thể phương châm, chính sách quân sự",
+      "Là tổng thể mưu lược được hoạch định tiến hành chiến tranh thắng lợi.",
+      "Là tổng thể phương châm, chính sách được sử dụng trong thời chiế.",
+      "Là tổng thể phương châm, chính sách và mưu lược được hoạch định để ngăn ngừa và sẵn sàng tiến hành chiến tranh thắng lợi."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 35. Một trong những nội dung của chiến lược quân sự Việt Nam từ khi có Đảng lãnh đạo là gì?",
+    "answers": [
+      "Xác định đúng kẻ thù, đúng đối tượng tác chiến.",
+      "Xây dựng ý chí kiên cường, tinh thần yêu nước cho toàn dân tộc.",
+      "Phát huy sức mạnh của cả dân tộc và thời đại trong chiến tranh bảo vệ Tổ quốc.",
+      "Thực hiện tốt chiến tranh nhân dân trong chiến tranh bảo vệ Tổ quốc."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 36. Nghệ thuật chiến dịch trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo là gì?",
+    "answers": [
+      "Là lý luận và thực tiễn chuẩn bị thực hành chiến tranh",
+      "Là tổng thể những kế hoạch để tiến hành chiến tranh thắng lợi.",
+      "Là tổng thể phương châm, chính sách được sử dụng trong thời chiến.",
+      "Là lý luận và thực tiễn chuẩn bị, thực hành chiến dịch và các hoạt động tác chiến tương đương."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 37.Trong chiến dịch Điện Biên Phủ ta thay đổi phương châm tác chiến như thế nào?",
+    "answers": [
+      "Đánh nhanh, thắng nhanh sang đánh chắc, tiến chắc.",
+      "Đánh nhanh, thắng nhanh sang đánh chiếm từng phần",
+      "Đánh nhanh, thắng nhanh sang táo bạo thần tốc.",
+      "Đánh nhanh, thắng nhanh sang vây lấn."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 38. Chiến thuật trong nghệ thuật quân sự Việt Nam từ khi có Đảng lãnh đạo là gì?",
+    "answers": [
+      "Là lí luận và thực tiễn về tổ chức và thực hành chiến đấu của phân đội, binh đội, binh đoàn LLVT.",
+      "Là lí luận và thực hành chiến đấu của phân đội, binh đội, binh đoàn LLVT.",
+      "Là lý luận và thực tiễn chuẩn bị, thực hành chiến dịch và các hoạt động tác chiến tương đương.",
+      "Là lí luận và cách đánh trong chiến đấu của các phân đội, binh đội, binh đoàn LLVT."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 39. ……..là thời điểm diễn ra chiến dịch phòng ngự Thượng Đức.",
+    "answers": [
+      "Năm 1971.",
+      "Năm 1972.",
+      "Năm 1973.",
+      "Năm 1974 ."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 40. Năm 1974 trong chiến tranh giải phóng đã diễn ra chiến dịch phòng ngự nổi tiếng nào nào?",
+    "answers": [
+      "Chiến dịch phòng ngự Quảng Trị.",
+      "Chiến dịch phòng ngự Tây Nguyên.",
+      "Chiến dịch phòng ngự đường 9.",
+      "Chiến dịch phòng ngự Thượng Đức."
+    ],
+    "correct": 3
+  }
+]

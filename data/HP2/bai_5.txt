@@ -1,0 +1,262 @@
+[
+  {
+    "question": "Em hãy chỉ ra mục đích của phòng ngừa vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là gì?",
+    "answers": [
+      "Ngăn chặn, hạn chế làm giảm và từng bước loại trừ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "Ngăn chặn, hạn chế làm giảm và tiến tới loại trừ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "Ngăn chặn, từng bước giảm thiểu, loại bỏ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "A, B đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Mục đích của pháp luật về bảo đảm trật tự, an toàn giao thông là gì, chọn lựa đáp án đúng?",
+    "answers": [
+      "Nhằm điều chỉnh các quan hệ xã hội phát sinh trong quá trình tổ chức, thực hiện hoạt động chấp hành và điều hành của các cơ quan quản lý nhà nước, tổ chức xã hội và công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông",
+      "Nhằm điều hòa các quan hệ xã hội nảy sinh trong tổ chức, điều hành của các cơ quan quản lý nhà nước, tổ chức xã hội và công dân trên lĩnh vực bảo đảm trật tự, an toàn giao thông.",
+      "Nhằm điều hòa các quan hệ xã hội phát sinh trong quá trình tổ chức điều hành của các cơ quan quản lý nhà nước trên lĩnh vực bảo đảm trật tự, an toàn giao thông",
+      "A, B đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy chỉ ra đâu là nội dung cơ bản của pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Các văn bản quy phạm pháp luật do Chính phủ ban hành có liên quan đến bảo đảm trật tự an toàn giao thông",
+      "Các văn bản quy phạm pháp luật do Quốc hội ban hành có liên quan đến bảo đảm trật tự an toàn giao thông",
+      "Các văn bản quy phạm pháp luật do Nhà nước ban hành có liên quan đến bảo đảm trật tự an toàn giao thông",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy làm rõ nguyên nhân của tình hình vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Quản lý nhà nước về hoạt động giao thông còn nhiều yếu kém, hạn chế.",
+      "Sự không tương thích giữa các yếu tố cơ bản cấu thành hoạt động giao thông vận tải quốc gia",
+      "Tác động tiêu cực của các yếu tố thiên nhiên, môi trường đối với người tham gia giao thông.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em hãy lựa chọn biểu hiện trong đấu tranh chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Là hoạt động của các cơ quan chức năng có thẩm quyền căn cứ vào các quy định của pháp luật, tiến hành tổng hợp các biện pháp theo quy định.",
+      "Là hoạt động của nhà nước, căn cứ vào các quy định của pháp luật, tiến hành tổng hợp các biện pháp theo quy định.",
+      "Là hoạt động của các cơ quan quản lý nhà nước có thẩm quyền căn cứ vào các quy định của pháp luật, tiến hành tổng hợp các biện pháp theo quy định",
+      "A, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra có mấy dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông",
+    "answers": [
+      "Có 5 dấu hiệu",
+      "Có 4 dấu hiệu",
+      "Có 6 dấu hiệu",
+      "Có 7 dấu hiệu"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy tổng hợp các dấu hiệu cơ bản của vi phạm hành chính xảy ra trong bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Tính nguy hiểm cho xã hội; tính trái pháp luật; tính có lỗi; bị xử phạt hành chính.",
+      "Tính trái pháp luật, bị xử phạt hành chính.",
+      "Tính cá nhân, tính chủ quan.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy phân tích mục đích của phòng ngừa vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là gì?",
+    "answers": [
+      "Ngăn chặn, giảm thiểu, loại bỏ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "Ngăn chặn, làm giảm và tiến tới loại trừ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "Ngăn chặn, hạn chế làm giảm và từng bước loại trừ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Vi phạm hình sự về bảo đảm trật tự an toàn giao thông là thế nào, chọn đáp án đúng?",
+    "answers": [
+      "Là những hành vi nguy hiểm cho cá nhân, tổ chức được quy định trong Bộ Luật hình sự, do người có năng lực trách nhiệm hình sự thực hiện một cách cố ý hoặc vô ý.",
+      "Là những hành vi nguy hiểm cho xã hội được quy định trong Bộ Luật hình sự, do người có năng lực trách nhiệm hình sự và đủ độ tuổi chịu trách nhiệm hình sự thực hiện một cách cố ý hoặc vô ý",
+      "Là những hành vi nguy hiểm đến cho xã hội được quy định trong Bộ Luật hình sự, do người có đủ 18 tuổi thực hiện một cách cố ý hoặc vô ý.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em đánh giá như thế nào về vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là cơ sở pháp lý rất quan trọng nhằm quản lý nhà nước về bảo đảm trật tự an toàn giao thông, trật tự an toàn xã hội.",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là cơ sở, công cụ pháp lý quan trọng để thực hiện chức năng quản lý nhà nước về bảo đảm trật tự an toàn giao thông, trật tự an toàn xã hội.",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là công cụ pháp lý cực kỳ quan trọng để quản lý hành chính về bảo đảm trật tự an toàn giao thông, trật tự an toàn xã hội.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông?",
+    "answers": [
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí của Nhà nước, Quốc hội để chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí của Đảng, Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Vi phạm hành chính xảy ra  trong bảo đảm trật tự, an toàn giao thông là hành vi bị …….”",
+    "answers": [
+      "cải tạo không giam giữ",
+      "phạt tiền",
+      "phạt tù",
+      "xử phạt hành chính"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu: “.......... xâm phạm an toàn giao thông: là những hành vi nguy hiểm cho xã hội được quy định trong Bộ Luật hình sự, do người có năng lực trách nhiệm hình sự và đủ độ tuổi chịu trách nhiệm hình sự thực hiện một cách cố ý hoặc vô ý xâm phạm vào những quy định của Nhà nước về an toàn giao thông mà theo quy định của Bộ Luật hình sự phải bị .......”",
+    "answers": [
+      "Tội phạm/ cải tạo",
+      "Tội phạm/ xử lý hình sự",
+      "Hành vi/ loại bỏ",
+      "Hành vi/ phạt tiền"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ nội dung sau: “Tổ chức thực hiện tốt các …….. phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông gắn với ……., …….. cụ thể của từng ngành, từng lực lượng theo quy định của pháp luật.”",
+    "answers": [
+      "quy định/ chuyên môn/ nghiệp vụ",
+      "văn bản/ phân công/ nhiêm vụ",
+      "quy định/ chức năng/ nhiêm vụ",
+      "biện pháp/chức năng /nhiêm vụ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Tuyên truyền, phổ biến, ……. pháp luật về bảo đảm trật tự, an toàn giao thông để nâng cao …….. chấp hành pháp luật về bảo đảm trật tự, an toàn giao thông cho người dân”",
+    "answers": [
+      "giáo dục/ nhận thức",
+      "mở rộng/ trách nhiệm",
+      "giáo dục/ ý thức",
+      "mở rộng/ tự giác"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ câu sau: “Phòng ngừa vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông là hoạt động của các cơ quan Nhà nước, các tổ chức xã hội và công dân bằng nhiều hình thức, biện pháp hướng đến việc triệt tiêu các ………, ……… của vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông nhằm ngăn chặn, hạn chế làm giảm và từng bước loại trừ vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông ra khỏi đời sống xã hội.”",
+    "answers": [
+      "dấu hiệu/ biểu hiện",
+      "nhân tố/ thành phần",
+      "thành tố/ nguyên nhân",
+      "nguyên nhân/ điều kiện"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ nội dung sau: “Vi phạm pháp luật về bảo đảm trật tự an toàn giao thông là hành vi ……..,  …….. do chủ thể có năng lực trách nhiệm pháp lý thực hiện”.",
+    "answers": [
+      "trái pháp luật/ sai lầm",
+      "trái pháp luật/ có lỗi",
+      "phạm pháp/ bồng bột",
+      "trái pháp luật/ cố ý"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Thái độ của em khi chứng kiến hành vi vi phạm pháp luật về an toàn giao thông?",
+    "answers": [
+      "Lên án gay gắt",
+      "Không quan tâm",
+      "Khuyên bảo chỉ dẫn",
+      "Hùa theo cho vui"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với nhà trường giáo dục, nâng cao trách nhiệm, ý thức tham gia giao thông an toàn cho sinh viên?",
+    "answers": [
+      "Tránh xa các hiện tượng tiêu cực, nguy cơ tội phạm trong nhà trường.",
+      "Tham gia đầy đủ các phong trào tham gia giao thông văn minh trường phát động",
+      "Báo cáo nhà trường khi thấy dấu hiệu tội phạm",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện ý thức trách nhiệm trong bảo đảm trật tự an toàn giao thông?",
+    "answers": [
+      "Tham gia tập huấn về ATGT cho vui",
+      "Đi xe bus đi học",
+      "Không ngừng học tập nâng cao kiến thức, ý thức pháp luật và nội dung cơ bản nhất về phòng ngừa tội phạm. Tuyên truyền phổ biến pháp luật cho mọi người",
+      "Vượt đèn đỏ khi vắng người"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Phòng ngừa có ý nghĩa quan trọng, em hãy lựa chọn giải pháp cốt lõi để phòng ngừa tội phạm về an toàn giao thông?",
+    "answers": [
+      "Triệt tiêu các nguyên nhân, điều kiện dẫn đến tội phạm.",
+      "Áp dụng công nghệ hiện đại trong phát hiện tội phạm.",
+      "Phối hợp các lực lượng để phòng chống tội phạm.",
+      "Xử lý nghiêm tội phạm."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trợ giúp lực lượng chức năng trong phát hiện, ngăn chặn, xử lý các hành vi vi phạm pháp luật về an toàn giao thông?",
+    "answers": [
+      "Báo công an khi gặp hành vi vi phạm pháp luật về an toàn giao thông",
+      "Lên án những hành vi vi vi phạm pháp luật về môi trường",
+      "Nhắc nhở mọi người luôn cảnh giác",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra vai trò của pháp luật về bảo đảm trật tự, an toàn giao thông:",
+    "answers": [
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí của Đảng, Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông.",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí, nguyện vọng của nhân dân do Nhà nước chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông.",
+      "Pháp luật về bảo đảm trật tự an toàn giao thông là ý chí của Nhà nước để chỉ đạo và tổ chức thực hiện bảo đảm trật tự an toàn giao thông.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra có mấy dấu hiệu pháp lý của tội phạm an toàn giao thông:",
+    "answers": [
+      "Có 5 dấu hiệu.",
+      "Có 4 dấu hiệu.",
+      "Có 3 dấu hiệu.",
+      "Có 2 dấu hiệu."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Có mấy chủ thể quan hệ phối hợp trong thực hiện phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông, chọn đáp án đúng:",
+    "answers": [
+      "Có 7 chủ thể.",
+      "Có 6 chủ thể.",
+      "Có 5 chủ thể.",
+      "Có 4 chủ thể."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Có mấy biện pháp phòng, chống vi phạm pháp luật về bảo đảm trật tự, an toàn giao thông, chọn đáp án đúng:",
+    "answers": [
+      "Có 7 biện pháp.",
+      "Có 8 biện pháp.",
+      "Có 6 biện pháp.",
+      "Có 9 biện pháp."
+    ],
+    "correct": 0
+  }
+]

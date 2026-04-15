@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Em hiểu thế nào là hành vi xâm phạm nhân phẩm, danh dự của con người?",
+    "answers": [
+      "Là làm cho người đó bị coi thường, bị khinh rẻ trong gia đình, tập thể, trong cộng đồng dân cư, trong xã hội",
+      "Là làm cho nhiều người bị xúc phạm, bị khinh rẻ trong gia đình, tập thể, trong nhân dân, trong xã hội",
+      "Là làm cho người đó bị xúc phạm, bị coi thường, bị khinh rẻ trong gia đình, tập thể, trong nhân dân, trong xã hội",
+      "B, C đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra tính chất của phòng, chống tội phạm?",
+    "answers": [
+      "Hạn chế đến mức thấp nhất hậu quả, tác hại khi tội phạm xảy ra.",
+      "Hạn chế những hậu quả, tác hại khi tội phạm xảy ra.",
+      "Hạn chế, ngăn ngừa đến mức thấp nhất những tác hại khi tội phạm xảy ra.",
+      "A, C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Nhân phẩm của con người được hiểu như thế nào, chọn lựa đáp án đúng?",
+    "answers": [
+      "Là phẩm chất, giá trị vật chất của một con người cụ thể và được pháp luật bảo vệ.",
+      "Là phẩm chất, giá trị tinh thần của một con người cụ thể và được pháp luật bảo vệ.",
+      "Là phẩm chất, giá trị của một con người cụ thể và được pháp luật bảo vệ.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy chỉ ra thế nào là hành vi xâm phạm nhân phẩm, danh dự của con người?",
+    "answers": [
+      "Là làm cho người đó bị coi thường, bị khinh rẻ trong gia đình, tập thể, trong cộng đồng dân cư, trong xã hội",
+      "Là làm cho người đó bị xúc phạm, bị coi thường, bị khinh rẻ trong gia đình, tập thể, trong nhân dân, trong xã hội.",
+      "Là làm cho mỗi cá nhân bị xúc phạm, bị coi thường trong gia đình, tập thể, trong nhân dân, trong xã hội",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy làm rõ tính chất của phòng, chống tội phạm?",
+    "answers": [
+      "Hạn chế những hậu quả, tác hại mà tội phạm gây ra.",
+      "Hạn chế đến mức thấp nhất hậu quả, tác hại khi tội phạm xảy ra.",
+      "Hạn chế, ngăn ngừa đến mức thấp nhất những tác hại khi tội phạm xảy ra.",
+      "B, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy lựa chọn đâu là nội dung hoạt động phòng, chống tội phạm xâm phạm danh dự, nhân phẩm?",
+    "answers": [
+      "Đổi mới và hoàn thiện thể chế, chính sách kinh tế, xã hội góp phần nâng cao chất lượng, hiệu quả phòng, chống tội phạm.",
+      "Đổi mới và hoàn thiện hệ thống pháp luật và các chính sách kinh tế, xã hội góp phần bảo đảm an sinh xã hội, nâng cao hiệu quả phòng, chống tội phạm.",
+      "Đổi mới và hoàn thiện thể chế, chính sách kinh tế, xã hội góp phần bảo đảm an sinh xã hội, nâng cao hiệu quả phòng, chống tội phạm.",
+      "A, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra có mấy nguyên tắc tổ chức hoạt động phòng, chống tội phạm?",
+    "answers": [
+      "Có 4 dấu hiệu",
+      "Có 5 dấu hiệu",
+      "Có 6 dấu hiệu",
+      "Có 7 dấu hiệu"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy tổng hợp các nhóm tội phạm xâm phạm danh dự, nhân phẩm?",
+    "answers": [
+      "Các tội xâm phạm tình dục.",
+      "Các tội mua bán người.",
+      "Các tội làm nhục người khác và các tội khác về HIV.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em hãy phân tích nhiệm vụ của công an nhân dân trong phòng, chống tội phạm?",
+    "answers": [
+      "Trực tiếp tổ chức, triển khai các hoạt động phòng ngừa xã hội và tiến hành toàn diện hoạt động phòng ngừa điều tra tội phạm.",
+      "Trực tiếp tổ chức, triển khai các biện pháp phòng ngừa xã hội và tiến hành toàn diện hoạt động phòng ngừa nghiệp vụ, điều tra tội phạm.",
+      "Tổ chức, triển khai các hoạt động phòng ngừa, ngăn chặn xã hội và tiến hành các hoạt động phòng ngừa nghiệp vụ, điều tra tội phạm.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Công dân có trách nhiệm gì trong phòng, chống tội phạm, chọn đáp án đúng?",
+    "answers": [
+      "Thực hiện nghiêm quyền, nghĩa vụ của công dân đã được quy định trong Hiến pháp, chủ động tham gia hoạt động phòng ngừa tội phạm",
+      "Thực hiện tốt nghĩa vụ của công dân đã được quy định trong Hiến pháp, tích cực tham gia công tác phòng ngừa tội phạm.",
+      "Thực hiện tốt các quyền, nghĩa vụ của công dân đã được quy định trong Hiến pháp, tích cực tham gia hoạt động phòng ngừa tội phạm.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em đánh giá như thế nào về các hành vi phạm tội lây truyền HIV cho người khác và cố ý truyền HIV cho người khác?",
+    "answers": [
+      "Làm tổn thương đến sức khoẻ của người khác.",
+      "Làm ảnh hưởng đến tinh thần của nạn nhân",
+      "Làm ảnh hưởng đến tính mạng của nạn nhân",
+      "A, B là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra biện pháp phòng ngừa chung được hiểu như thế nào?",
+    "answers": [
+      "Là tổng hợp tất cả các biện pháp quản lý về chính trị, kinh tế, văn hoá, pháp luật, giáo dục",
+      "Là tổng hợp tất cả các biện pháp về chính trị, kinh tế, văn hoá, pháp luật, giáo dục.",
+      "Là tổng hợp những vấn đề về chính trị, kinh tế, văn hoá, ngoại giao, pháp luật, giáo dục.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Phòng ngừa tội phạm là …… chính, là tư tưởng chỉ đạo trong công tác đấu tranh phòng chống tội phạm, phòng ngừa không để tội phạm xảy ra”",
+    "answers": [
+      "nội dung",
+      "phương án",
+      "chủ trương",
+      "phương hướng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu: “Mục đích của công tác phòng ngừa tội phạm: là khắc phục, thủ tiêu các ……., ……… của tình trạng phạm tội nhằm ngăn chặn, hạn chế, làm giảm từng bước tiến tới loại trừ tội phạm này ra khỏi đời sống xã hội”:",
+    "answers": [
+      "tiền đề/ lý do",
+      "nguyên nhân/ điều kiện",
+      "hành vi/ biểu hiện",
+      "hành vi/ cơ sở"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ nội dung sau : “Nguyên tắc dân chủ xã hội chủ nghĩa: mọi cơ quan tổ chức công dân đều có thể ……. họat động …… tội phạm và nhà nước phải tạo mọi điều kiện cho các …….. tham gia họat động phòng ngừa tội phạm”:",
+    "answers": [
+      "tiến hành/ phòng ngừa / cá nhân",
+      "tiến hành/ phòng chống/ cá nhân",
+      "tham gia/ phòng chống/ chủ thể",
+      "tham gia/ phòng ngừa/ chủ thể"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Nguyên tắc nhân đạo trong phòng ngừa: các biện pháp phòng ngừa tội phạm không được hạ thấp ……., ……. con người mà phải nhằm khôi phục con người và tạo điều kiện để con người phát triển”:",
+    "answers": [
+      "phẩm giá/ tự trọng",
+      "uy tín/ phẩm giá",
+      "danh dự/ nhân phẩm",
+      "nhân phẩm/ uy tín"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Tính chất của phòng, chống tội phạm là hạn chế đến mức thấp nhất………, tác hại khi tội phạm xảy ra”",
+    "answers": [
+      "hành vi",
+      "nguy cơ",
+      "tình trạng",
+      "hậu quả"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để hoàn thiện câu sau: “Phòng ngừa mang ý nghĩa ……., ………. sâu sắc, làm tốt công tác phòng ngừa giúp giữ vững an ninh quốc gia, trật tự an toàn xã hội, bảo vệ tài sản của xã hội, tính mạng, sức khoẻ, danh dự, phẩm giá của mọi người dân”:",
+    "answers": [
+      "quốc phòng/ đối ngoại",
+      "dân tộc/ tôn giáo",
+      "kinh tế/ xã hội",
+      "chính trị/ xã hội"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Thái độ của em khi bị người khác vu khống?",
+    "answers": [
+      "Tố cáo với cơ quan công an",
+      "Không quan tâm",
+      "Sợ hãi trốn tránh",
+      "Báo với gia đình"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với nhà trường xây dựng nhà trường có văn hóa trong sạch, lành mạnh không có các hiện tượng tiêu cực và các tệ nạn xã hội?",
+    "answers": [
+      "Thực hiện tốt nội quy trường lớp.",
+      "Tích cực học tập, tu dưỡng đạo đức",
+      "Báo cáo nhà trường khi thấy dấu hiệu tội phạm",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện ý thức trách nhiệm trong phòng chống tội phạm xâm phạm danh dự nhân phẩm?",
+    "answers": [
+      "Hùa theo nhóm bạn mạt sát người khác",
+      "Thấy dấu hiệu tội phạm nhưng không dám lên tiếng sợ liên luỵ bản thân",
+      "Sống và làm việc theo hiến pháp, pháp luật",
+      "Cam chịu khi bị sỉ nhục"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Phòng ngừa có ý nghĩa quan trọng, em hãy lựa chọn giải pháp cốt lõi giúp địa phương phòng ngừa tội phạm danh dự nhân phẩm?",
+    "answers": [
+      "Triệt tiêu các nguyên nhân, điều kiện dẫn đến tội phạm.",
+      "Giáo dục nâng cao nhận thức, ý thức cho người thân.",
+      "Phát hiện, ngăn chặn kịp thời những mâu thuẫn",
+      "Xử lý nghiêm tội phạm."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trơ giúp lực lượng chức năng trong phát hiện, ngăn chặn, xử lý tội phạm danh dự nhân phẩm?",
+    "answers": [
+      "Báo công an khi gặp hành vi phạm tội?",
+      "Lên án những hành vi phạm tội",
+      "Nhắc nhở mọi người luôn cảnh giác.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra mục đích của phòng, chống tội phạm:",
+    "answers": [
+      "Là khắc phục, ngăn chặn các nguyên nhân, điều kiện của tình trạng phạm tội nhằm hạn chế, tiến tới loại trừ tội phạm ra khỏi đời sống xã hội.",
+      "Là khắc phục, thủ tiêu các điều kiện của tình trạng phạm tội nhằm ngăn chặn, tiến tới loại bỏ tội phạm ra khỏi đời sống xã hội.",
+      "Là khắc phục, thủ tiêu các nguyên nhân, điều kiện của tình trạng phạm tội nhằm ngăn chặn, hạn chế, làm giảm từng bước tiến tới loại trừ tội phạm ra khỏi đời sống xã hội.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Biện pháp phòng ngừa chung được hiểu như thế nào, chọn đáp án đúng:",
+    "answers": [
+      "Là tổng hợp tất cả các biện pháp quản lý về chính trị, kinh tế, văn hoá, pháp luật, giáo dục.",
+      "Là tổng hợp tất cả các biện pháp về chính trị, kinh tế, văn hoá, pháp luật, giáo dục.",
+      "Là tổng hợp những vấn đề về chính trị, kinh tế, văn hoá, ngoại giao, pháp luật, giáo dục.",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trách nhiệm của nhà trường trong phòng chống tội phạm, chọn đáp án đúng:",
+    "answers": [
+      "Xây dựng nhà trường văn hóa, văn minh, trong sạch, lành mạnh không có các hiện tượng tiêu cực và các tệ nạn xã hội.",
+      "Xây dựng nhà trường có môi trường văn hóa trong sạch, lành mạnh không có các hiện tượng tiêu cực và các tệ nạn xã hội.",
+      "Xây dựng nhà trường trong sạch, lành mạnh không có các hiện tượng tiêu cực, các tội phạm và các tệ nạn xã hội.",
+      "Xây dựng nhà trường văn minh, lành mạnh không có các hiện tượng tiêu cực và các tệ nạn xã hội."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra có mấy biện pháp phòng, chống tội phạm xâm phạm danh dự nhân phẩm:",
+    "answers": [
+      "Có 3 biện pháp.",
+      "Có 4 biện pháp.",
+      "Có 5 biện pháp.",
+      "Có 6 biện pháp."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chọn một nội dung tổ chức tiến hành các hoạt động phát hiện, điều tra, xử lý tội phạm phạm danh dự nhân phẩm:",
+    "answers": [
+      "Xây dựng, triển khai các chương trình, kế hoạch chuyên đề đấu tranh phòng, chống với các loại tội phạm nổi lên ở từng giai đoạn.",
+      "Xây dựng, triển khai các nội dung chương trình, kế hoạch chuyên đề đấu tranh với các loại tội phạm nổi lên ở từng giai đoạn.",
+      "Xây dựng, triển khai các chương trình, kế hoạch chuyên đề đấu tranh với các loại tội phạm nổi lên ở từng giai đoạn.",
+      "Xây dựng, triển khai các kế hoạch chuyên đề đấu tranh với các loại tội phạm nguy hiểm nổi lên ở từng giai đoạn."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Nguyên tắc nhân đạo trong phòng, chống tội phạm là gì, chọn đáp án đúng:",
+    "answers": [
+      "Các biện pháp phòng ngừa tội phạm không được hạ thấp danh dự nhân phẩm con người mà phải nhằm khôi phục con người và tạo điều kiện để con người phát triển.",
+      "Các biện pháp phòng ngừa tội phạm tuyệt đối không được hạ thấp lòng tự trọng, nhân phẩm con người mà phải nhằm giáo dục con người.",
+      "Các biện pháp phòng ngừa tội phạm không được hạ thấp danh dự mà phải cảm hóa, giáo dục con người và tạo điều kiện để con người phát triển.",
+      "B, C đều đúng"
+    ],
+    "correct": 0
+  }
+]

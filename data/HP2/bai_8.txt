@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Chỉ ra những thách thức đối với an ninh truyền thống:",
+    "answers": [
+      "Nguy cơ xảy ra chiến tranh xâm lược hoặc xung đột vũ trang về biên giới, biển, đảo",
+      "Nguy cơ xảy ra xung đột vũ trang sử dụng các loại vũ khí hiện đại",
+      "Nguy cơ xảy ra chiến tranh xâm lược hoặc xung đột vũ trang về biên giới, lãnh hải",
+      "C và B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy làm rõ mục tiêu an ninh truyền thống:",
+    "answers": [
+      "Là bảo vệ lợi ích và chủ quyền quốc gia, bảo vệ an ninh chính trị, an ninh quân sự và an ninh an toàn xã hội",
+      "Là bảo vệ lợi ích và chủ quyền toàn vẹn lãnh thổ quốc gia, bảo vệ an ninh chính trị, an ninh văn hóa xã hội",
+      "Là bảo vệ lợi ích và độc lập chủ quyền quốc gia, bảo vệ an ninh chính trị, an ninh quân sự, an ninh kinh tế và an ninh an toàn xã hội",
+      "A và C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "An ninh truyền thống được hiểu như thế nào, chọn lựa đáp án đúng?",
+    "answers": [
+      "An ninh truyền thống được hiểu đồng nghĩa với an ninh quốc gia",
+      "An ninh truyền thống chính là an ninh quốc gia",
+      "An ninh truyền thống là một nội dung của an ninh quốc gia",
+      "A, B là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy chỉ ra những thách thức đối với an ninh truyền thống là gì:",
+    "answers": [
+      "Nguy cơ xảy ra chiến tranh xâm lược hoặc xung đột vũ trang về biên giới, biển, đảo",
+      "Nguy cơ xảy ra chiến tranh hạt nhân hoặc xung đột vũ trang sử dụng vũ khí công nghệ cao",
+      "Nguy cơ xảy ra chiến tranh xâm lược hoặc xung đột vũ trang về biên giới, lãnh hải\t.",
+      "A, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy làm rõ an ninh phi truyền thống được hiểu như thế nào:",
+    "answers": [
+      "Là những vấn đề tác động trực tiếp đến sự ổn định, phát triển và an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "Là những vấn đề có ảnh hưởng trực tiếp đến sự ổn định, phát triển và an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "Là những vấn đề có ảnh hưởng gián tiếp đến an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "B, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy lựa chọn đâu là một trong những nội dung nhận diện an ninh phi truyền thống:",
+    "answers": [
+      "Là những nội dung nằm ngoài vấn đề quân sự",
+      "Là những vấn đề nằm ngoài vấn đề quân sự",
+      "Là những vấn đề không thuộc về vấn đề quân sự.",
+      "Là những nội dung có liên quan đến vấn đề quân sự"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra trong tuyên bố chung ASEAN - Trung Quốc (01/11/2002) về hợp tác trên lĩnh vực an ninh phi truyền thống gồm những nội dung nào:",
+    "answers": [
+      "Buôn lậu, ma túy, buôn bán phụ nữ và trẻ em, cướp biển, khủng bố an ninh mạng, rửa tiền, tội phạm kinh tế quốc tế, tội phạm công nghệ cao",
+      "Buôn lậu, ma túy, buôn bán người, cướp biển, khủng bố có sử dụng vũ khí, buôn lậu vũ khí, rửa tiền, tội phạm kinh tế quốc tế, tội phạm công nghệ cao",
+      "Buôn lậu, ma túy, buôn bán phụ nữ và trẻ em, cướp biển, khủng bố, buôn lậu vũ khí, rửa tiền, tội phạm kinh tế quốc tế, tội phạm công nghệ cao",
+      "Buôn lậu, ma túy, buôn bán phụ nữ và trẻ em, cướp biển, khủng bố, tội phạm công nghệ cao"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy tổng hợp và cho biết những tác động của an ninh phi truyền thống đến kinh tế nước ta:",
+    "answers": [
+      "Làm cho nền kinh tế nước ta suy thoái, kém phát triển, gây ra những hệ lụy nguy hiểm, khó lường, để lại hậu quả nặng nề",
+      "Làm cho nền kinh tế Việt Nam suy thoái, chậm phát triển, gây ra những hệ lụy khó lường, để lại hậu quả nặng nề",
+      "Làm cho nền kinh tế nước ta suy thoái, kém phát triển, gây ra đói nghèo, để lại hậu quả nặng nề khó khắc phục",
+      "A, C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy phân tích những thách thức đối với an ninh truyền thống:",
+    "answers": [
+      "Nguy cơ xảy ra nội chiến nhằm lật đổ một chính quyền hoặc làm thay đổi thể chế chính trị của mỗi quốc gia",
+      "Nguy cơ xảy ra đảo chính quân sự nhằm lật đổ nhà nước hoặc làm thay đổi thể chế chính trị của mỗi quốc gia",
+      "Nguy cơ xảy ra đảo chính quân sự nhằm lật đổ một chính quyền hoặc làm thay đổi thể chế chính trị của mỗi quốc gia",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Đại hội Đảng XII bổ sung, phát triển những mục tiêu, nhiệm vụ bảo vệ Tổ quốc, chọn đáp án đúng:",
+    "answers": [
+      "Giữ vững môi trường hòa bình, ổn định để phát triển đất nước",
+      "Giữ vững an ninh quốc gia và môi trường hòa bình, ổn định để phát triển đất nước",
+      "Giữ vững độc lập, chủ quyền, ổn định để phát triển đất nước",
+      "B, C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em đánh giá như thế nào về ảnh hưởng của các vấn đề an ninh phi truyền thống?",
+    "answers": [
+      "Có ảnh hưởng nghiêm trọng đến sự ổn định, phát triển và an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "Có ảnh hưởng trực tiếp đến sự ổn định, phát triển và an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "Có ảnh hưởng một phần đến sự ổn định, phát triển và an ninh của một quốc gia, khu vực hoặc trên toàn thế giới",
+      "A, B đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra theo Chương trình Phát triển Liên Hiệp Quốc thì an ninh con người (cá nhân) có mấy thành tố:",
+    "answers": [
+      "Có 7 thành tố",
+      "Có 8 thành tố",
+      "Có 9 thành tố",
+      "Có 10 thành tố"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “An ninh phi truyền thống có ……… lớn, đe dọa đến an ninh quốc gia, đến cộng đồng người không chỉ trong phạm vi một hoặc một số nước, mà còn đe dọa đến toàn thể nhân loại”:",
+    "answers": [
+      "tác động",
+      "sức đe doạ",
+      "sức mạnh",
+      "ảnh hưởng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu: “Có thể chia các vấn đề an ninh phi truyền thống thành 2 nhóm, ….. và ……”:",
+    "answers": [
+      "kinh tế/chính trị",
+      "bạo lực/ phi bạo lực",
+      "con người/ tự nhiên",
+      "tội phạm/khủng bố"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ nội dung sau : “Các vấn đề an ninh phi truyền thống ảnh hưởng và …… an ninh quốc gia dần dần và ………. hơn so với các vấn đề an ninh truyền thống”:",
+    "answers": [
+      "xâm phạm/ sâu rộng",
+      "suy giảm/mạnh mẽ",
+      "chi phối/nghiêm trọng",
+      "hủy hoại/ lâu dài"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Tác động xấu từ những hiểm họa của an ninh phi truyền thống làm cho nền kinh tế nước ta …….., ……… gây ra những hệ lụy nguy hiểm, khó lường, để lại hậu quả nặng nề”:",
+    "answers": [
+      "lũng loạn/ kém phát triển",
+      "trì trệ/ suy thoái",
+      "suy thoái/ kém phát triển",
+      "chững lại/ suy thoái"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “An ninh phi truyền thống và an ninh truyền thống là ……. của khái niệm an ninh toàn diện”:",
+    "answers": [
+      "hai mặt",
+      "hai đặc trưng",
+      "hai phạm trù",
+      "hai khía cạnh"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống: “Cần sớm thành lập ……… phòng ngừa, ứng phó với các mối đe dọa an ninh phi truyền thống trên nhiều lĩnh vực, trong đó nguồn tài chính ngân sách là chủ yếu, kết hợp với các nguồn khác”:",
+    "answers": [
+      "ban chỉ đạo quốc gia",
+      "quỹ quốc gia",
+      "ban ngân sách quốc gia",
+      "các tổ chức"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em sẽ có thái độ như thế nào khi thấy một nhóm sinh viên rủ nhau sử dụng chất cấm trong lớp:",
+    "answers": [
+      "Sợ hãi tránh xa",
+      "Báo ngay với thầy cô giáo",
+      "Báo ngay cho công an",
+      "Chia sẻ cho mọi người biết"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với nhà trường trong bảo vệ môi trường?",
+    "answers": [
+      "Sử dụng bình nước cá nhân",
+      "Tham gia câu lạc bộ vì môi trường để lấy thành tích",
+      "Xả rác ở trường trước khi về",
+      "Sử dụng nhiều ống hút nhựa"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện ý thức trách nhiệm trong phòng chống và ứng phó với an ninh phi truyền thống trong nhà trường:",
+    "answers": [
+      "Tham gia nhiệt tình các phong trào vì môi trường mà nhà trường phát động",
+      "Báo cáo với thầy cô khi phát hiện dấu hiệu tội phạm trong nhà trường",
+      "Sử dụng nhiều chai nước",
+      "A, B là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Phòng chống và ứng phó với an ninh phi truyền thống và trách nhiệm của toàn Đảng, toàn dân, em hãy lựa chọn những việc  bản thân có thể làm được:",
+    "answers": [
+      "Sử dụng tiết kiệm tài nguyên",
+      "Bảo vệ môi trường, phòng trừ dịch bệnh",
+      "Sống và làm việc theo Hiến pháp và pháp luật",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trơ giúp lực lượng chức năng trong phát hiện, ngăn chặn, xử lý tội phạm về ma tuý và buôn lậu:",
+    "answers": [
+      "Tuyên truyền, giáo dục phòng chống tội phạm cho gia đình và bạn bè",
+      "Lên án đấu tranh loại bỏ tội phạm ra khỏi đời sống",
+      "Không tiếp tay cho tội phạm",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra quan niệm mới của Đảng về an ninh quốc gia:",
+    "answers": [
+      "Bao gồm: an ninh chính trị, an ninh kinh tế, an ninh quốc phòng, an ninh đối ngoại, an ninh văn hóa - xã hội",
+      "Bao gồm: an ninh chính trị, an ninh quốc phòng, an ninh đối ngoại, an ninh tư tưởng, an ninh thương mại, an ninh văn hóa - xã hội",
+      "Bao gồm: an ninh chính trị, an ninh quốc phòng, an ninh đối ngoại, an ninh mạng, an ninh tư tưởng, an ninh văn hóa - xã hội",
+      "A, C đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Theo Chương trình Phát triển Liên Hiệp Quốc thì an ninh con người (cá nhân) có mấy thành tố, chọn đáp án đúng:",
+    "answers": [
+      "Có 7 thành tố",
+      "Có 8 thành tố",
+      "Có 6 thành tố",
+      "Có 9 thành tố"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Báo cáo “Phát triển con người” năm 1994 của Liên Hiệp Quốc an ninh cộng đồng bao gồm những lĩnh vực nào, chọn đáp án đúng:",
+    "answers": [
+      "Kinh tế, lương thực, sức khỏe, môi trường, y tế, cộng đồng, chính trị",
+      "Kinh tế, lương thực, sức khỏe, môi trường, văn hóa, cộng đồng, chính trị",
+      "Kinh tế, lương thực, sức khỏe, môi trường, con người, cộng đồng, chính trị",
+      "Kinh tế, lương thực, sức khỏe, môi trường, văn hóa xã hội, cộng đồng, chính trị"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra một trong những nội dung nhận diện an ninh phi truyền thống:",
+    "answers": [
+      "Là những nội dung nằm ngoài vấn đề quân sự",
+      "Là những vấn đề nằm ngoài vấn đề quân sự",
+      "Là những nội dung thuộc về vấn đề quân sự",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra một trong những nội dung nhận diện an ninh phi truyền thống:",
+    "answers": [
+      "Có tính chất phức tạp, diễn biến nhanh chóng, khó lường",
+      "Có nhiều nội dung phức tạp, diễn biến mau lẹ khó đối phó",
+      "Có tính chất phức tạp, diễn biến khó lường",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra một trong những đặc điểm của an ninh phi truyền thống:",
+    "answers": [
+      "An ninh phi truyền thống và an ninh truyền thống là một bộ phận của an ninh toàn diện",
+      "An ninh phi truyền thống và an ninh truyền thống là hai mặt của khái niệm an ninh toàn diện",
+      "An ninh phi truyền thống và an ninh truyền thống là một nội dung của an ninh toàn diện",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  }
+]

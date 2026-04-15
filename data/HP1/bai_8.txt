@@ -1,0 +1,442 @@
+[
+  {
+    "question": "Câu 1: Các yếu tố cấu thành quốc gia:",
+    "answers": [
+      "Lãnh thổ, dân cư và nhà nước.",
+      "Lãnh thổ, dân cư và chế độ chính trị.",
+      "Lãnh thổ, dân cư và quyền lực công cộng.",
+      "Lãnh thổ, dân cư và hệ thống chính trị."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 2: Lãnh thổ quốc gia là:",
+    "answers": [
+      "Phạm vi không gian bao gồm vùng đất, vùng biển, vùng trời của quốc gia.",
+      "Phạm vi không gian bao gồm vùng đất, các đảo, vùng biển, vùng trời của quốc gia.",
+      "Phạm vi không gian được giới hạn bởi biên giới quốc gia thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia.",
+      "Phạm vi không gian bao gồm vùng đất, vùng biển, vùng trời, các đảo và quần đảo của quốc gia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 3: Lãnh thổ quốc gia Việt Nam bao gồm:",
+    "answers": [
+      "Vùng đất, vùng biển, vùng trời quốc gia.",
+      "Đất liền, vùng biển đảo và vùng trời quốc gia.",
+      "Vùng đất, vùng biển, vùng trời quốc gia và lãnh thổ quốc gia đặc biệt.",
+      "Vùng đất, vùng biển đảo, vùng trời và khu vực biên giới quốc gia."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 4: Vùng đất quốc gia Việt Nam bao gồm:",
+    "answers": [
+      "Đất liền, các đảo và quần đảo.",
+      "Đất liền, các đảo và bán đảo.",
+      "Đất liền và các quần đảo.",
+      "Đất liền, bán đảo và quần đảo."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 5: Trong vùng biển quốc gia, nội thủy là:",
+    "answers": [
+      "Vùng nước nằm bên trong lục địa.",
+      "Vùng biển nằm ở phía trong của đường cơ sở.",
+      "Vùng biển nằm phía trong biên giới quốc gia trên biển.",
+      "Vùng biển nằm phía ngoài đường cơ sở."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 6: Trong vùng biển quốc gia, nội thủy có chế độ pháp lý:",
+    "answers": [
+      "Tương tự như lãnh hải.",
+      "Như trên đất liền.",
+      "Như vùng đặc quyền kinh tế.",
+      "Như vùng tiếp giáp lãnh hải."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 7: Quốc gia ven biển có chủ quyền hoàn toàn, đầy đủ và tuyệt đối ở:",
+    "answers": [
+      "Lãnh hải.",
+      "Nội thủy.",
+      "Vùng tiếp giáp lãnh hải.",
+      "Vùng đặc quyền kinh tế."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 8: Vùng biển quốc gia, lãnh hải là:",
+    "answers": [
+      "Vùng biển có chiều rộng 12 hải lý tính từ bờ biển.",
+      "Vùng biển có chiều rộng 12 hải lý tính từ biên giới quốc gia trên biển.",
+      "Vùng biển có chiều rộng 10 hải lý tính từ đường cơ sở.",
+      "Vùng biển có chiều rộng 12 hải lý tính từ đường cơ sở."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 9: Tại vùng biển ………., quốc gia ven biển có chủ quyền hoàn toàn, đầy đủ và không tuyệt đối:",
+    "answers": [
+      "Nội thủy.",
+      "Lãnh hải.",
+      "Vùng tiếp giáp lãnh hải.",
+      "Vùng đặc quyền kinh tế."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 10: Lãnh hải của nước ta gồm:",
+    "answers": [
+      "Lãnh hải của đất liền.",
+      "Lãnh hải của đảo.",
+      "Lãnh hải của quần đảo.",
+      "Cả ba lựa chọn trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 11: Biên giới quốc gia trên biển là:",
+    "answers": [
+      "Ranh giới ngoài của lãnh hải.",
+      "Ranh giới ngoài của các vùng tiếp giáp lãnh hải.",
+      "Ranh giới ngoài của vùng đặc quyền kinh tế.",
+      "Ranh giới ngoài của nội thủy."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 12: Vùng trời quốc gia là:",
+    "answers": [
+      "Khoảng không gian phía trên vùng đất và vùng biển quốc gia.",
+      "Khoảng không gian phía trên đất liền và vùng biển quốc gia.",
+      "Khoảng không gian phía trên lãnh thổ quốc gia.",
+      "Khoảng không gian phía trên đất liền, đảo và quần đảo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 13: Chủ quyền quốc gia là:",
+    "answers": [
+      "Quyền làm chủ một cách độc lập, đầy đủ về mọi mặt lập pháp, hành pháp và tư pháp trong phạm vi lãnh thổ của quốc gia đó.",
+      "Quốc gia thể hiện chủ quyền của mình trên mọi phương diện kinh tế, chính trị, quân sự, ngoại giao.",
+      "Quyền làm chủ vận mệnh của mỗi dân tộc, quyền quyết định chế độ chính trị.",
+      "Quyền làm chủ một cách độc lập, toàn vẹn và đầy đủ về mọi mặt lập pháp, hành pháp và tư pháp trong phạm vi lãnh thổ của quốc gia đó;Quyền làm chủ vận mệnh của mỗi dân tộc, quyền quyết định chế độ chính trị, con đường phát triển."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 14: Các quốc gia thể hiện chủ quyền trên những phương diện nào:",
+    "answers": [
+      "Kinh tế.",
+      "Chính trị.",
+      "Quân sự, ngoại giao.",
+      "Tất cả lựa chọn trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 15: Chủ quyền lãnh thổ quốc gia là:",
+    "answers": [
+      "Một bộ phận của chủ quyền quốc gia, khẳng định quyền làm chủ vùng đất, biển, vùng trời của quốc gia.",
+      "Quyền thiêng liêng bất khả xâm phạm, quyết định mọi vấn đề đối nội, đối ngoại của quốc gia.",
+      "Một bộ phận của chủ quyền quốc gia, khẳng định quyền làm chủ của quốc gia đó trên vùng lãnh thổ của mình.",
+      "Quyền thiêng liêng bất khả xâm phạm, quyết định mọi vấn đề chính trị, kinh tế, văn hóa, xã hội."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 16: Nội dung xây dựng và bảo vệ chủ quyền lãnh thổ quốc gia:",
+    "answers": [
+      "Đấu tranh làm thất bại các hoạt động phá hoại của các thế lực chống phá Việt Nam.",
+      "Xây dựng và phát triển kinh tế, xã hội kết hợp với tăng cường củng cố quốc phòng an ninh.",
+      "Xác lập và bảo vệ quyền lập pháp, hành pháp, tư pháp về mọi mặt trong phạm vi lãnh thổ.",
+      "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước; tích cực chủ động hội nhập quốc tế."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 17: Nội dung xây dựng và bảo vệ chủ quyền lãnh thổ quốc gia:",
+    "answers": [
+      "Bảo vệ sự toàn vẹn lãnh thổ của đất nước, bao gồm vùng đất, vùng trời, nội thị, lãnh hải và lãnh thổ quốc gia đặc biệt.",
+      "Bảo vệ chủ quyền của quốc gia trên mọi phương diện kinh tế, chính trị, quân sự, ngoại giao.",
+      "Bảo vệ đường lối đối nội và đối ngoại của Nhà nước ta không bị lệ thuộc vào bên ngoài.",
+      "Tất cả lựa chọn trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 18: Biên giới quốc gia Việt Nam bao gồm:",
+    "answers": [
+      "Biên giới quốc gia trên đất liền, biển và trên không.",
+      "Biên giới quốc gia trong lòng đất và trên biển.",
+      "Biên giới quốc gia trên không, biển và trong lòng đất.",
+      "Biên giới quốc gia trên đất liền, trên biển, trên không và trong lòng đất."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 19: Biên giới quốc gia trên đất liền được xác định bằng:",
+    "answers": [
+      "Một mốc quốc giới trên thực địa.",
+      "Các tọa độ trên hải đồ.",
+      "Một tọa độ trên bản đồ.",
+      "Các mốc quốc giới trên thực địa; Các tọa độ trên bản đồ."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 20: Biên giới quốc gia trên biển được đánh dấu bằng:",
+    "answers": [
+      "Các mốc quốc giới trên biển.",
+      "Các tọa độ trên hải đồ.",
+      "Các tọa độ trên bản đồ.",
+      "Kinh độ, vĩ độ."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 21: Nội dung xây dựng và bảo vệ biên giới quốc gia:",
+    "answers": [
+      "Ưu tiên đầu tư xây dựng cơ sở hạ tầng, kinh tế khu vực biên giới.",
+      "Ưu tiên đầu tư xây dựng cơ sở chính trị vững chắc ở khu vực biên giới.",
+      "Ưu tiên đầu tư xây dựng khu vực biên giới vững mạnh toàn diện.",
+      "Ưu tiên xây dựng lực lượng vũ trang địa phương ở khu vực biên giới."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 22: Nội dung xây dựng và bảo vệ biên giới quốc gia:",
+    "answers": [
+      "Tăng cường mở rộng quan hệ đối ngoại các cấp trên khu vực biên giới.",
+      "Tăng cường, thực hiện tốt việc định canh, định cư cho nhân dân ở khu vực biên giới.",
+      "Tập trung xây dựng các khu vực kinh tế quốc phòng dọc tuyến biên giới vững mạnh.",
+      "Tập trung xây dựng các tổ chức chính trị vững chắc ở khu vực biên giới."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 23: Nội dung xây dựng và bảo vệ biên giới quốc gia:",
+    "answers": [
+      "Phối hợp với các nước láng giềng, ngăn chặn mọi âm mưu gây bạo loạn lật đổ của kẻ thù.",
+      "Phối hợp với các nước, đấu tranh ngăn chặn mọi hành động phá hoại tình đoàn kết hữu nghị các nước láng giềng.",
+      "Kết hợp phát triển kinh tế với tăng cường an ninh để bảo vệ vững chắc tổ quốc.",
+      "Kết hợp đấu tranh quân sự với đảm bảo an ninh chính trị, trật tự an toàn xã hội."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 24: Xây dựng và bảo vệ chủ quyền lãnh thổ biên giới quốc gia được Đảng và Nhà nước ta xác định:",
+    "answers": [
+      "Là một nội dung quan trọng của sự nghiệp đổi mới, công nghiệp hóa, hiện đại hóa đất nước.",
+      "Là một nội dung quan trọng của sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam XHCN.",
+      "Là một nội dung quan trọng của chiến lược phát triển kinh tế trong thời kỳ mới.",
+      "Là một nội dung quan trọng của chiến lược đối ngoại trong thời kỳ mới."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 25: Quan điểm của Nhà nước ta về xây dựng bảo vệ chủ quyền lãnh thổ, biên giới quốc gia:",
+    "answers": [
+      "Chủ quyền lãnh thổ, biên giới quốc gia là kết quả đấu tranh của hàng ngàn năm dựng nước.",
+      "Chủ quyền lãnh thổ, biên giới quốc gia là yếu tố cơ bản nhất cho sự phát triển kinh tế xã hội.",
+      "Chủ quyền lãnh thổ, biên giới quốc gia là thiêng liêng, bất khả xâm phạm của dân tộc Việt",
+      "Chủ quyền lãnh thổ, biên giới quốc gia là tài sản vô cùng quý giá của dân tộc Việt Nam."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 26: Quan điểm xây dựng biên giới hòa bình hữu nghị, ổn định của Đảng và Nhà nước ta thể hiện:",
+    "answers": [
+      "Là vấn đề quan trọng cơ bản và lâu dài trong sự nghiệp cách mạng của Đảng ta.",
+      "Là quan điểm nhất quán trong sự nghiệp công nghiệp hóa hiện đại hóa đất nước.",
+      "Là quan điểm nhất quán, phù hợp với lợi ích, luật pháp của Việt Nam và công ước quốc tế.",
+      "Là xây dựng biên giới hòa bình hữu nghị, ổn định phù hợp với đường lối đối ngoại của nước ta."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 27: Quan điểm của Đảng, Nhà nước ta về việc giải quyết các vấn đề tranh chấp lãnh thổ, biên giới:",
+    "answers": [
+      "Thông qua các cơ quan tài phán và công ước của Liên Hợp Quốc về lãnh thổ, biên giới.",
+      "Thương lượng hòa bình, tôn trọng độc lập, chủ quyền toàn vẹn lãnh thổ và lợi ích chính đáng của nhau.",
+      "Bằng con đường ngoại giao trên tinh thần bình đẳng đôi bên cùng có lợi.",
+      "Bằng nhiều biện pháp kể cả biện pháp sử dụng vũ lực để giải quyết tranh chấp."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 28: Xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia:",
+    "answers": [
+      "Là sự nghiệp của toàn dân.",
+      "Dưới sự lãnh đạo của Đảng.",
+      "Sự quản lý thống nhất của Nhà nước.",
+      "Cả ba lựa chọn trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 29: Trong xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia, lực lượng ……..là lực lượng nòng cốt:",
+    "answers": [
+      "Quân đội nhân dân.",
+      "Công an nhân dân.",
+      "Bộ đội địa phương.",
+      "Dân quân tự vệ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 30: Trong xây dựng và bảo vệ chủ quyền lãnh thổ, biên giới quốc gia, lực lượng …… là nòng cốt chuyên trách:",
+    "answers": [
+      "Bộ đội Hải quân.",
+      "Bộ đội biên phòng.",
+      "Cảnh sát biển.",
+      "Dân quân tự vệ"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 31. Quốc gia là thực thể pháp lý bao gồm những yếu tố ……. cấu thành?",
+    "answers": [
+      "Lãnh thổ, dân cư.",
+      "Dân cư, quyền lực công cộng.",
+      "Lãnh thổ và quyền lực công cộng.",
+      "Lãnh thổ, dân cư và quyền lực công cộng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 32. Lãnh thổ quốc gia là gì?",
+    "answers": [
+      "Là phạm vi không gian được giới hạn bởi biên giới quốc gia trên đất liền, thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia.",
+      "Là phạm vi không gian được giới hạn bởi biên giới quốc gia trên biển, thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia.",
+      "Là phạm vi không gian được giới hạn bởi biên giới quốc gia trên không, thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia.",
+      "Là phạm vi không gian được giới hạn bởi biên giới quốc gia, thuộc chủ quyền hoàn toàn và đầy đủ của một quốc gia."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 33. Lãnh thổ quốc gia Việt Nam bao gồm những vùng nào?",
+    "answers": [
+      "Vùng đất quốc gia và vùng biển quốc gia, vùng trời quốc gia.",
+      "Vùng đất quốc gia và vùng biển quốc gia.",
+      "Vùng đất quốc gia và lãnh thổ quốc gia đặc biệt.",
+      "Vùng đất quốc gia, vùng biển quốc gia, vùng trời quốc gia và lãnh thổ quốc gia đặc biệt."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 34. Vùng đất quốc gia là gì?",
+    "answers": [
+      "Là phần mặt đất và lòng đất của đất liền, của đảo, quần đảo thuộc chủ quyền một quốc gia.",
+      "Là phần mặt đất và lòng đất của đất liền thuộc chủ quyền một quốc gia.",
+      "Là phần mặt đất của đất liền, của đảo, quần đảo thuộc chủ quyền một quốc gia.",
+      "Là phần lòng đất của đất liền, của đảo, quần đảo thuộc chủ quyền một quốc gia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 35. Vùng đất quốc gia Việt Nam có đặc điểm gì?",
+    "answers": [
+      "Vừa là đất liền, vừa là đảo",
+      "Vừa là đảo, vừa là quần đảo",
+      "Vừa là đất liền, vừa là quần đảo.",
+      "Vừa là đất liền, vừa là đảo và quần đảo"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 36. Chiều dài đất liền của Việt Nam được xác định từ ……đến ……?",
+    "answers": [
+      "Từ Đồng Đăng đến Hà Tiên.",
+      "Từ Lũng Cú đến Hà Tiên.",
+      "Từ đỉnh Lũng Cú (Hà Giang) đến mũi Cà Mau (Cà Mau).",
+      "Từ Hữu Nghị Quan đến Cà Mau."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 37. Phần đất liền của vùng đất quốc gia Việt Nam có diện tich là bao nhiêu?",
+    "answers": [
+      "331.689 km2",
+      "332.000 km2.",
+      "331.000 km2.",
+      "332.689 km2."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 38. Việt Nam có mặt …….. trông ra biển",
+    "answers": [
+      "Đông, Nam.",
+      "Nam và Tây Nam.",
+      "Đông, Tây Nam.",
+      "Đông, Nam và Tây Nam."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 39. Chiều dài bờ biển của Việt Nam được xác định từ đâu đến đâu?",
+    "answers": [
+      "Từ Đồng Đăng (Lạng Sơn) đến Hà Tiên (Kiên Giang).",
+      "Từ Lũng Cú (Hà Giang) đến Hà Tiên (Kiên Giang).",
+      "Từ Móng Cái (Quảng Ninh) đến Hà Tiên (Kiên Giang).",
+      "Từ Móng Cái (Quảng Ninh) đến Mũi Cà Mau (Cà Mau)."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 40. Bờ biển của Việt Nam có chiều dài là bao nhiêu?",
+    "answers": [
+      "3.260 km.",
+      "3.200 km.",
+      "3.160 km.",
+      "3.300 km."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 41. Vùng biển quốc gia (thuộc lãnh thổ Việt Nam) bao gồm những vùng biển nào?",
+    "answers": [
+      "Vùng tiếp giáp lãnh hải và vùng đặc quyền về kinh tế.",
+      "Vùng tiếp giáp lãnh hải và thềm lục địa.",
+      "Vùng đặc quyền về kinh tế và thềm lục địa.",
+      "Nội thủy và lãnh hải."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 42. Vùng biển nào Việt Nam có quyền chủ quyền và quyền tài phán?",
+    "answers": [
+      "Vùng tiếp giáp lãnh hải, vùng đặc quyền về kinh tế.",
+      "Vùng đặc quyền về kinh tế và Thềm lục địa.",
+      "Vùng tiếp giáp lãnh hải và thềm lục địa.",
+      "Vùng tiếp giáp lãnh hải, vùng đặc quyền về kinh tế và thềm lục địa."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 43. Lãnh hải của Việt Nam có chiều rộng bao nhiêu hải lý tính từ đường cơ sở?",
+    "answers": [
+      "Có chiều rộng 10 hải lý tính từ đường cơ sở.",
+      "Có chiều rộng 16 hải lý tính từ đường cơ sở.",
+      "Có chiều rộng 14 hải lý tính từ đường cơ sở.",
+      "Có chiều rộng 12 hải lý tính từ đường cơ sở."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 44. Thềm lục địa Việt Nam được giới hạn rộng bao nhiêu hải lý và được tính từ đâu?",
+    "answers": [
+      "Từ 200 hải lý đến không quá 250 hải lý tính từ đường cơ sở.",
+      "Từ 200 hải lý đến không quá 300 hải lý tính từ đường cơ sở.",
+      "Từ 200 hải lý đến không quá 350 hải lý tính từ đường cơ sở.",
+      "Không quá 200 hải lý tính từ đường cơ sở."
+    ],
+    "correct": 3
+  }
+]

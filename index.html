@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="vi">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Quiz Quốc Phòng</title>
+<link rel="stylesheet" href="style.css">
+<link href="https://fonts.googleapis.com/css2?family=Inter:wght@400;600&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<div class="container">
+
+    <h1>🧠 Quiz Quốc Phòng</h1>
+
+    <!-- Chọn học phần -->
+    <select id="hp-select">
+        <option value="">-- Chọn học phần --</option>
+        <option value="HP1">Học phần 1</option>
+        <option value="HP2">Học phần 2</option>
+    </select>
+
+    <!-- Chọn bài -->
+    <select id="quiz-select">
+        <option value="">-- Chọn bài --</option>
+    </select>
+
+    <!-- Palette -->
+    <div id="palette" class="hidden"></div>
+
+    <div id="app" class="hidden">
+
+        <div id="question-number"></div>
+
+        <div class="card" id="card">
+            <p id="question-text"></p>
+            <div id="answers"></div>
+        </div>
+
+        <div class="nav">
+            <button id="prev">←</button>
+            <button id="next">→</button>
+            <button id="submit" class="hidden">Nộp</button>
+        </div>
+
+    </div>
+
+    <!-- Modal -->
+    <div id="modal" class="modal hidden">
+        <div class="modal-box">
+            <h2>Kết quả</h2>
+            <p id="score"></p>
+            <button id="review">Xem lại</button>
+            <button onclick="location.reload()">Làm lại</button>
+        </div>
+    </div>
+
+</div>
+
+<script src="script.js"></script>
+</body>
+</html>

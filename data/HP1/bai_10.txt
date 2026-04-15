@@ -1,0 +1,132 @@
+[
+  {
+    "question": "Câu 1. Theo quan điểm của chủ nghĩa Mác - Lênin, quần chúng nhân dân là LL như thế nào?",
+    "answers": [
+      "Là lực lượng đông đảo.",
+      "Là nền tảng cho một nước.",
+      "Là gốc rễ của một dân tộc, là động lực chính để thúc đẩy sự phát triển của xã hội.",
+      "Tất cả các ý trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 2. Một trong những vai trò của quần chúng nhân dân trong bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Có khả năng phát hiện, bắt giữ các loại tội phạm để thu hẹp dần đối tượng phạm tội.",
+      "Có khả năng phát hiện, tố giác các loại tội phạm để thu hẹp dần đối tượng phạm tội.",
+      "Có khả năng phát hiện, xử lí các loại tội phạm để thu hẹp dần đối tượng phạm tội.",
+      "Có khả năng phát hiện, quản lý, giáo dục, cải tạo các loại tội phạm để thu hẹp dần đối tượng phạm tội."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3. Chủ tịch Hồ Chí Minh căn dặn đối với lực lượng nào nói: “Nhân dân giúp ta nhiều thì thành công nhiều, giúp ta ít thì thành công ít, giúp ta hoàn toàn thì thắng lợi hoàn toàn”?",
+    "answers": [
+      "Dân quân, tự vệ.",
+      "Dự bị động viên.",
+      "Quân đội nhân dân.",
+      "Công an nhân dân."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 4. Tại sao công tác bảo vệ an ninh trật tự không thể thực hiện bằng chuyên môn đơn thuần mà phải làm tốt công tác vận động quần chúng nhân dân?",
+    "answers": [
+      "Chuyên môn đơn thuần của công an không thể hoàn thành nhiệm vụ.",
+      "Lực lượng công an có hạn.",
+      "Lực lượng công an chưa hoàn thành tốt chức năng của mình.",
+      "Tất cả các ý trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 5. Phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Là một hình thức hoạt động tự giác, có tổ chức của đông đảo nhân dân lao động tham gia phòng ngừa, phát hiện, đấu tranh chống các loại tội phạm.",
+      "Là một hình thức hoạt động tự giác, không có tổ chức của đông đảo nhân dân lao động tham gia phòng ngừa, phát hiện, đấu tranh chống các loại tội phạm.",
+      "Là một hình thức hoạt động tự phát, có tổ chức của đông đảo nhân dân lao động tham gia phòng ngừa, phát hiện, đấu tranh chống các loại tội phạm.",
+      "Là một hình thức hoạt động tự phát, không có tổ chức của đông đảo nhân dân lao động tham gia phòng ngừa, phát hiện, đấu tranh chống các loại tội phạm."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 6. Một trong những vị trí của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Giữ vị trí đặc biệt quan trọng, là nền tảng cơ bản trong sự nghiệp bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Giữ vị trí chiến lược, là nền tảng quan trọng trong sự nghiệp bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Giữ vị trí quan trọng, là nền tảng cơ bản trong sự nghiệp bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội",
+      "Giữ vị trí chiến lược, là nền tảng cơ bản trong sự nghiệp bảo vệ an ninh quốc gia, giữ gìn trật tự an toàn xã hội"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 7. Một trong những đặc điểm của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Nội dung, tổ chức xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc ở các địa bàn, lĩnh vực khác nhau có sự khác nhau.",
+      "Nội dung, tổ chức hoạt động phong trào toàn dân bảo vệ an ninh Tổ quốc ở các địa bàn, lĩnh vực khác nhau có sự khác nhau.",
+      "Nội dung, hình thức hoạt động phong trào toàn dân bảo vệ an ninh Tổ quốc ở các địa bàn, lĩnh vực khác nhau có sự khác nhau.",
+      "Nội dung, hình thức, phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc ở các địa bàn, lĩnh vực khác nhau có sự khác nhau."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 8. Một trong những đặc điểm của phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm.",
+      "Vận động nhân dân tham gia quảm li, giáo dục, cảm hóa những người cần phải giáo dục tại cộng đồng dân cư.",
+      "Hướng dẫn và vận động nhân dân bài trừ tệ nạn xã hội.",
+      "Đối tượng tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc đa dạng, liên quan đến mọi người, mọi tầng lớp của xã hội."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 9. Một trong những nội dung cơ bản của công tác xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc là gì?",
+    "answers": [
+      "Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng tại cơ sở vững mạnh.",
+      "Đối tượng tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc đa dạng, liên quan đến mọi người, mọi tầng lớp của xã hội.",
+      "Nắm tình hình và xây dựng kế hoạch phát động phong trào toàn dân bảo vệ an ninh Tổ quốc",
+      "Đối tượng tham gia phong trào toàn dân bảo vệ an ninh Tổ quốc bao gồm mọi người, mọi tầng lớp của xã hội."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 10. Một trong những bước của phương pháp xây dựng phong trào toàn dân bảo vệ an ninh Tổ quốc?",
+    "answers": [
+      "Nắm tình hình và xây dựng kế hoạch phát động phong trào toàn dân bảo vệ an ninh Tổ quốc.",
+      "Vận động toàn dân tích cực tham gia chương trình quốc gia phòng chống tội phạm.",
+      "Xây dựng và mở rộng liên kết, phối hợp chặt chẽ với các ngành, đoàn thể quần chúng, các tổ chức chính trị xã hội trong các phong trào của địa phương.",
+      "Tham gia xây dựng tổ chức Đảng, chính quyền, đoàn thể quần chúng tại cơ sở vững mạnh."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 11. Trong các tổ chức quần chúng làm công tác an ninh trật tự ở địa bàn cơ sở, tổ chức nào trực tiếp thực thi các nhiệm vụ bảo vệ an ninh trật tự?",
+    "answers": [
+      "Ban an ninh trật tự.",
+      "Tổ an ninh nhân dân.",
+      "Ban bảo vệ dân phố.",
+      "Hội đồng an ninh trật tự."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 12. Trong các tổ chức quần chúng làm công tác an ninh trật tự ở địa bàn cơ sở, tổ chức nào có chức năng tư vấn?",
+    "answers": [
+      "Ban an ninh trật tự.",
+      "Đội thanh niên xung kích an ninh.",
+      "Ban bảo vệ dân phố.",
+      "Hội đồng an ninh trật tự."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 13. Sinh viên lưu trú trong kí túc xá phải thực hiện nội dung gì về đảm bảo an ninh trật tự?",
+    "answers": [
+      "Giữ gìn và bảo vệ tài sản của nhà trường, không được sử dụng một cách bừa bãi, làm hỏng mất mát tài sản và trang thiết bị trong kí túc xá.",
+      "Chấp hành tốt nội quy của kí túc xá, tực hiện đầy đủ những cam kết được ghi trong hợp đồng với Ban quản lí kí túc xá.",
+      "Không tàng trữ vú khí, chất độc, chất nổ, chất dễ cháy, hóa chất độc hại hoặc hàng cấm khác trong kí túc xá.",
+      "Cả 3 ý trên."
+    ],
+    "correct": 3
+  }
+]

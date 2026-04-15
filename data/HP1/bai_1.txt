@@ -1,0 +1,32 @@
+[
+  {
+    "question": "Câu 1: Đối tượng nghiên cứu môn học giáo dục quốc phòng, an ninh:",
+    "answers": [
+      "Nghiên cứu về chiến lược xây dựng và bảo vệ Tổ quốc của Đảng, Nhà nước trong tình hình mới.",
+      "Nghiên cứu về đường lối quân sự của Đảng, Công tác quốc phòng an ninh, Quân sự và kỹ năng quân sự cần thiết.",
+      "Nghiên cứu về chiến lược kinh tế, quốc phòng của Đảng, Nhà nước trong sự nghiệp đổi mới.",
+      "Nghiên cứu về chiến lược kinh tế, quốc phòng, an ninh và đối ngoại của Đảng, Nhà nước."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 2: Quá trình nghiên cứu môn học giáo dục quốc phòng, an ninh phải nắm vững và vận dụng đúng đắn các quan điểm tiếp cận khoa học:",
+    "answers": [
+      "Hệ thống, lịch sử, logic, thực tiễn.",
+      "Khách quan, lịch sử, toàn diện.",
+      "Hệ thống, biện chứng, lịch sử, logic.",
+      "Lịch sử, cụ thể biện chứng."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 3: Các phương pháp nghiên cứu môn học giáo dục quốc phòng, an ninh:",
+    "answers": [
+      "Nghiên cứu lý luận, nghiên cứu thực tế.",
+      "Nghiên cứu tập trung, kết hợp với thảo luận nhóm.",
+      "Kết hợp các phương pháp dạy học lý thuyết và thực hành.",
+      "Nghiên cứu lý thuyết, nghiên cứu thực tiễn; Kết hợp các phương pháp dạy học lý thuyết và thực hành."
+    ],
+    "correct": 3
+  }
+]

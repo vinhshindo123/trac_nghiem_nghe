@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Chỉ ra một đặc điểm của các dân tộc ở nước ta?",
+    "answers": [
+      "Các dân tộc thiểu số Việt Nam cư trú không đều và xen kẽ.",
+      "Các dân tộc thiểu số Việt Nam cư trú đan xen vào nhau. sự do chủ nghĩa đế quốc và các thế lực phản động  tiến hành",
+      "Các dân tộc thiểu số ở Việt Nam cư trú phân tán và xen kẽ trên địa bàn rộng lớn, chủ yếu là miền núi, biên giới, hải đảo.",
+      "C và A đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra xu hướng trong quan hệ dân tộc trên thế giới?",
+    "answers": [
+      "Các dân tộc tăng sự hiểu biết, sự phụ thuộc lẫn nhau, thúc đẩy xu thế khu vực hóa",
+      "Các dân tộc đều muốn mở rộng lãnh thổ",
+      "Các dân tộc đề cao ý thức độc lập, tự chủ, tự lực, tự cường, chống can thiệp, áp đặt và cường quyền",
+      "A, C là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Em hãy khái quát hoá dân tộc được hiểu theo nghĩa cộng đồng quốc gia dân tộc là như thế nào?",
+    "answers": [
+      "Cộng đồng, kinh tế, xã hội được chỉ đạo bởi Nhà nước thiết lập trên một lãnh thổ chung",
+      "Cộng đồng chính trị - xã hội, được chỉ đạo bởi Nhà nước, thiết lập trên một lãnh thổ chung",
+      "Cộng đồng chế độ xã hội được chỉ đạo bởi Nhà nước thiết lập trên một lãnh thổ chung",
+      "B, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chọn đáp án đúng nhất: dân tộc được hình thành trên cơ sở nào?",
+    "answers": [
+      "Lãnh thổ quốc gia, kinh tế, ngôn ngữ, văn hoá, truyền thống và tên gọi dân tộc.",
+      "Lãnh thổ quốc gia, ngôn ngữ, truyền thống văn hoá đặc điểm tâm lý, ý thức về dân tộc và tên gọi của dân tộc",
+      "Lãnh thổ quốc gia, kinh tế, ngôn ngữ, truyền thống, văn hoá, đặc điểm tâm lý, ý thức về dân tộc và tên gọi của dân tộc",
+      "Lãnh thổ quốc gia, kinh tế, ngôn ngữ, ý thức về dân tộc và tên gọi của dân tộc"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Có thể đánh giá nội dung tư tưởng Hồ Chí Minh về dân tộc và giải quyết vấn đề dân tộc như thế nào?",
+    "answers": [
+      "Đúng đắn, toàn diện, phong phú, sâu sắc, khoa học và Cách mạng.",
+      "Toàn diện, phong phú, sâu sắc, khoa học và Cách mạng.",
+      "Khoa học và Cách mạng.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Kết luận nội dung cốt lõi của công tác tôn giáo theo chính sách của Đảng, Nhà nước là gì?",
+    "answers": [
+      "Vận động quần chúng chấp hành tốt mọi chủ trương, đường lối của Đảng, Pháp luật của Nhà nước",
+      "Vận động quần chúng đoàn kết góp phần xây dựng và bảo vệ Tổ quốc.",
+      "Vận động quần chúng sống “Tốt đời, đẹp đạo” góp phần xây dựng và bảo vệ Tổ quốc Việt nam xã hội chủ nghĩa.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra đâu là tổ chức có trách nhiệm làm tốt công tác tôn giáo?",
+    "answers": [
+      "Toàn bộ hệ thống chính trị, do Đảng lãnh đạo",
+      "Nhà nước và các địa phương.",
+      "Quốc hội và hội đồng nhân dân các cấp.",
+      "B và C là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra một trong những thủ đoạn lợi dụng vấn đề dân tộc, tôn giáo chống phá Cách mạng Việt Nam của các thế lực thù địch là chiêu bài gì?",
+    "answers": [
+      "Tự do” “dân chủ” “nhân đạo”.",
+      "Nhân quyền” “dân chủ” “tự do”.",
+      "“Nhân quyền” “dân chủ” “bác ái”.",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy liên hệ thực tế một trong những âm mưu lợi dụng vấn đề dân tộc, tôn giáo chống phá Cách mạng Việt Nam của các thế lực thù địch là gì?",
+    "answers": [
+      "Kích động các dân tộc thiểu số, tín đồ chức sắc các tôn giáo chống lại chính sách dân tộc, chính sách tôn giáo của Đảng, Nhà nước.",
+      "Kích động quần chúng nhân dân chống lại chủ trương chính sách của Đảng và Nhà nước",
+      "Kích động các dân tộc thiểu số, tôn giáo nhằm gây rối loạn an ninh chính trị, trật tự an toàn xã hội",
+      "A, C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Một trong những đặc điểm các dân tộc ở Việt Nam là gì, chọn đáp án đúng?",
+    "answers": [
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ văn hóa không đều.",
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ nhận thức không đều.",
+      "Các dân tộc ở nước ta có quy mô dân số và trình độ phát triển không đều.",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra một trong những quan điểm của Đảng và Nhà nước ta hiện nay về vấn đề tôn giáo là gì?",
+    "answers": [
+      "Tôn giáo có những giá trị văn hoá, đạo đức tích cực phù hợp với thời đại mới",
+      "Tôn giáo có những giá trị văn hoá, đạo đức tích cực phù hợp với xu thế mới.",
+      "Tôn giáo có những giá trị văn hoá, đạo đức tích cực phù hợp với xã hội mới.",
+      "B, C là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ câu sau: “Thực chất của vấn đề dân tộc là sự …….. ., …….lợi ích giữa các dân tộc trong quốc gia đa dân tộc và giữa các quốc gia dân tộc với nhau”",
+    "answers": [
+      "hợp tác/ đấu tranh",
+      "mâu thuẫn/ tranh chấp",
+      "va chạm/ hợp tác",
+      "va chạm/ mâu thuẫn"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Xếp các từ còn thiếu vào chỗ trống để thể hiện đầy đủ quan điểm: “Dân tộc và đoàn kết dân tộc là vấn đề…… cơ bản, ……..; Đồng thời là vấn đề ……. hiện nay của công cuộc đổi mới đất nước”",
+    "answers": [
+      "cấp bách/ lâu dài/ chiến lược",
+      "chiến lược/ lâu dài/ cấp bách",
+      "cấp bách/ chiến lược/ lâu dài",
+      "chiến lược/ cấp bách/ lâu dài"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Tôn giáo là một ……. ý thức xã hội, phản ánh hiện thực khách quan, theo quan niệm hoang đường, ảo tưởng phù hợp với tâm lí, hành vi của con người”",
+    "answers": [
+      "hình thức",
+      "biểu hiện",
+      "hình thái",
+      "phạm trù"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu: “Mê tín dị đoan là những hiện tượng (ý thức, hành vi) …….. của con người đến mức mê muội, trái với ……… và hành vi đạo đức, văn hoá cộng đồng, gây ……… tiêu cực trực tiếp đến đời sống vật chất, tinh thần của cá nhân, cộng đồng xã hội”",
+    "answers": [
+      "cuồng vọng/ lẽ phải/ hậu quả",
+      "hoang đường/ thẩm mỹ/ hậu quả",
+      "kỳ lạ/ pháp luật/ thiệt hại",
+      "mơ hồ/ ý thức/ thiệt hại"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Nội dung cốt lõi của công tác tôn giáo là công tác vận động quần chúng sống “……..……….”, góp phần xây dựng và bảo vệ Tổ quốc Việt Nam XHCN”",
+    "answers": [
+      "“đói cho sạch, rách cho thơm”",
+      "“ăn quả nhớ kẻ trồng cây”",
+      "“lá lành đùm lá rách”",
+      "“tốt đời, đẹp đạo”"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu:” Quan hệ dân tộc, sắc tộc hiện nay trên thế giới diễn ra ………., ……….. ở cả phạm vi quốc gia, khu vực và quốc tế”",
+    "answers": [
+      "thuận lợi/khăng khít",
+      "phức tạp/nóng bỏng",
+      "ổn định/phát triển",
+      "phức tạp/căng thẳng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu: “. Nội dung cốt lõi của công tác tôn giáo theo chính sách của Đảng, Nhà nước là .......... quần chúng sống .................... .góp phần xây dựng và bảo vệ Tổ quốc Việt nam xã hội chủ nghĩa”.",
+    "answers": [
+      "hướng dẫn/ uống nước nhớ nguồn",
+      "tổ chức/ trong sạch lành mạnh",
+      "vận động/ tốt đời đẹp đạo",
+      "chỉ đạo/ bao dung độ lượng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trợ giúp địa phương bài trừ mê tín dị đoan?",
+    "answers": [
+      "Đi xem bói khi gặp vấn đề trong cuộc sống.",
+      "Tuyên truyền về biểu hiện và hậu quả của mê tín dị đoan",
+      "Chia sẻ các địa chỉ bói toán online",
+      "Không tố giác những biểu hiện lợi dụng hoạt động tâm linh để trục lợi vì không phải việc của mình"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Để góp phần làm thất bại chiến lược \"Diễn biến hoà bình\", bạo loạn lật đổ của các thế lực thù địch, em hãy lựa chọn giải pháp đấu tranh phòng, chống địch lợi dụng vấn đề dân tộc, tôn giáo chống phá CMVN?",
+    "answers": [
+      "Ra sức tuyên truyền, quán triệt quan điểm, chính sách dân tộc, tôn giáo của Đảng, Nhà nước; về âm mưu, thủ đoạn lợi dụng vấn đề dân tộc, tôn giáo chống phá cách mạng Việt Nam của các thế lực thù địch cho toàn dân",
+      "Chăm lo nâng cao đời sống vật chất tinh thần của đồng bào các dân tộc, các tôn giáo.",
+      "Tăng cường xây dựng củng cố khối đại đoàn kết toàn dân tộc, giữ vững ổn định chính trị - xã hội.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện văn hoá, nét đẹp bản sắc dân tộc Việt Nam khi sử dụng mạng xã hội?",
+    "answers": [
+      "Tiếp thu chọn lọc thông tin trên mạng, tránh xa các luồng tư tưởng xấu, các hội nhóm phản động.",
+      "Sử dụng, phát ngôn có văn hoá trên mạng.",
+      "Chia sẻ, quảng bá các hoạt động văn hoá, đời sống mang đậm bản sắc Việt.",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với cơ quan chức năng trong việc phát hiện, ngăn chặn địch lợi dụng vấn đề dân tộc, tôn giáo chống phá Đảng, Nhà nước?",
+    "answers": [
+      "Học tập nâng cao nhận thức",
+      "Nắm chắc quan điểm, chính sách của Đảng và Nhà nước về vấn đề dân tộc, tôn giáo",
+      "Sống và làm việc theo Hiến pháp và pháp luật",
+      "Tố giác khi phát hiện biểu hiện, hành vi chống phá"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Thái độ của em khi bị kẻ xấu lôi kéo vào các tổ chức chống đối chính quyền?",
+    "answers": [
+      "Tố giác với cơ quan công an",
+      "Báo cho người thân",
+      "Tham gia cho biết",
+      "Rủ bạn bè tham gia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Dân tộc được hiểu theo nghĩa cộng đồng quốc gia dân tộc là:",
+    "answers": [
+      "Cộng đồng, kinh tế, xã hội được chỉ đạo bởi Nhà nước thiết lập trên một lãnh thổ chung.",
+      "Cộng đồng văn hoá, xã hội được chỉ đạo bởi Nhà nước thiết lập trên một lãnh thổ chung.",
+      "Cộng đồng chính trị - xã hội, được chỉ đạo bởi Nhà nước, thiết lập trên một lãnh thổ chung.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra một trong những nội dung giải quyết vấn đề dân tộc theo quan điểm của Lênin:",
+    "answers": [
+      "Các dân tộc được quyền hành quyết.",
+      "Các dân tộc được quyền phán quyết.",
+      "Các dân tộc được quyền tự quyết.",
+      "Các dân tộc được quyền biểu quyết."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chọn đánh giá đúng nhất về nội dung tư tưởng Hồ Chí Minh về dân tộc và giải quyết vấn đề dân tộc như thế nào?",
+    "answers": [
+      "Đúng đắn, toàn diện, phong phú, sâu sắc, khoa học và Cách mạng.",
+      "Toàn diện, phong phú, sâu sắc, khoa học và Cách mạng.",
+      "Khoa học và Cách mạng.",
+      "A, B đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Làm tốt công tác tôn giáo là trách nhiệm của tổ chức nào, chọn đáp án đúng:",
+    "answers": [
+      "Ban tôn giáo và Chính phủ.",
+      "Quốc hội và hội đồng nhân dân các cấp.",
+      "Toàn bộ hệ thống chính trị, do Đảng lãnh đạo.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra có mấy giải pháp đấu tranh phòng, chống sự lợi dụng vấn đề dân tộc, tôn giáo chống phá Cách mạng Việt Nam của các thế lực thù địch:",
+    "answers": [
+      "Có 4 giải pháp.",
+      "Có 5 giải pháp.",
+      "Có 6 giải pháp.",
+      "Có 3 giải pháp."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Quan điểm của Đảng, Nhà nước về tôn giáo có mấy nội dung:",
+    "answers": [
+      "Có 5 nội dung.",
+      "Có 6 nội dung.",
+      "Có 7 nội dung.",
+      "Có 8 nội dung."
+    ],
+    "correct": 1
+  }
+]

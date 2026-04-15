@@ -1,0 +1,312 @@
+[
+  {
+    "question": "Câu 1: Lực lượng vũ trang nhân dân gồm các tổ chức:",
+    "answers": [
+      "Vũ trang và bán vũ trang.",
+      "Quốc phòng và an ninh.",
+      "Quân sự và an ninh trật tự.",
+      "An ninh trật tự và bán vũ trang."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 2: Lực lượng vũ trang nhân dân Việt Nam bao gồm:",
+    "answers": [
+      "Quân đội nhân dân, công an nhân dân, dân quân tự vệ.",
+      "Quân đội nhân dân, dự bị động viên, dân quân tự vệ.",
+      "Quân đội thường trực, dự bị động viên, dân quân tự vệ.",
+      "Quân đội chủ lực, cảnh sát nhân dân, dân quân tự vệ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 3: Khó khăn lớn tác động đến xây dựng lực lượng vũ trang nhân dân:",
+    "answers": [
+      "Các nước trên thế giới đang chạy đua vũ trang rất quyết liệt.",
+      "Mặt trái kinh tế thị trường tác động quá lớn đến lực lượng vũ trang nhân dân.",
+      "Chủ nghĩa đế quốc và các lực lượng khủng bố đẩy mạnh chiến lược “bạo loạn lật đổ”.",
+      "Chủ nghĩa đế quốc và các thế lực phản động đẩy mạnh chiến lược “diễn biến hòa bình”."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 4: Một trong những thuận lợi cơ bản trong xây dựng lực lượng vũ trang nhân dân:",
+    "answers": [
+      "Nhân dân ta có truyền thống yêu nước, đoàn kết, tin tưởng vào sự lãnh đạo của Đảng.",
+      "Nhân dân ta luôn thương yêu đùm bọc, tin tưởng tuyệt đối vào sự lãnh đạo quân đội.",
+      "Nhân dân ta có truyền thống đánh giặc độc đáo, sáng tạo.",
+      "Nhân dân ta có tinh thần đoàn kết quốc tế, được quốc tế ủng hộ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 5: Một trong những thách thức lớn tác động đến xây dựng lực lượng vũ trang nhân dân:",
+    "answers": [
+      "Tụt hậu xa hơn về kinh tế so với nhiều nước trong khu vực và trên thế giới.",
+      "Tụt hậu xa hơn về khoa học công nghệ so với nhiều nước trong khu vực và trên thế giới.",
+      "Các thế lực thù địch tập trung chống phá ta về chính trị, tư tưởng.",
+      "Các thế lực thù địch tập trung chống phá lực lượng vũ trang nhân dân."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 6: Quan điểm, nguyên tắc cơ bản nhất trong xây dựng lực lượng vũ trang nhân dân là:",
+    "answers": [
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng Cộng sản Việt Nam đối với lực lượng vũ trang nhân dân.",
+      "Giữ vững và tăng cường sự lãnh đạo, quản lý của Nhà nước đối với lực lượng vũ trang nhân dân.",
+      "Giữ vững và tăng cường sự lãnh đạo của các tổ chức chính trị trong lực lượng vũ trang.",
+      "Giữ vững và tăng cường sự lãnh đạo của các cơ quan chính trị trong lực lượng vũ trang."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 7: Đảng Cộng sản Việt Nam lãnh đạo lực lượng vũ trang nhân dân theo nguyên tắc:",
+    "answers": [
+      "Tuyệt đối, trực tiếp và toàn diện.",
+      "Tuyệt đối, trực tiếp về mọi mặt.",
+      "Tuyệt đối, toàn diện về mọi mặt.",
+      "Toàn diện trên mọi lĩnh vực."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 8: Quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là:",
+    "answers": [
+      "Tự lực, tự cường xây dựng lực lượng vũ trang.",
+      "Tự lực cánh sinh, tăng cường đối ngoại.",
+      "Phát huy nội lực, tranh thủ hợp tác kinh tế.",
+      "Tích cực hợp tác quốc tế về mọi mặt."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 9: Quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là:",
+    "answers": [
+      "Lấy chất lượng là chính, lấy công tác huấn luyện làm cơ sở.",
+      "Lấy chất lượng là chính, lấy xây dựng chính trị làm cơ sở.",
+      "Lấy chất lượng huấn luyện là chính, coi trọng xây dựng chính trị.",
+      "Lấy chất lượng là trọng tâm, lấy xây dựng chính trị làm trọng điểm."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 10: Một trong những nội dung xây dựng về chính trị lực lượng vũ trang nhân dân là:",
+    "answers": [
+      "Chăm lo xây dựng củng cố các tổ chức chính trị trong lực lượng vũ trang nhân dân.",
+      "Chăm lo xây dựng củng cố các tổ chức chỉ huy trong lực lượng vũ trang nhân dân.",
+      "Đẩy mạnh hoạt động phòng chống “diễn biến hòa bình” trong lực lượng vũ trang.",
+      "Đổi mới công tác đào tạo sĩ quan trong nhà trường."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 11: Nội dung quan trọng nhất trong xây dựng lực lượng vũ trang nhân dân về chính trị là:",
+    "answers": [
+      "Phát triển số lượng Đảng viên trong lực lượng vũ trang nhân dân.",
+      "Xây dựng đội ngũ, cán bộ chỉ huy trong lực lượng vũ trang nhân dân.",
+      "Giáo dục chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh.",
+      "Giữ vững nguyên tắc Đảng lãnh đạo trong lực lượng vũ trang nhân dân."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 12: Bảo đảm lực lượng vũ trang nhân dân luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi phản ánh:",
+    "answers": [
+      "Chức năng, nhiệm vụ chiến lược cơ bản, thường xuyên của lực lượng vũ trang nhân dân.",
+      "Chức năng, nhiệm vụ chủ yếu cơ bản, thường xuyên của lực lượng vũ trang nhân dân.",
+      "Quy luật của dân tộc Việt Nam trong lịch sử dựng nước và giữ nước.",
+      "Quy luật của sự nghiệp bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 13: Phương hướng xây dựng lực lượng dự bị động viên:",
+    "answers": [
+      "Hùng hậu về số lượng, có chất lượng cao, sẵn sàng động viên nhanh chóng khi cần thiết.",
+      "Hùng hậu, được huấn luyện và quản lý tốt, bảo đảm khi cần thiết có thể động viên nhanh theo",
+      "Luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi.",
+      "Luôn sẵn sàng phối hợp với lực lượng thường trực và dân quân tự vệ."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 14: Phương hướng xây dựng dân quân tự vệ:",
+    "answers": [
+      "Vững mạnh, rộng khắp, lấy chất lượng là chính.",
+      "Vững mạnh, rộng khắp, lấy chất lượng chính trị là chính.",
+      "Toàn diện, rộng khắp, lấy chất lượng là chính.",
+      "Rộng khắp nhưng có trọng tâm trọng điểm."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 15: Vấn đề cơ bản hàng đầu trong nhiệm vụ xây dựng quân đội, công an của Đảng trong mọi giai đoạn cách mạng là:",
+    "answers": [
+      "Xây dựng quân đội, công an cách mạng.",
+      "Xây dựng quân đội, công an tinh nhuệ.",
+      "Xây dựng quân đội, công an chính quy.",
+      "Xây dựng quân đội, công an hiện đại."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 16: Xây dựng quân đội nhân dân, công an nhân dân chính quy là:",
+    "answers": [
+      "Thực hiện thống nhất về mọi mặt (tổ chức, biên chế, trang bị,…).",
+      "Thực hiện thống nhất về chính trị, quân sự, hậu cần.",
+      "Thực hiện thống nhất về nhận thức, chính trị, tư tưởng.",
+      "Thực hiện thống nhất về chính trị, mục tiêu chiến đấu."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 17: Xây dựng quân đội nhân dân, công an nhân dân tinh nhuệ trên các lĩnh vực:",
+    "answers": [
+      "Chính trị, kỹ thuật, nghiệp vụ.",
+      "Chính trị, quân sự, hậu cần.",
+      "Chính trị, quân sự, kỹ thuật.",
+      "Chính trị, tổ chức, kỹ chiến thuật."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 18: Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang nhân dân là:",
+    "answers": [
+      "Nâng cao kết quả huấn luyện quân sự, giáo dục, đẩy mạnh đối ngoại.",
+      "Nâng cao kết quả giáo dục chính trị, tư tưởng, phát triển cách đánh.",
+      "Nâng cao chất lượng huấn luyện, giáo dục, xây dựng và phát triển khoa học công nghệ quốc phòng.",
+      "Nâng cao chất lượng huấn luyện, giáo dục, xây dựng và phát triển khoa học quân sự, khoa học công an."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 19: Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang nhân dân là:",
+    "answers": [
+      "Từng bước giải quyết đầy đủ các yêu cầu của lực lượng vũ trang nhân dân.",
+      "Từng bước giải quyết yêu cầu về tổ chức, biên chế cho lực lượng vũ trang nhân dân.",
+      "Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của các lực lượng vũ trang nhân dân.",
+      "Từng bước đổi mới, bổ sung đầy đủ vũ khí hiện đại cho lực lượng vũ trang nhân dân."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 20: Một trong những biện pháp chủ yếu xây dựng lực lượng vũ trang nhân dân là:",
+    "answers": [
+      "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có phẩm chất, năng lực tốt.",
+      "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có phẩm chất tốt, số lượng đông.",
+      "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có số lượng đông, năng lực tốt.",
+      "Xây dựng đội ngũ cán bộ lực lượng vũ trang nhân dân có số lượng đủ, phẩm chất tốt."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 21. Nội dung chủ yếu của khái niệm lực lượng vũ trang nhân dân Việt Nam là gì?",
+    "answers": [
+      "Là tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhà nước xã hội chủ nghĩa Việt Nam quản lí.",
+      "Là tổ chức vũ trang nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhà nước xã hội chủ nghĩa Việt Nam quản lí.",
+      "Là tổ chức bán vũ trang của nhân dân Việt Nam do Đảng Cộng sản Việt Nam lãnh đạo, Nhà nước xã hội chủ nghĩa Việt Nam quản lí.",
+      "Là tổ chức vũ trang và bán vũ trang của nhân dân Việt Nam do Chính phủ nước xã hội chủ nghĩa Việt Nam quản lí."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 22. Một trong những quan điểm, nguyên tắc cơ bản XDLLVT nhân dân trong thời kỳ mới là gì?",
+    "answers": [
+      "Xây dựng lực lượng vũ trang nhân dân có khả năng thích ứng với chiến tranh hiện đại.",
+      "Xây dựng lực lượng vũ trang nhân dân có khả năng tác chiến tốt, vũ khí trang bị hiện đại.",
+      "Xây dựng LLVT ND có kỷ luật nghiêm, có sức mạnh chiến đấu tốt trong mọi lĩnh vực.",
+      "Bảo đảm lực lượng vũ trang nhân dân luôn trong tư thế sẵn sàng chiến đấu và chiến đấu thắng lợi."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 23. Một trong những nội dung phương hướng Xdựng LLVT nhân dân trong giai đoạn mới là gì?",
+    "answers": [
+      "Xây dựng lực lượng vũ trang nhân dân 3 thứ quân vững mạnh, đáp ứng nhu cầu mới.",
+      "Xây dựng QĐ, công an nhân dân theo hướng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại.",
+      "Xây dựng quân đội nhân dân cách mạng, hiện đại, trung thành với Tổ quốc.",
+      "Xây dựng quân đội nhân dân tinh nhuệ, hiện đại, thiện chiến."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 24. Một trong những biện pháp chủ yếu xây dựng LLvũ trang nhân dân là gì ?",
+    "answers": [
+      "Từng bước giải quyết yêu cầu về vũ khí, trang bị kỹ thuật của lực lượng vũ trang nhân dân.",
+      "Từng bước giải quyết vũ khí hiện đại cho lực lượng vũ trang nhân dân.",
+      "Nhanh chóng giải quyết có trọng tâm về vũ khí hiện đại cho lực lượng vũ trang nhân dân.",
+      "Ưu tiên giải quyết vũ khí trang bị cho lực lượng sẵn sàng chiến đấu."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 25. Một trong những quan điểm, nguyên tắc cơ bản xây dựng lực lượng vũ trang nhân dân trong thời kỳ mới là gì?",
+    "answers": [
+      "Xây dựng LL vũ trang nhân dân đặt dưới sự lãnh đạo của Đảng bộ, chính quyền các cấp.",
+      "Giữ vững và tăng cường sự lãnh đạo của Đảng cộng sản VN đối với lực lượng vũ trang nhân dân.",
+      "Tăng cường xây dựng các tổ chức cơ sở Đảng của lực lượng vũ trang nhân dân trong sạch vững mạnh.",
+      "Xây dựng LL vũ trang nhdân vững mạnh toàn diện, luôn trong tư thế sẵn sàng chiến đấu."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 26. Đâu là quan điểm, nguyên tắc cơ bản xây dựng LL vũ trang nhân dân trong thời kỳ mới?",
+    "answers": [
+      "Tăng cường xây dựng các tổ chức cơ sở Đảng của lực lượng vũ trang nhân dân.",
+      "Tự lực tự cường XD lực lượng vũ trang nhân dân.",
+      "Xây dựng LL vũ trang nhân dân đặt dưới sự lãnh đạo của Đảng bộ, chính quyền các cấp.",
+      "Xây dựng LL vũ trang nhân dân vững mạnh toàn diện, luôn trong tư thế sẵn sàng chiến đấu."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 27. Một trong những phương hướng xây dựng LL vũ trang nhân dân trong giai đoạn mới là gì?",
+    "answers": [
+      "Xây dựng quân đội nhân dân cách mạng, hiện đại.",
+      "Xây dựng lực lượng vũ trang nhân dân 3 thứ quân vững mạnh, đáp ứng yêu cầu mới.",
+      "Xây dựng dân quân tự vệ vững mạnh rộng khắp, lấy chất lượng là chính.",
+      "Xây dựng quân đội chính quy, hiện đại, thiện chiến."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 28. Vấn đề cơ bản hàng đầu trong phương hướng xây dựng quân đội nhân dân theo hướng cách mạng, chính quy, tinh nhuệ, từng bước hiện đại là gì ?",
+    "answers": [
+      "Xây dựng quân đội cách mạng, chính quy.",
+      "Xây dựng quân đội chính quy, tinh nhuệ, từng bước hiện đại",
+      "Xây dựng quân đội cách mạng, tinh nhuệ, từng bước hiện đại.",
+      "Xây dựng quân đội cách mạng, chính quy, tinh nhuệ, từng bước hiện đại."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 29. Xây dựng QĐ, CA nhân dân theo hướng chính quy là thực hiện thống nhất mặt nào sau đây?",
+    "answers": [
+      "Thống nhất về quan điểm tư tưởng quân sự, nghệ thuật quân sự, phương pháp huấn luyện, tổ chức, biên chế, trang bị, về bản chất cách mạng, mục tiêu chiến đấu, ý chí quyết tâm.",
+      "Thống nhất về bản chất cách mạng, mục tiêu chiến đấu, ý chí quyết tâm.tổ chức, biên chế, trang bị.",
+      "Thống nhất về tổ chức thực hiện chức trách nề nếp chính quy, quản lý bộ đội, quản lý công an, quan lý vũ khí",
+      "Thống nhất về quan điểm tư tưởng quân sự, nghệ thuật quân sự, phương pháp huấn luyện về bản chất cách mạng, mục tiêu chiến đấu, ý chí quyết tâm và thống nhất về tổ chức thực hiện chức trách nề nếp chính quy, quản lý bộ đội, quản lý công an, quan lý vũ khí"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 30. Những nội dung xây dựng Quân đội nhân dân, Công an nhân dân tinh nhuệ là gì?",
+    "answers": [
+      "Tinh nhuệ về chính trị, tổ chức.",
+      "Tinh nhuệ về tổ chức và kỹ chiến thuật.",
+      "Tinh nhuệ về chính trị và kỹ chiến thuật.",
+      "Tinh nhuệ về chính trị, về tổ chức và kỹ chiến thuật"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 31. Nội dung quan điểm tự lực tự cường XD lực lượng vũ trang nhân dân là gì?",
+    "answers": [
+      "Tự lực tự cường dựa vào sức mình để xây dựng, để giữ vững tính độc lập tự chủ, chủ động không bị chi phối ràng buộc.",
+      "Tự lực tự cường dựa vào sức mình, đó là cơ sở tạo sức mạnh nội lực của LL vũ trang từ xưa đến nay.",
+      "Tự lực tự cường dựa vào sức mình, đó là truyền thống của dân tộc Việt Nam trong quá trình dựng nước và giữ nước.",
+      "Tự lực tự cường dựa vào sức mình nhằm để khai thác sức mạnh quân sự vốn có của ta."
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,182 @@
+[
+  {
+    "question": "Câu 1: An ninh quốc gia là:",
+    "answers": [
+      "Là sự bình yên của đất nước, cuộc sống ấm no hạnh phúc của nhân dân Việt Nam.",
+      "Là sự bình ổn , phát triển của chế độ XHCN và Nhà nước CHXHCN Việt Nam.",
+      "Là sự bất khả xâm phạm độc lập chủ quyền và toàn vẹn lãnh thổ Tổ quốc.",
+      "Là sự ổn định, phát triển bền vững của chế độ XHCN và Nhà nước CHXHCN Việt Nam. Là sự bất khả xâm phạm độc lập chủ quyền, thống nhất và toàn vẹn lãnh thổ Tổ quốc."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 2: Trong an ninh quốc gia, lĩnh vực nào là cốt lõi, xuyên suốt:",
+    "answers": [
+      "An ninh kinh tế.",
+      "An ninh chính trị.",
+      "An ninh tư tưởng văn hóa.",
+      "An ninh đối ngoại."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3: Bảo vệ an ninh quốc gia là:",
+    "answers": [
+      "Phòng ngừa các hoạt động xâm hại an ninh quốc gia.",
+      "Phát hiện các hoạt động xâm hại an ninh quốc gia.",
+      "Đấu tranh ngăn chặn các hoạt động xâm hại an ninh quốc gia của các thế lực phản động.",
+      "Phòng ngừa, phát hiện, ngăn chặn, đấu tranh làm thất bại các hoạt động xâm hại an ninh quốc gia."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 4: Mục tiêu quan trọng về an ninh quốc gia:",
+    "answers": [
+      "Lực lượng vũ trang nhân dân Việt Nam, các cơ quan Nhà nước và nhân dân.",
+      "Những đặc điểm công trình, cơ sở về chính trị, an ninh, quốc phòng, kinh tế.",
+      "Cơ sở KHKT, văn hóa, xã hội không thuộc danh mục cần được bảo vệ theo quy định của pháp luật.",
+      "Những đối tượng, địa điểm, công trình, cơ sở về chính trị, an ninh, quốc phòng, kinh tế. Cơ sở KHKT, văn hóa, xã hội thuộc danh mục cần được bảo vệ theo quy định của pháp luật."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 5: Nhiệm vụ bảo vệ an ninh quốc gia là:",
+    "answers": [
+      "Bảo vệ chế độ chính trị và nhà nước CHXHCN Việt Nam, bảo vệ độc lập chủ quyền, thống nhất và toàn vẹn lãnh thổ của Tổ quốc.",
+      "Bảo vệ chính quyền các cấp, sự nghiệp công nghiệp hóa, hiện đại hóa đất nước, sự nghiệp đổi mới.",
+      "Bảo vệ bí mật của Nhà nước và các mục tiêu quan trọng về an ninh quốc gia.",
+      "Bảo vệ an ninh trong lĩnh vực kinh tế, quốc phòng, đối ngoại và các lợi ích khác của quốc gia."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 6: Nguyên tắc bảo vệ an ninh quốc gia là:",
+    "answers": [
+      "Kết hợp bảo vệ an ninh chính trị với bảo vệ độc lập, chủ quyền thống nhất và toàn vẹn lãnh thổ Tổ quốc.",
+      "Tuân thủ hiến pháp, pháp luật, bảo đảm lợi ích của nhà nước, quyền và lợi ích hợp pháp của tổ chức, cá nhân.",
+      "Tuân thủ những quy định của luật quốc phòng, luật an ninh và những quy định của chính quyền.",
+      "Kết hợp chặt chẽ phát triển kinh tế xã hội với bảo vệ các công trình quốc phòng an ninh."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 7: Nguyên tắc bảo vệ an ninh quốc gia là:",
+    "answers": [
+      "Kết hợp giữa bảo vệ an ninh tư tưởng với bảo vệ quyền lợi của nhân dân.",
+      "Đặt dưới sự lãnh đạo của Đảng Cộng sản Việt Nam, sự quản lý thống nhất của Nhà nước.",
+      "Kết hợp giữa phát triển với đấu tranh, làm thất bại các hoạt động xâm phạm an ninh quốc gia.",
+      "Đặt dưới sự lãnh đạo, quản lý của lực lượng vũ trang nhân dân Việt Nam."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 8: Cơ quan chuyên trách bảo vệ an ninh quốc gia là:",
+    "answers": [
+      "Cơ quan chỉ đạo, chỉ huy và các đơn vị biên phòng, dân quân tự vệ, dự bị động viên.",
+      "Cơ quan chỉ đạo tác chiến và các đơn vị an ninh quân đội, tình báo quân đội.",
+      "Cơ quan chỉ đạo, chỉ huy và các đơn vị bảo vệ an ninh, tình báo, cảnh sát, cảnh vệ công an nhân dân.",
+      "Cơ quan chỉ đạo, chỉ huy và các đơn vị bộ đội hải quân, biên phòng, cảnh sát biển."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 9: Các biện pháp bảo vệ an ninh quốc gia:",
+    "answers": [
+      "Vận động quần chúng, pháp luật, ngoại giao, kinh tế, khoa học kỹ thuật, nghiệp vụ, vũ trang.",
+      "Vận động quần chúng, lực lượng vũ trang, thực hiện chương trình quốc gia phòng chống tội phạm.",
+      "Vận động quần chúng, đẩy mạnh xây dựng phong trào toàn dân bảo vệ an ninh tổ quốc ở cơ sở.",
+      "Phát triển kinh tế, xây dựng nếp sống văn minh, giữ gìn an ninh, trật tự an toàn xã hội."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 10: Nội dung bảo vệ an ninh tổ quốc gồm:",
+    "answers": [
+      "Bảo vệ an ninh chính trị, an ninh quốc phòng, bảo vệ Đảng, Nhà nước, nhân dân.",
+      "Bảo vệ an ninh đối ngoại, bảo vệ sự nghiệp công nghiệp hóa, hiện đại hóa.",
+      "Bảo vệ các chính sách kinh tế xã hội, tôn giáo, dân tộc của Đảng và Nhà nước.",
+      "Bảo vệ an ninh chính trị nội bộ, kinh tế, văn hóa, tư tưởng, dân tộc, tôn giáo, biên giới, thông"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 11: Bảo vệ an ninh chính trị nội bộ:",
+    "answers": [
+      "Giữ gìn sự trong sạch, vững mạnh về mọi mặt của tổ chức Đảng, Nhà nước.",
+      "Giữ gìn sự trong sạch, vững mạnh về mọi mặt của các tổ chức chính trị xã hội.",
+      "Giữ gìn sự trong sạch, vững mạnh về mọi mặt của các tổ chức quần chúng.",
+      "Giữ gìn sự trong sạch, vững mạnh về mọi mặt của lực lượng quân đội."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 12: Trong bảo vệ an ninh quốc gia, nội dung nào là nhiệm vụ trọng yếu, hàng đầu, thường xuyên, cấp bách, toàn Đảng, toàn dân, của các ngành, các cấp:",
+    "answers": [
+      "Bảo vệ an ninh biên giới.",
+      "Bảo vệ an ninh kinh tế.",
+      "Bảo vệ an ninh chính trị nội bộ.",
+      "Bảo vệ an ninh dân tộc, tôn giáo."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 13: Bảo vệ an ninh kinh tế là:",
+    "answers": [
+      "Bảo vệ thành quả kinh tế, thành quả lao động sản xuất và đời sống của nhân dân.",
+      "Bảo vệ sự ổn định, phát triển vững mạnh của nền kinh tế thị trường, định hướng XHCN.",
+      "Bảo vệ sự ổn định, phát triển vững mạnh của nền kinh tế thị trường XHCN.",
+      "Bảo vệ công cuộc đổi mới sự nghiệp công nghiệp hóa, hiện đại hóa đất nước."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 14: Bảo vệ an ninh văn hóa tư tưởng là:",
+    "answers": [
+      "Bảo vệ đúng đắn, vai trò chủ đạo của chủ nghĩa Mác – Lênin, tư tưởng Hồ Chí Minh.",
+      "Bảo vệ các chủ trương, chính sách của Đảng, pháp luật của Nhà nước Việt Nam.",
+      "Bảo vệ các phong tục tập quán, truyền thống, tín ngưỡng của các dân tộc Việt Nam.",
+      "Bài trừ tư tưởng lạc hậu, văn hóa phẩm độc hại và các biểu hiện tiêu cực khác."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 15: Nội dung giữ gìn trật tự an toàn xã hội:",
+    "answers": [
+      "Đương đầu với tội phạm, giữ gìn trật tự nơi công cộng, bảo đảm trật tự an toàn giao thông.",
+      "Phòng chống tai nạn lao động, phòng chống lũ lụt, bài trừ tệ nạn xã hội, bảo vệ môi trường",
+      "Phòng chống các phong tục cổ hủ, lạc hậu, thói hư, tật xấu.",
+      "Đấu tranh phòng chống tội phạm, giữ gìn trật tự nơi công cộng, bảo đảm trật tự an toàn giao thông. Phòng ngừa tai nạn lao động, phòng chống thiên tai, bài trừ tệ nạn xã hội, bảo vệ môi trường"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 16: Đảm bảo trật tự an toàn giao thông là nhiệm vụ của:",
+    "answers": [
+      "Cảnh sát giao thông, thanh tra giao thông.",
+      "Chính phủ và ủy ban nhân dân các cấp.",
+      "Ủy ban an toàn giao thông quốc gia.",
+      "Tất cả mọi người tham gia giao thông."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 17: Hiện nay, Việt Nam khẳng định là đối tác của:",
+    "answers": [
+      "Những quốc gia, vùng lãnh thổ, các tổ chức phi chính phủ giúp đỡ Việt Nam.",
+      "Những nước XHCN và các nước đang phát triển đang giúp đỡ Việt Nam.",
+      "Những ai chủ trương tôn trọng độc lập, chủ quyền và hợp tác bình đẳng cùng có lợi với Việt",
+      "Những tổ chức, cá nhân tôn trọng, giúp đỡ tạo điều kiện để Việt Nam phát triển."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 18: Đối tượng xâm phạm đến an ninh quốc gia:",
+    "answers": [
+      "Bọn tội phạm hình sự, tội phạm kinh tế.",
+      "Bọn gián điệp, bọn phản động.",
+      "Các đối tượng xâm phạm trật tự an toàn xã hội.",
+      "Các phần tử quá khích, gây rối."
+    ],
+    "correct": 1
+  }
+]

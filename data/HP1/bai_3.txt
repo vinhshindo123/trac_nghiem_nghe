@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Câu 1: Đảng ta khẳng định vị trí của nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Xây dựng kinh tế là chủ yếu, quốc phòng, an ninh là thứ yếu.",
+      "Chỉ coi trọng quốc phòng, an ninh khi đât nước có chiến tranh.",
+      "Luôn luôn coi trọng quốc phòng, an ninh, coi đó là nhiệm vụ chiến lược gắn bó chặt chẽ.",
+      "Luôn luôn coi trọng quốc phòng, an ninh, coi đó là nền tảng để xây dựng đất nước."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 2: Đặc trưng đầu tiên của nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Mang tính chất tự vệ do giai cấp công nhân tiến hành.",
+      "Chỉ có mục đích duy nhất là tự vệ chính đáng.",
+      "Vững mạnh toàn diện để tự vệ chính đáng.",
+      "Được xây dựng hiện đại có sức mạnh tổng hợp."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 3: Đặc trưng mang tính truyền thống của nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Nền quốc phòng, an ninh vì dân, của dân và toàn thể nhân dân tiến hành.",
+      "Nền quốc phòng, an ninh mang tính giai cấp, dân tộc sâu sắc.",
+      "Nền quốc phòng, an ninh bảo vệ quyền lợi của dân.",
+      "Nền quốc phòng, an ninh do nhân dân xây dựng, mang tính chất nhân dân sâu sắc."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 4: Sức mạnh của nền quốc phòng toàn dân, an ninh nhân dân bao gồm:",
+    "answers": [
+      "Sức mạnh do các yếu tố chính trị, văn hóa, khoa học.",
+      "Sức mạnh quốc phòng, an ninh hiện đại.",
+      "Sức mạnh của quân đội nhân dân, công an nhân dân.",
+      "Có sức mạnh tổng hợp do nhiều yếu tố tạo thành."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 5: Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân là:",
+    "answers": [
+      "Tạo sức mạnh tổng hợp và tạo thế chủ động cho sự nghiệp xây dựng và bảo vệ Tổ quốc.",
+      "Tạo ra sức mạnh quân sự để ngăn chặn nguy cơ chiến tranh.",
+      "Tạo ra tiềm lực kinh tế để phòng thủ đất nước.",
+      "Tạo ra môi trường hòa bình để phát triển đất nước theo định hướng XHCN."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 6: Nhiệm vụ xây dựng nền quốc phòng toàn dân và an ninh nhân dân là:",
+    "answers": [
+      "Xây dựng các cấp chính quyền ở cơ sở và lực lượng dân quân tự vệ vững mạnh.",
+      "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt",
+      "Xây dựng lực lượng công an, quân đội vững mạnh.",
+      "Xây dựng tiềm lực quân sự, an ninh vững mạnh."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 7: Hai nhiệm vụ chiến lược của cách mạng Việt Nam hiện nay là:",
+    "answers": [
+      "Xây dựng và phát triển kinh tế xã hội ngày càng vững mạnh.",
+      "Xây dựng đất nước và phát triển kinh tế.",
+      "Xây dựng và bảo vệ Tổ quốc Việt Nam xã hội chủ nghĩa.",
+      "Xây dựng và phát triển kinh tế, quốc phòng an ninh nhân dân."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 8: Lực lượng của nền Quốc phòng toàn dân, an ninh nhân dân bao gồm:",
+    "answers": [
+      "Lực lượng toàn dân, lực lượng vũ trang nhân dân.",
+      "Lực lượng quân đội nhân dân và công an nhân dân.",
+      "Lực lượng toàn dân và dân quân tự vệ.",
+      "Lực lượng dự bị động viên và dân quân tự vệ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 9: Tiềm lực quốc phòng – an ninh là:",
+    "answers": [
+      "Khả năng về của cải vật chất có thể huy động để thực hiện nhiệm vụ quốc phòng, an ninh.",
+      "Khả năng về nhân lực, vật lực, tài chính có thể huy động để thực hiện nhiệm vụ QP-AN.",
+      "Khả năng về tài chính có thể huy động phục vụ cho nhiệm vụ quốc phòng, an ninh.",
+      "Khả năng về phương tiện kỹ thuật có thể huy động thực hiện nhiệm vụ quốc phòng an ninh."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 10: Tiềm lực quốc phòng, an ninh được thể hiện ở tất cả các lĩnh vực đời sống xã hội nhưng tập trung ở:",
+    "answers": [
+      "Tiềm lực chính trị, tinh thần; khoa học và công nghệ; kinh tế; quân sự, an ninh.",
+      "Tiềm lực chính trị, tinh thần; đối ngoại, khoa học và công nghệ.",
+      "Tiềm lực công nghiệp quốc phòng, khoa học quân sự.",
+      "Tiềm lực chính trị, tinh thần; văn hóa xã hội; kinh tế."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 11: Tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân – an ninh nhân dân:",
+    "answers": [
+      "Là khả năng về chính trị, tinh thần của xã hội để thực hiện nhiệm vụ quốc phòng.",
+      "Là khả năng về chính trị, ý chí, quyết tâm chiến đấu chống quân xâm lược của toàn dân.",
+      "Là khả năng về chính trị, tinh thần có thể huy động nhằm tạo thành sức mạnh để thực hiện nhiệm vụ quốc phòng an ninh.",
+      "Là khả năng về chính trị, tinh thần của nhân dân được huy động để thực hiện nhiệm vụ quốc phòng an ninh."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 12: Xây dựng tiềm lực chính trị, tinh thần của nền quốc phòng toàn dân, an ninh nhân dân có nội dung xây dựng….",
+    "answers": [
+      "Lòng yêu nước, niềm tin vào Đảng, Nhà nước, chế độ xã hội chủ nghĩa.",
+      "Hệ thống chính trị trong sạch, vững mạnh, phát huy quyền làm chủ của nhân dân.",
+      "Khối đại đoàn kết toàn dân, nâng cao cảnh giác cách mạng, thực hiện tốt giáo dục QP- AN.",
+      "Cả A,B,C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 13: Tiềm lực kinh tế của nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Khả năng về tài chính và khoa học công nghệ để phục vụ nhiệm vụ quốc phòng, an ninh.",
+      "Khả năng về trang bị kỹ thuật quân sự có thể huy động để phục vụ nhiệm vụ quốc phòng, an ninh.",
+      "Khả năng về kinh tế của đất nước có thể khai thác, huy động nhằm phục vụ cho quốc phòng,",
+      "Khả năng về tài chính để phục vụ nhiệm vụ quốc phòng, an ninh."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 14: Nội dung xây dựng tiềm lực kinh tế của nền nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Đẩy mạnh công nghiệp hóa, hiện đại hóa đất nước, xây dựng nền kinh tế độc lập tự chủ.",
+      "Kết hợp chặt chẽ phát triển kinh tế - xã hội với tăng cường củng cố quốc phòng, an ninh, xây dựng hạ tầng kinh tế với cơ sở hạ tầng quốc phòng.",
+      "Có kế hoạch chuyển sản xuất từ thời bình sang thời chiến và duy trì sự phát triển của nền kinh tế.",
+      "Tất cả đều đúng."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 15: Xây dựng tiềm lực khoa học công nghệ của nền quốc phòng toàn dân, an ninh nhân dân:",
+    "answers": [
+      "Tạo nên khả năng về vũ khí trang bị kỹ thuật để phòng thủ đất nước.",
+      "Tạo nên khả năng về khoa học công nghệ của quốc gia có thể khai thác, huy động để phục vụ quốc phòng, an ninh.",
+      "Tạo nên khả năng để huy động đội ngũ cán bộ khoa học kỹ thuật phục vụ quốc phòng, an ninh.",
+      "Tạo nên khả năng ứng dụng kết quả nghiên cứu khoa học công nghệ vào quốc phòng, an ninh."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 16: Một trong những nội dung xây dựng tiềm lực quân sự, an ninh:",
+    "answers": [
+      "Xây dựng lực lượng quân đội vững mạnh toàn diện.",
+      "Xây dựng lực lượng công an vững mạnh toàn diện.",
+      "Xây dựng lực lượng thường trực, dân quân tự vệ vững mạnh.",
+      "Xây dựng lực lượng vũ trang nhân dân vững mạnh toàn diện."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 17: Thế trận quốc phòng toàn dân, an ninh nhân dân là:",
+    "answers": [
+      "Sự tổ chức, bố trí lực lượng, tiềm lực mọi mặt của đất nước trên toàn bộ lãnh thổ.",
+      "Sự bố trí con người và vũ khí trang bị phù hợp trên toàn bộ lãnh thổ.",
+      "Sự bố trí thế trận sẵn sàng tác chiến trên một địa bàn chiến lược.",
+      "Sự bố trí các đơn vị của lực lượng vũ trang trên toàn bộ lãnh thổ."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 18: Một trong những nội dung xây dựng thế trận quốc phòng toàn dân, an ninh nhân dân là:",
+    "answers": [
+      "Tổ chức phòng thủ dân sự, kết hợp cải tạo địa hình với xây dựng hạ tầng và các công trình quốc phòng, an ninh.",
+      "Tổ chức phòng thủ dân sự, kết hợp xây dựng các khu vực hậu phương, vùng căn cứ vững chắc về mọi mặt.",
+      "Tổ chức phòng thủ dân sự, chủ động tiến công tiêu diệt địch trên tất cả các mặt trận.",
+      "Tổ chức phòng thủ dân sự bảo đảm an toàn cho người và của cải vật chất."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 19: Biện pháp chính nhằm xây dựng nhận thức về nền quốc phòng toàn dân, an ninh nhân dân là:",
+    "answers": [
+      "Thường xuyên giáo dục ý thức, trách nhiệm của công dân.",
+      "Thường xuyên thực hiện giáo dục nghĩa vụ công dân.",
+      "Thường xuyên thực hiện giáo dục quốc phòng, an ninh.",
+      "Thường xuyên phổ biến nhiệm vụ quốc phòng an ninh."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 20: Nội dung thực hiện giáo dục quốc phòng, an ninh:",
+    "answers": [
+      "Giáo dục về âm mưu thủ đoạn của địch.",
+      "Giáo dục về tình yêu quê hương, đất nước, chế độ xã hội chủ nghĩa.",
+      "Giáo dục đường lối quan điểm của Đảng, pháp luật của nhà nước về quốc phòng, an ninh.",
+      "Cả A, B, C."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 21. Xây dựng nền QP toàn dân, AN nhân dân vững mạnh có vị trí tác dụng như thế nào?",
+    "answers": [
+      "Xây dựng nền QP, an ninh nhân dân vững mạnh là tạo ra sức mạnh để ngăn ngừa, đẩy lùi, đánh bại mọi âm mưu, hành động xâm hại đến mục tiêu trong sự nghiệp xây dựng và bảo vệ Tổ quốc Việt Nam XHCN.",
+      "Xây dựng nền QP, an ninh nhân dân vững mạnh là tạo ra thế và lực mới để xây dựng và bảo vệ Tổ quốc Việt Nam XHCN, đồng thời răn đe mọi âm mưu xâm lược của kẻ thù.",
+      "Xây dựng nền quốc phòng, an ninh nhân dân vững mạnh là tạo ra vai trò nòng cốt trong sự nghiệp bảo vệ an ninh quốc gia, đồng thời răn đe mọi âm mưu xâm lược của kẻ thù.",
+      "Xây dựng nền QP, an ninh nhân dân vững mạnh là tạo ra sức mạnh về vật chất, tinh thần, để dựng nước, giữ nước của toàn dân tộc, chống lại mọi âm mưu xâm lược của kẻ thù."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 22. Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân Việt Nam là gì?",
+    "answers": [
+      "Nền quốc QP toàn dân, an ninh nhân dân để bảo vệ Đảng, chính quyền, các lực lượng vũ trang nhân dân.",
+      "Nền quốc phòng toàn dân, an ninh nhân dân chỉ có mục đích duy nhất là tự vệ chính đáng.",
+      "Nền quốc phòng toàn dân, an ninh nhân dân có vai trò nòng cốt trong sự nghiệp bảo vệ an ninh quốc gia.",
+      "Nền quốc phòng toàn dân,bảo vệ vững chắc Tổ quốc Việt Nam XHCN."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Câu 23. Dưới đây đâu là đặc trưng của nền QP toàn dân, an ninh nhân dân Việt Nam?",
+    "answers": [
+      "Đó là nền quốc phòng, an ninh vì dân, của dân và do toàn thể nhân dân tiến hành.",
+      "Xây dựng nền quốc phòng, an ninh nhân dân vững mạnh là để tự vệ, chống lại kẻ thù.",
+      "Xây dựng nền quốc phòng toàn dân, an ninh nhân dân là bảo vệ nền an ninh quốc gia.",
+      "Nền quốc phòng, an ninh nhân dân vững mạnh là để chống lại thù trong, giặc ngoài."
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Câu 24. Một trong những đặc trưng của nền quốc phòng toàn dân, an ninh nhân dân Việt Nam là gì ?",
+    "answers": [
+      "Nền quốc phòng toàn dân gắn chặt với công an nhân dân.",
+      "Nền quốc phòng toàn dân gắn chặt với an ninh xã hội.",
+      "Nền quốc phòng toàn dân gắn chặt với nền an ninh nhân dân.",
+      "Nền quốc phòng toàn dân gắn chặt với an ninh chính trị."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 25. Một trong những mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là gì ?",
+    "answers": [
+      "Tạo sức mạnh tổng hợp của đất nước cả chính trị, an ninh và đối ngoại.",
+      "Tạo sức mạnh tổng hợp của đất nước cả quân sự, văn hóa, xã hội và đối ngoại.",
+      "Tạo sức mạnh tổng hợp của đất nước kinh tế, văn hóa, xã hội.",
+      "Tạo sức mạnh tổng hợp của đất nước cả về chính trị, quân sự, an ninh, kinh tế, văn hóa, xã hội, khoa học, công nghệ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 26. Mục đích xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là gì ?",
+    "answers": [
+      "Nhằm bảo vệ vững chắc độc lập, chủ quyền, thống nhất, toàn vẹn lãnh thổ.",
+      "Bảo vệ Đảng, Nhà nước, nhân dân và chế độ xã hội chủ nghĩa.",
+      "Bảo vệ sự nghiệp đổi mới, sự nghiệp công nghiệp hóa, hiện đại hóa đất nước.",
+      "Cả 3 phương án trên."
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Câu 27. Một trong những nhiệm vụ xây dựng nền quốc phòng toàn dân, an ninh nhân dân vững mạnh hiện nay là gì?",
+    "answers": [
+      "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu bảo vệ an ninh chính trị.",
+      "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu trong tình hình mới.",
+      "Xây dựng lực lượng QP, an ninh đáp ứng yêu cầu bảo vệ vững chắc Tổ quốc Việt Nam XHCN.",
+      "Xây dựng lực lượng quốc phòng, an ninh đáp ứng yêu cầu khi có chiến tranh xảy ra."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Câu 28. Một trong những nội dung xây dựng tiềm lực QP, an ninh ngày càng vững mạnh là gì?",
+    "answers": [
+      "Xây dựng tiềm lực khoa học, công nghệ.",
+      "Xây dựng tiềm lực quốc phòng toàn dân.",
+      "Xây dựng tiềm lực an ninh nhân dân.",
+      "Xây dựng tiềm lực khoa học, quân sự."
+    ],
+    "correct": 0
+  }
+]

@@ -1,0 +1,282 @@
+[
+  {
+    "question": "Em hiểu thế nào là thông tin trong cuộc cách mạng công nghiệp 4.0?",
+    "answers": [
+      "Thông tin là hoạt động kết nối giữa người với người",
+      "Thông tin là một bộ phận của khoa học công nghệ hiện đại",
+      "Thông tin là một dạng tài nguyên",
+      "B và C đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra mục tiêu nào hay bị tin tặc tấn công nhất?",
+    "answers": [
+      "Kinh tế",
+      "Tài chính",
+      "Văn hóa",
+      "A và C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trong cuộc cách mạng công nghiệp 4.0, thông tin được hiểu là gì, chọn lựa đáp án đúng?",
+    "answers": [
+      "Thông tin là hoạt động kết nối giữa người với người",
+      "Thông tin là một dạng tài nguyên",
+      "Thông tin là một dạng tài nguyên của khoa học",
+      "A, B là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy chỉ ra các mục tiêu tấn công thông tin như thế nào?",
+    "answers": [
+      "Các mục tiêu tấn công đã thay đổi, kỹ thuật trở nên phức tạp hơn, hướng tấn công đa dạng hơn và công cụ tấn công được thiết kế chuẩn xác hơn",
+      "Các mục tiêu tấn công chính xác, kỹ thuật tinh vi, hướng tấn công đa dạng hơn",
+      "Các mục tiêu tấn công toàn diện, kỹ thuật trở nên phức tạp hơn, hướng tấn công đa dạng hơn",
+      "A, B là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em hãy làm rõ thực trạng an toàn thông tin ở Việt Nam hiện nay diễn biến như thế nào?",
+    "answers": [
+      "Diễn biến phức tạp, nguy cơ cao bị tấn công phá hoại rộng trên mạng thông tin, ảnh hưởng tới an ninh quốc gia",
+      "Diễn biến phức tạp, các mục tiêu tấn công đã cụ thể, kỹ thuật trở nên phức tạp hơn",
+      "Diễn biến phức tạp, tồn tại nhiều cơ sở gây nguy cơ bị tấn công, phá hoại hạ tầng mạng thông tin, ảnh hưởng tới an ninh quốc gia",
+      "A, B là phương án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy lựa chọn đâu là những mục tiêu hay bị tin tặc tấn công nhất?",
+    "answers": [
+      "Tài chính",
+      "Kinh tế",
+      "Chính trị",
+      "A, C là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra theo báo cáo của hãng bảo mật Kaspersky và Symantec cho thấy, Việt Nam đứng thứ mấy trên thế giới về phát tin nhắn rác?",
+    "answers": [
+      "Đứng thứ 8 thế giới",
+      "Đứng thứ 7 thế giới",
+      "Đứng thứ 6 thế giới",
+      "Đứng thứ 5 thế giới"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy tổng hợp và cho biết tin giả là thế nào?",
+    "answers": [
+      "Là những thông tin sai sự thật, được phát tán dưới vỏ bọc tin tức",
+      "Là những thông tin sai sự thật, thường là tin giật gân, được phát tán dưới vỏ bọc tin tức",
+      "Là những thông tin bịa đặt, thiếu thuyết phục, được phát tán dưới vỏ bọc tin tức",
+      "Là những thông tin tự phát, thiếu thuyết phục, được phát tán dưới vỏ bọc tin tức"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy phân tích Giả hình ảnh là thế nào?",
+    "answers": [
+      "Công nghệ cắt ghép tạo hình ảnh người giả y như thật để tạo ra tin tức giả, nhiều người nổi tiếng đã là nạn nhân",
+      "Công nghệ cắt ghép tạo ảnh ảo, giống như thật để tạo ra tin tức giả, nhiều người nổi tiếng đã là nạn nhân",
+      "Công nghệ cắt ghép tạo hình ảnh giả mạo y như thật để tạo ra tin tức giả, nhiều người nổi tiếng đã là nạn nhân",
+      "A, B là phương án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Tin giả được tạo và lan truyền nhằm các mục đích gì, chọn đáp án đúng:",
+    "answers": [
+      "Chính trị - Xã hội",
+      "Chính trị - thương mại",
+      "Thương mại - kinh tế",
+      "A, C là phương án đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em đánh giá như thế nào về thực trạng an toàn thông tin ở Việt Nam hiện nay?",
+    "answers": [
+      "Tiếp tục diễn biến phức tạp, tồn tại nhiều cơ sở gây nguy cơ bị tấn công",
+      "Phá hoại hạ tầng mạng thông tin",
+      "Ảnh hưởng tới an ninh quốc gia",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra theo điều 101, Nghị định 15 quy định phạt tiền bao nhiêu đối với hành vi lợi dụng mạng xã hội để cung cấp, chia sẻ thông tin giả mạo, thông tin sai sự thật, xuyên tạc:",
+    "answers": [
+      "Từ 5 đến 10 triệu đồng",
+      "Từ 10 đến 15 triệu đồng",
+      "Từ 10 đến 20 triệu đồng",
+      "Từ 20 đến 25 triệu đồng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Trong Chỉ thị 01 về định hướng phát triển ngành TT&TT năm 2020, Bộ trưởng Bộ TT&TT đã nhấn mạnh, an toàn, an ninh mạng là ............ để phát triển Chính phủ điện tử và chuyển đổi số, do đó phải đi trước một bước”",
+    "answers": [
+      "điều kiện bắt buộc",
+      "điều kiện nhất định",
+      "điều kiện hàng đầu",
+      "điều kiện tiên quyết"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Chỉ ra các từ còn thiếu: “Tin giả được tạo ra bằng nhiều hình thức tinh vi. Đặc biệt, hiện nay nhiều đối tượng đã sử dụng CNTT làm ......, ........, ......... để tạo ra tin giả”",
+    "answers": [
+      "ảnh giả/ video giả/ tin tức giả",
+      "giả tiếng/ giả hình/ giả video",
+      "phim giả/ phóng sự giả/ bản tin giả",
+      "báo giả/ phỏng vấn giả/ bài đăng giả"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Nghị định 15 có hiệu lực từ ngày .......... thay thế cho Nghị định 174/2013/NĐ-CP ngày 13-11-2013 về xử phạt vi phạm .......... trong lĩnh vực bưu chính, viễn thông, công nghệ thông tin và tần số vô tuyến điện”:",
+    "answers": [
+      "15-8-2020/ quy định",
+      "15-8-2021/ quy định",
+      "15-4-2020/ hành chính",
+      "15-4-2021/ hành chính"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Điền từ còn thiếu vào chỗ trống: “Các mục tiêu tấn công thông tin đã thay đổi, kỹ thuật trở nên phức tạp hơn, hướng tấn công đa dạng hơn và ……… tấn công được thiết kế chuẩn xác hơn”:",
+    "answers": [
+      "thủ đoạn",
+      "phần mềm",
+      "cách thức",
+      "công cụ"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sắp xếp các từ còn thiếu vào chỗ trống: “……. là mục tiêu lớn nhất thúc đẩy tin tặc hành động, với 73% số lượng các cuộc tấn công mạng; chính trị, ……. là mục tiêu lớn thứ hai, với 21% các cuộc tấn công”:",
+    "answers": [
+      "kinh doanh/ tài chính",
+      "tài chính/ tình báo",
+      "kinh tế/ đối ngoại",
+      "thương mại/ gián điệp"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em có thái độ như thế nào khi gặp một video xuyên tạc không rõ nguồn gốc trên mạng xã hội?",
+    "answers": [
+      "Báo cáo video với cơ quan điều hành mạng xã hội đó",
+      "Không quan tâm",
+      "Báo công an",
+      "Chia sẻ cho mọi người cảnh giác"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Sinh viên cần làm gì để góp phần phối hợp với lực lượng chức năng ngăn chặn các vụ lừa đảo qua mạng?",
+    "answers": [
+      "Khai thác sử dụng internet hiệu quả, đúng mục đích",
+      "Báo công an ngay khi kẻ xấu xâm nhập trái phép tài khoản của mình",
+      "Chia sẻ các kỹ năng bảo vệ thông tin và tài sản cá nhân trên mạng",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện ý thức trách nhiệm trong phòng chống tội phạm mạng?",
+    "answers": [
+      "Không chia sẻ mọi thông tin cá nhân và bạn bè cho người lạ",
+      "Lên án gay gắt tội phạm mạng",
+      "Tiếp thu chọn lọc thông tin, cảnh giác cao độ",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Để đảm bảo an ninh mạng khi sử dụng các ứng dụng trực tuyến, em hãy lựa chọn giải pháp cốt lõi giúp chúng ta tự bảo vệ bản thân:",
+    "answers": [
+      "Nghiên cứu kỹ trong lựa chọn sử dụng các ứng dụng",
+      "Tránh sử dụng các ứng dụng đang bị cảnh báo tồn tại lỗ hổng, điểm yếu bảo mật",
+      "Khi sử dụng các ứng dụng trực tuyến cần sử dụng các kênh có mật khẩu bảo vệ",
+      "Khi sử dụng các ứng dụng trực tuyến cần sử dụng các kênh có xác thực người tham gia"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em sẽ làm gì để góp phần trơ giúp lực lượng chức năng trong phát hiện, ngăn chặn, xử lý tội phạm công nghệ cao:",
+    "answers": [
+      "Tuyên truyền, giáo dục phòng chống tội phạm và vi phạm pháp luật khác có sử dụng công nghệ cao",
+      "Động viên, khuyên nhủ bạn bè, người thân nếu thấy có dấu hiệu tội phạm",
+      "Trang bị đầy đủ kiến thức và kỹ năng khi dung internet",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Các mục tiêu tấn công thông tin như thế nào:",
+    "answers": [
+      "Các mục tiêu tấn công đã thay đổi, kỹ thuật trở nên phức tạp hơn, hướng tấn công đa dạng hơn và công cụ tấn công được thiết kế chuẩn xác hơn",
+      "Các mục tiêu tấn công chính xác, kỹ thuật tinh vi, hướng tấn công đa dạng hơn",
+      "Các mục tiêu tấn công toàn diện, kỹ thuật trở nên phức tạp hơn, hướng tấn công đa dạng hơn",
+      "A, B đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Theo báo cáo của hãng bảo mật Kaspersky và Symantec cho thấy, Việt Nam đứng thứ mấy về số người dùng di động bị mã độc tấn công nhiều nhất trên thế giới, chọn đáp án đúng:",
+    "answers": [
+      "Đứng thứ 4 thế giới",
+      "Đứng thứ 3 thế giới",
+      "Đứng thứ 6 thế giới",
+      "Đứng thứ 7 thế giới"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Theo báo cáo của hãng bảo mật Kaspersky và Symantec cho thấy, Việt Nam đứng thứ mấy trên thế giới về phát tin nhắn rác, chọn đáp án đúng:",
+    "answers": [
+      "Đứng thứ 9 thế giới",
+      "Đứng thứ 8 thế giới",
+      "Đứng thứ 6 thế giới",
+      "Đứng thứ 7 thế giới"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Theo báo cáo của hãng bảo mật Kaspersky và Symantec cho thấy, Việt Nam đứng thứ mấy trên thế giới về các hoạt động tấn công mạng, chọn đáp án đúng:",
+    "answers": [
+      "Đứng thứ 11 thế giới",
+      "Đứng thứ 12 thế giới",
+      "Đứng thứ 13 thế giới",
+      "Đứng thứ 15 thế giới"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Spam là tin gì, chọn đáp án đúng:",
+    "answers": [
+      "Tin rác",
+      "Tin tặc",
+      "Tin xấu độc",
+      "Tin giả"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra định nghĩa đúng nhất về giả tiếng:",
+    "answers": [
+      "Sử dụng công cụ chuyển văn bản thành tiếng nói (text to speech) để tạo ra các cuộc gọi tự động với giọng robot thu sẵn",
+      "Sử dụng phương pháp chuyển văn bản thành tiếng nói (text to speech) để tạo ra  giọng robot thu sẵn",
+      "Sử dụng kỹ thuật chuyển văn bản thành tiếng nói (text to speech) để tạo ra các cuộc gọi liên tục với giọng robot thu sẵn",
+      "A, B đều đúng"
+    ],
+    "correct": 0
+  }
+]

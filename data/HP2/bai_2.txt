@@ -1,0 +1,292 @@
+[
+  {
+    "question": "Chỉ ra đâu là nhận định đúng về chiến lược “Diễn biến hoà bình”?",
+    "answers": [
+      "Diễn biến hòa bình” là chiến lược cơ bản nhằm lật đổ chế độ chính trị của các  nước tiến bộ, trước hết là các nước xã hội chủ nghĩa từ bên ngoài bằng biện pháp phi quân sự do các thế lực thù địch tiến hành.",
+      "Diễn biến hòa bình” là chiến lược cơ bản nhằm lật đổ chế độ chính trị của các  nước tiến bộ, trước hết là các nước xã hội chủ nghĩa từ bên trong bằng biện pháp phi quân sự do các thế lực thù địch tiến hành. sự do chủ nghĩa đế quốc và các thế lực phản động tiến hành",
+      "Diễn biến hòa bình” là chiến lược cơ bản nhằm lật đổ Đảng cộng sản của các nước tiến bộ, trước hết là các nước xã hội chủ nghĩa từ bên ngoài bằng biện pháp phi quân sự do các thế lực thù địch tiến hành.",
+      "A và C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hiểu bạo loạn lật đổ là gì?",
+    "answers": [
+      "Là hành động phá hoại của chủ nghĩa đế quốc và lực lượng phản động.",
+      "Là hành động chống phá bằng bạo lực có tổ chức do lực lượng phản động hay lực lượng ly khai đối lập trong nước tiến hành.",
+      "Là hành động hoạt động bằng bạo lực chính trị của bọn phản động.",
+      "Là hành động phá hoại của chủ nghĩa thực dân và lực lượng phản động."
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Trình bày đúng nhất về các hình thức của bạo loạn lật đổ?",
+    "answers": [
+      "Bạo loạn chính trị, bạo loạn vũ trang kết hợp với bạo loạn lật đổ.",
+      "Bạo loạn chính trị, bạo loạn quân sự kết hợp với bạo loạn lật đổ.",
+      "Bạo loạn chính trị, bạo loạn vũ trang hoặc bạo loạn chính trị kết hợp với vũ trang.",
+      "A, B là đáp án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Ở nước ta hiện nay áp dụng mấy giải pháp phòng, chống chiến lược “Diễn biến hòa bình”, Bạo loạn lật đổ?",
+    "answers": [
+      "Có 5 giải pháp",
+      "Có 6 giải pháp",
+      "Có 7 giải pháp",
+      "Có 8 giải pháp"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Em hãy phân biệt đâu là một trong những nội dung của thủ đoạn chống phá ta về tư tưởng - văn hoá trong chiến lược “Diễn biến hoà bình”?",
+    "answers": [
+      "Đề cao giá trị vật chất, tôn thờ đồng tiền, sống ích kỷ.",
+      "Xoá bỏ chủ nghĩa Mác - Lênin, tư tưởng Hồ Chí Minh.",
+      "Tuyên truyền và xâm nhập đời sống văn hoá phương tây.",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Em hãy phân biệt đâu là một trong những nội dung của thủ đoạn chống phá ta về kinh tế của chiến lược “Diễn biến hoà bình”?",
+    "answers": [
+      "Từng bước chuyển hoá Việt Nam theo con đường Tư bản chủ nghĩa.",
+      "Từng bước can thiệp trắng trợn bằng sức mạnh quân sự để lật đổ nhà nước xã hội chủ nghĩa.",
+      "Đặt ra các điều kiện và gây sức ép đòi thực hiện đa Đảng đối lập.",
+      "B, C là đáp án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Để góp phần làm thất bại chiến lược \"Diễn biến hoà bình\", bạo loạn lật đổ của các thế lực thù địch, theo em cần xây dựng giải pháp và thực hiện các phương án xử trí như thế nào?",
+    "answers": [
+      "Xây dựng Đảng mạnh về mọi mặt, kết hợp với bảo vệ Đảng, bảo vệ chính trị nội bộ.",
+      "Khi có bạo loạn xảy ra, cần xử trí phát huy sức mạnh tổng hợp của Quân đội và Công an.",
+      "Cần xử trí theo nguyên tắc nhanh gọn-kiên quyết-linh hoạt-đúng đối tượng, không để lan rộng kéo dài.",
+      "A, B là đáp án đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Một trong những giải pháp phải sử dụng để phòng chống chiến lược “Diễn biến hoà bình” là gì?",
+    "answers": [
+      "Xây dựng để mỗi người dân là một pháo đài bất khả xâm phạm trước mọi âm mưu “Diễn biến hoà bình”, bạo loạn lật đổ của địch.",
+      "Xây dựng con người mới xã hội chủ nghĩa trong giai đoạn hiện nay.",
+      "Xây dựng ý thức bảo vệ Tổ quốc cho toàn dân.",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Đánh giá của em về quan điểm: “Trong âm mưu thủ đoạn chiến lược “Diễn biến hòa bình” của Chủ nghĩa Đế quốc luôn coi Việt Nam là một trọng điểm trong chiến lược “Diễn biến hòa bình” chống chủ nghĩa xã hội.”?",
+    "answers": [
+      "Sai",
+      "Đúng",
+      "Đúng 50%",
+      "Ý kiến khác"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chỉ ra một trong những giải pháp phòng, chống chiến lược “Diễn biến hòa bình”, Bạo loạn lật đổ ở Việt Nam hiện nay?",
+    "answers": [
+      "Chăm lo xây dựng lực lượng Vũ trang ở địa phương vững mạnh.",
+      "Chăm lo xây dựng lực lượng Dân quân Tự vệ ở địa phương vững mạnh.",
+      "Chăm lo xây dựng lực lượng Dự bị động viên ở địa phương vững mạnh.",
+      "B, C là đáp án đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra một trong những mục đích chủ yếu của bạo loạn lật đổ là gì?",
+    "answers": [
+      "Gây mất lòng tin của quần chúng nhân dân vào sự lãnh đạo của Đảng",
+      "Gây rối loạn an ninh chính trị, trật tự an toàn xã hội, lật đổ chính quyền",
+      "Gây hoang mang về tư tưởng trong quần chúng nhân dân.",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Điền từ còn thiếu: “Bạo loạn lật đổ là hành động chống phá bằng bạo lực có tổ chức do lực lượng ……. hay lực lượng li khai, đối lập trong nước hoặc cấu kết với nước ngoài tiến hành gây rối loạn an ninh chính trị, trật tự an toàn xã hội hoặc lật đổ chính quyền ở địa phương hay trung ương”",
+    "answers": [
+      "quân đội",
+      "phản động",
+      "tự phát",
+      "gián điệp"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Xếp từ còn thiếu vào chỗ trống để thể hiện đầy đủ: “Trên lĩnh vực chính trị, các thế lực thù địcg tập hợp, nuôi dưỡng các tổ chức, phần tử phản động trong nước và ngoài nước, lợi dụng các vấn đề “dân chủ”, “nhân quyền”, “………”, “……….” để chia rẽ mối quan hệ giữa Đảng với Nhân Dân và khối đại đoàn kết toàn dân tộc, làm mất đi vai trò lãnh đạo của Đảng”",
+    "answers": [
+      "quốc phòng/ an ninh",
+      "dân tộc/ tôn giáo",
+      "văn hoá/ xã hội",
+      "pháp luật/ đói nghèo"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Sắp xếp từ còn thiếu vào chỗ trống: “Phương châm tiến hành chống DBHB, BLLĐ là ……….., ……….., khôn khéo xử lí tình huống và giải quyết hậu quả khi có bạo loạn xảy ra, giải quyết các vụ gây rối, không để phát triển thành bạo loạn”",
+    "answers": [
+      "Chủ động/ kiên quyết",
+      "Chủ động/ quyết tâm",
+      "Chủ động/ ra sức",
+      "Quyết tâm/ quyết thắng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Âm mưu của chiến lược “DBHB” là xoá bỏ vai trò lãnh đạo của Đảng, xoá bỏ chế độ ..……, lái nước ta đi theo con đường ……… và lệ thuộc vào CNTB”.",
+    "answers": [
+      "xã hội chủ nghĩa/ đa nguyên đa đảng",
+      "tư bản chủ nghĩa/ một Đảng lãnh đạo",
+      "tư bản chủ nghĩa/ xã hội chủ nghĩa",
+      "xã hội chủ nghĩa/ tư bản chủ nghĩa"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sắp xếp từ còn thiếu vào chỗ trống: “Bạo loạn lật đổ là hành động chống phá bằng .............. có tổ chức do lực lượng ........... hay lực lượng ly khai đối lập trong nước tiến hành”",
+    "answers": [
+      "vũ lực/ ngoài nước",
+      "bạo lực/ trong nước",
+      "vũ lực/ phản động",
+      "bạo lực/ phản động"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Hoàn thiện câu sau: “Phòng chống chiến lược “Diễn biến hoà bình”, bạo loạn lật đổ là .......... trong các nhiệm vụ Quốc phòng - An ninh hiện nay.",
+    "answers": [
+      "cấp bách hàng đầu",
+      "đặc biệt quan trọng",
+      "quan trọng hàng đầu",
+      "nhiệm vụ hàng đầu"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra thủ đoạn của chiến lược “DBHB” trong giai đoạn từ năm 1975 đến 1994?",
+    "answers": [
+      "Ráo riết đẩy mạnh “DBHB”.",
+      "“Bao vây cấm vận kinh tế”, “cô lập về ngoại giao” kết hợp với “DBHB”, BLLĐ.",
+      "Tuyên bố xoá bỏ “cấm vận kinh tế” và bình thường hoá quan hệ để chuyển sang thủ đoạn mới, đẩy mạnh hoạt động xâm nhập như: “dính líu”, “ngầm”, “sâu, hiểm”.",
+      "Hợp tác cùng phát triển"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Em sẽ làm gì để trơ giúp khi địa phương tổ chức diễn tập chống BLLĐ?",
+    "answers": [
+      "Ngại không tham gia",
+      "Lôi kéo mọi người không tham gia",
+      "Rủ thêm bạn bè tham gia để có kiến thức và trải nghiệm",
+      "Trốn tránh nhiệm vụ khi được phân công"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Để góp phần làm thất bại chiến lược \"Diễn biến hoà bình\", bạo loạn lật đổ của các thế lực thù địch, em hãy lựa chọn giải pháp xây dựng ý thức bảo vệ Tổ quốc hiện nay?",
+    "answers": [
+      "Chủ động tiến công địch trên mọi lĩnh vực.",
+      "Ngăn chặn và đập tan mọi ý đồ răn đe, can thiệp vũ trang.",
+      "Tuyên truyền, giáo dục ý thức tham gia bảo vệ Tổ quốc cho toàn dân",
+      "Cảnh giác với mọi biến động chính trị"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Sinh viên cần làm gì để thể hiện quyết tâm phòng chống chiến lược \"Diễn biến hoà bình\", bạo loạn lật đổ của các thế lực thù địch?",
+    "answers": [
+      "Học tập nâng cao nhận thức về âm mưu, thủ đoạn “DBHB”, BLLĐ",
+      "Sống và làm việc theo Hiến pháp và pháp luật",
+      "Tin tưởng vào sự lãnh đạo của Đảng và Nhà nước",
+      "A, B, C đều đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Sinh viên cần làm gì để phối hợp với lực lượng chức năng khi phát hiện đối tượng phản động ở địa phương?",
+    "answers": [
+      "Báo ngay cho cơ quan công an gần nhất",
+      "Tò mò, bắt chuyện làm quen",
+      "Thu thập chứng cứ phản động bàn giao cho công an",
+      "A và C là phương án đúng"
+    ],
+    "correct": 3
+  },
+  {
+    "question": "Thái độ của em khi bị kẻ xấu lôi kéo vào hội nhóm phản động chống Nhà nước trên Facebook?",
+    "answers": [
+      "Tham gia cho biết",
+      "Hẹn một thời gian nữa tham gia",
+      "Báo cáo hội nhóm đó với Facebook, báo cho cơ quan công an",
+      "Rủ bạn bè tham gia cùng"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra giai đoạn thứ nhất của qua trình hình thành và phát triển chiến lược “Diễn biến hoà bình” diễn ra từ năm nào đến năm nào:",
+    "answers": [
+      "Từ năm 1960 đến năm 1980.",
+      "Từ năm 1980 đến năm 1990.",
+      "Từ năm 1945 đến năm 1980.",
+      "Từ năm 1945 đến năm 1995."
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chọn một trong những nội dung của thủ đoạn chống phá ta về chính trị của chiến lược “Diễn biến hoà bình”:",
+    "answers": [
+      "Đòi thực hịên “đa nguyên chính trị, đa đảng đối lập”.",
+      "Đòi thực hịên “chia rẽ Công an với Đảng và Nhân dân”.",
+      "Đòi thực hịên “thành lập Đảng dân chủ đối lập”.",
+      "B, C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chỉ ra một trong những nội dung của thủ đoạn chống phá ta về chính trị của chiến lược “Diễn biến hoà bình”:",
+    "answers": [
+      "Đòi thực hịên “tự do hoá mọi mặt đời sống xã hội” .",
+      "Đòi thực hịên “chia rẽ Quân đội với Công an và Nhân dân”.",
+      "Đòi thực hịên “tự do hoá nền kinh tế thị trường tự bản chủ nghĩa” .",
+      "B, C đều đúng"
+    ],
+    "correct": 0
+  },
+  {
+    "question": "Chọn một trong những nội dung của thủ đoạn chống phá ta về kinh tế của chiến lược “Diễn biến hoà bình”:",
+    "answers": [
+      "Đòi thực hịên “ tự do hoá nền kinh tế thị trường tự do”.",
+      "Từng bước làm mất vai trò chủ đạo của thành phần kinh tế Nhà nước.",
+      "Đòi thực hịên “chia rẽ Quân đội với Đảng và Nhân dân”.",
+      "A, C đều đúng"
+    ],
+    "correct": 1
+  },
+  {
+    "question": "Chọn một trong những nội dung của thủ đoạn chống phá ta về kinh tế của chiến lược  “Diễn biến hoà bình”:",
+    "answers": [
+      "Đặt ra các điều kiện và gây sức ép về chính trị.",
+      "Đặt ra các điều kiện và gây sức ép về quân sự.",
+      "Đặt ra các điều kiện và gây sức ép về đầu tư.",
+      "Đặt ra các điều kiện và gây sức ép về biển đảo"
+    ],
+    "correct": 2
+  },
+  {
+    "question": "Chỉ ra một trong những nội dung của thủ đoạn chống phá ta về tư tưởng-văn hoá của chiến lược “Diễn biến hoà bình”:",
+    "answers": [
+      "Từng bước can thiệp trắng trợn bằng sức mạnh quân sự để lật đổ nhà nước xã hội chủ nghĩa",
+      "Từng bước chuyển hoá nguồn vốn đầu tư theo con đường tư bản chủ nghĩa.",
+      "Ra sức truyền bá tư tưởng tư sản vào các tầng lớp nhân dân",
+      "A, B đều đúng"
+    ],
+    "correct": 2
+  }
+]
