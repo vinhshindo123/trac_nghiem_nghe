@@ -132,24 +132,28 @@ button:active {
 
 /* Palette căn giữa */
 #palette {
-    display: flex;
-    flex-wrap: wrap;
+    display: grid;
+    grid-template-columns: repeat(10, 1fr); 
     gap: 8px;
     justify-content: center;
     margin: 20px 0;
 }
 
 .p-btn {
-    width: 40px;
-    height: 40px;
+    width: 100%;
+    aspect-ratio: 1 / 1; /* giữ hình vuông */
     border-radius: 8px;
     border: 1px solid var(--border);
     background: var(--card-bg);
     display: flex;
     align-items: center;
     justify-content: center;
-    /* Căn giữa số trong ô vuông */
     font-weight: 600;
+}
+
+.p-btn.current {
+    border: 2px solid var(--primary);
+    background: #4c0ac8;
 }
 
 .p-btn.done {
@@ -168,4 +172,14 @@ button:active {
     text-align: center;
     padding: 30px;
     border-radius: 20px;
+}
+
+.p-btn.correct {
+    background: var(--success);
+    color: white;
+}
+
+.p-btn.wrong {
+    background: var(--error);
+    color: white;
 }
