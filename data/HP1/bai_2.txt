@@ -87,7 +87,7 @@
       "Để giành lấy chính quyền và bảo vệ chính quyền.",
       "Để lật đổ chế độ cũ."
     ],
-    "correct": 3
+    "correct": 2
   },
   {
     "question": "Câu 10: Theo tư tưởng Hồ Chí Minh, bạo lực cách mạng được tạo bởi:",
