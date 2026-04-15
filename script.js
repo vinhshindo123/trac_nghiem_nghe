@@ -7,34 +7,68 @@ const hpSelect = document.getElementById("hp-select");
 const quizSelect = document.getElementById("quiz-select");
 
 // Load danh sách bài theo học phần
-hpSelect.onchange = () => {
+hpSelect.onchange = async () => {
     const hp = hpSelect.value;
+    quizSelect.innerHTML = `<option value="">-- Đang tải danh sách bài... --</option>`;
 
-    quizSelect.innerHTML = `<option value="">-- Chọn bài --</option>`;
-
-    if (!hp) return;
-
-    // giả định mỗi HP có 2 bài
-    for (let i = 1; i <= 11; i++) {
-        quizSelect.innerHTML += `<option value="data/${hp}/bai_${i}.txt">Bài ${i}</option>`;
+    if (!hp) {
+        quizSelect.innerHTML = `<option value="">-- Chọn bài --</option>`;
+        return;
     }
+
+    let options = `<option value="">-- Chọn bài --</option>`;
+
+    // Giả định bài thi được đánh số liên tục từ 1, 
+    // chúng ta kiểm tra lần lượt cho đến khi file không tồn tại
+    let i = 1;
+    while (true) {
+        const filePath = `data/${hp}/bai_${i}.txt`;
+        try {
+            const response = await fetch(filePath, { method: 'HEAD' });
+            if (response.ok) {
+                options += `<option value="${filePath}">Bài ${i}</option>`;
+                i++;
+            } else {
+                break; // Dừng khi không tìm thấy file tiếp theo
+            }
+        } catch (e) {
+            break;
+        }
+    }
+
+    quizSelect.innerHTML = options;
 };
 
 // Load file TXT
 quizSelect.onchange = async () => {
     const file = quizSelect.value;
+    console.log("Loading file:", file);
     if (!file) return;
 
     try {
         const res = await fetch(file);
+        if (!res.ok) throw new Error("Không thể tải file");
+        
         const text = await res.text();
+        
+        // Kiểm tra xem text có rỗng không trước khi parse
+        if (!text.trim()) {
+            throw new Error("File rỗng!");
+        }
 
-        data = JSON.parse(text); // parse txt → JSON
+        data = JSON.parse(text); 
+        
+        // Kiểm tra xem data có phải là mảng không
+        if (!Array.isArray(data) || data.length === 0) {
+            throw new Error("Dữ liệu không đúng định dạng (cần là mảng JSON)");
+        }
 
         start();
     } catch (e) {
-        alert("❌ Lỗi đọc file! Kiểm tra format JSON hoặc chạy Live Server");
+        alert("❌ Lỗi: " + e.message);
         console.error(e);
+        // Reset app nếu lỗi
+        document.getElementById("app").classList.add("hidden");
     }
 };
 
