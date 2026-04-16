@@ -130,18 +130,22 @@ button:active {
     transform: scale(0.98);
 }
 
-/* Palette căn giữa */
+/* Palette - Cấu trúc lưới */
 #palette {
-    display: grid;
-    grid-template-columns: repeat(10, 1fr); 
-    gap: 8px;
-    justify-content: center;
+    display: flex;
+    flex-wrap: wrap; 
+    gap: 8px; /* Khoảng cách giữa các ô */
+    justify-content: flex-start; /* Căn trái để đảm bảo các hàng thẳng hàng */
     margin: 20px 0;
 }
 
 .p-btn {
-    width: 100%;
-    aspect-ratio: 1 / 1; /* giữ hình vuông */
+    /* Công thức: 
+       Trên điện thoại: 5 ô/hàng -> 1 hàng có 4 khoảng gap (8px * 4 = 32px)
+       Chiều rộng mỗi ô = (100% - 32px) / 5
+    */
+    width: calc((100% - 32px) / 5);
+    aspect-ratio: 1 / 1; 
     border-radius: 8px;
     border: 1px solid var(--border);
     background: var(--card-bg);
@@ -149,6 +153,16 @@ button:active {
     align-items: center;
     justify-content: center;
     font-weight: 600;
+    box-sizing: border-box;
+    cursor: pointer;
+    font-size: 0.9rem; /* Thêm font-size để số không quá to */
+}
+
+/* Màn hình máy tính: 10 ô/hàng -> 1 hàng có 9 khoảng gap (8px * 9 = 72px) */
+@media (min-width: 600px) {
+    .p-btn {
+        width: calc((100% - 72px) / 10);
+    }
 }
 
 .p-btn.current {
